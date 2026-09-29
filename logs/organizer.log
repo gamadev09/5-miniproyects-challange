@@ -17904,3 +17904,2351 @@
 [2026-09-29T16:57:42.432137] c454998b-dc54-43ac-943a-90b30d5bf568.json moved to / se movio a configuration
 [2026-09-29T16:57:42.434056500] §e§lBy§6§lInfiniteXgg§d§l[v9.9.2]§f(24-09-2026).zip -> archives
 [2026-09-29T16:57:42.435023300] §e§lBy§6§lInfiniteXgg§d§l[v9.9.2]§f(24-09-2026).zip moved to / se movio a archives
+[2026-09-29T17:02:34.088941100] .env -> configuration
+[2026-09-29T17:02:34.094314500] .env moved to / se movio a configuration
+[2026-09-29T17:02:34.098653100] .gitignore -> development
+[2026-09-29T17:02:34.099923400] .gitignore moved to / se movio a development
+[2026-09-29T17:02:34.099923400] .token_cache.json -> configuration
+[2026-09-29T17:02:34.099923400] .token_cache.json moved to / se movio a configuration
+[2026-09-29T17:02:34.099923400] 0.mcfunction -> unknown
+[2026-09-29T17:02:34.103454400] Skipped unknown file. / Archivo desconocido omitido: 0.mcfunction
+[2026-09-29T17:02:34.104465] 1.mcfunction -> unknown
+[2026-09-29T17:02:34.104465] Skipped unknown file. / Archivo desconocido omitido: 1.mcfunction
+[2026-09-29T17:02:34.105208700] 1.yves -> unknown
+[2026-09-29T17:02:34.105208700] Skipped unknown file. / Archivo desconocido omitido: 1.yves
+[2026-09-29T17:02:34.106226700] 10.mcfunction -> unknown
+[2026-09-29T17:02:34.106226700] Skipped unknown file. / Archivo desconocido omitido: 10.mcfunction
+[2026-09-29T17:02:34.106226700] 10.yves -> unknown
+[2026-09-29T17:02:34.107235900] Skipped unknown file. / Archivo desconocido omitido: 10.yves
+[2026-09-29T17:02:34.107235900] 100game.json -> configuration
+[2026-09-29T17:02:34.108241100] 100game.json moved to / se movio a configuration
+[2026-09-29T17:02:34.109236400] 100punch.json -> configuration
+[2026-09-29T17:02:34.111093700] 100punch.json moved to / se movio a configuration
+[2026-09-29T17:02:34.111093700] 11.mcfunction -> unknown
+[2026-09-29T17:02:34.112099200] Skipped unknown file. / Archivo desconocido omitido: 11.mcfunction
+[2026-09-29T17:02:34.112099200] 11.yves -> unknown
+[2026-09-29T17:02:34.113099600] Skipped unknown file. / Archivo desconocido omitido: 11.yves
+[2026-09-29T17:02:34.113099600] 12.mcfunction -> unknown
+[2026-09-29T17:02:34.114100300] Skipped unknown file. / Archivo desconocido omitido: 12.mcfunction
+[2026-09-29T17:02:34.114100300] 12.yves -> unknown
+[2026-09-29T17:02:34.114804600] Skipped unknown file. / Archivo desconocido omitido: 12.yves
+[2026-09-29T17:02:34.115392900] 13.mcfunction -> unknown
+[2026-09-29T17:02:34.116408400] Skipped unknown file. / Archivo desconocido omitido: 13.mcfunction
+[2026-09-29T17:02:34.116408400] 13.yves -> unknown
+[2026-09-29T17:02:34.117181500] Skipped unknown file. / Archivo desconocido omitido: 13.yves
+[2026-09-29T17:02:34.117181500] 14.mcfunction -> unknown
+[2026-09-29T17:02:34.119791800] Skipped unknown file. / Archivo desconocido omitido: 14.mcfunction
+[2026-09-29T17:02:34.120996400] 14.yves -> unknown
+[2026-09-29T17:02:34.120996400] Skipped unknown file. / Archivo desconocido omitido: 14.yves
+[2026-09-29T17:02:34.122025] 15.mcfunction -> unknown
+[2026-09-29T17:02:34.122025] Skipped unknown file. / Archivo desconocido omitido: 15.mcfunction
+[2026-09-29T17:02:34.123018100] 15.yves -> unknown
+[2026-09-29T17:02:34.123529600] Skipped unknown file. / Archivo desconocido omitido: 15.yves
+[2026-09-29T17:02:34.123529600] 16.mcfunction -> unknown
+[2026-09-29T17:02:34.123529600] Skipped unknown file. / Archivo desconocido omitido: 16.mcfunction
+[2026-09-29T17:02:34.124719400] 16.yves -> unknown
+[2026-09-29T17:02:34.124719400] Skipped unknown file. / Archivo desconocido omitido: 16.yves
+[2026-09-29T17:02:34.125737600] 17.mcfunction -> unknown
+[2026-09-29T17:02:34.126824] Skipped unknown file. / Archivo desconocido omitido: 17.mcfunction
+[2026-09-29T17:02:34.127598700] 17.yves -> unknown
+[2026-09-29T17:02:34.127598700] Skipped unknown file. / Archivo desconocido omitido: 17.yves
+[2026-09-29T17:02:34.127598700] 18.mcfunction -> unknown
+[2026-09-29T17:02:34.127598700] Skipped unknown file. / Archivo desconocido omitido: 18.mcfunction
+[2026-09-29T17:02:34.129109900] 18.yves -> unknown
+[2026-09-29T17:02:34.129109900] Skipped unknown file. / Archivo desconocido omitido: 18.yves
+[2026-09-29T17:02:34.130120300] 19.mcfunction -> unknown
+[2026-09-29T17:02:34.130120300] Skipped unknown file. / Archivo desconocido omitido: 19.mcfunction
+[2026-09-29T17:02:34.131464100] 19.yves -> unknown
+[2026-09-29T17:02:34.131464100] Skipped unknown file. / Archivo desconocido omitido: 19.yves
+[2026-09-29T17:02:34.131464100] 19a0c588468.90707808b56beaee.png -> images
+[2026-09-29T17:02:34.133763400] 19a0c588468.90707808b56beaee.png moved to / se movio a images
+[2026-09-29T17:02:34.133763400] 19a0c5e4942.bdb6ef4b192ebb33.png -> images
+[2026-09-29T17:02:34.133763400] 19a0c5e4942.bdb6ef4b192ebb33.png moved to / se movio a images
+[2026-09-29T17:02:34.133763400] 19a0c61676b.80620952c93c1289.png -> images
+[2026-09-29T17:02:34.139942100] 19a0c61676b.80620952c93c1289.png moved to / se movio a images
+[2026-09-29T17:02:34.139942100] 19a0c654ec2.bc8ae4db1701631f.png -> images
+[2026-09-29T17:02:34.140726100] 19a0c654ec2.bc8ae4db1701631f.png moved to / se movio a images
+[2026-09-29T17:02:34.140726100] 19a0c78562d.970bb0bbe99feafa.png -> images
+[2026-09-29T17:02:34.140726100] 19a0c78562d.970bb0bbe99feafa.png moved to / se movio a images
+[2026-09-29T17:02:34.140726100] 19a0c7b4687.a20a00a9f82f2eb1 1.png -> images
+[2026-09-29T17:02:34.140726100] 19a0c7b4687.a20a00a9f82f2eb1 1.png moved to / se movio a images
+[2026-09-29T17:02:34.140726100] 19a0c7b4687.a20a00a9f82f2eb1.png -> images
+[2026-09-29T17:02:34.140726100] 19a0c7b4687.a20a00a9f82f2eb1.png moved to / se movio a images
+[2026-09-29T17:02:34.146991800] 19a0c7e90f0.82c316e4917dd5e9.png -> images
+[2026-09-29T17:02:34.146991800] 19a0c7e90f0.82c316e4917dd5e9.png moved to / se movio a images
+[2026-09-29T17:02:34.149219700] 19a11da6762.8de3f1532b00cd61 1.png -> images
+[2026-09-29T17:02:34.151046400] 19a11da6762.8de3f1532b00cd61 1.png moved to / se movio a images
+[2026-09-29T17:02:34.151046400] 19a11da6762.8de3f1532b00cd61.png -> images
+[2026-09-29T17:02:34.154233500] 19a11da6762.8de3f1532b00cd61.png moved to / se movio a images
+[2026-09-29T17:02:34.155047900] 19c6c053359.9e19f597105ca689 1.png -> images
+[2026-09-29T17:02:34.155509200] 19c6c053359.9e19f597105ca689 1.png moved to / se movio a images
+[2026-09-29T17:02:34.156518300] 19c6c053359.9e19f597105ca689.png -> images
+[2026-09-29T17:02:34.156518300] 19c6c053359.9e19f597105ca689.png moved to / se movio a images
+[2026-09-29T17:02:34.156518300] 1v1.json -> configuration
+[2026-09-29T17:02:34.159598700] 1v1.json moved to / se movio a configuration
+[2026-09-29T17:02:34.160940600] 2.mcfunction -> unknown
+[2026-09-29T17:02:34.160940600] Skipped unknown file. / Archivo desconocido omitido: 2.mcfunction
+[2026-09-29T17:02:34.161948100] 2.yves -> unknown
+[2026-09-29T17:02:34.161948100] Skipped unknown file. / Archivo desconocido omitido: 2.yves
+[2026-09-29T17:02:34.161948100] 20.mcfunction -> unknown
+[2026-09-29T17:02:34.162948200] Skipped unknown file. / Archivo desconocido omitido: 20.mcfunction
+[2026-09-29T17:02:34.162948200] 20.yves -> unknown
+[2026-09-29T17:02:34.163948] Skipped unknown file. / Archivo desconocido omitido: 20.yves
+[2026-09-29T17:02:34.163948] 2026-09-16__10-36-22_DDULog.xml -> configuration
+[2026-09-29T17:02:34.164948] 2026-09-16__10-36-22_DDULog.xml moved to / se movio a configuration
+[2026-09-29T17:02:34.164948] 2026-09-16__10-48-44_DDULog.xml -> configuration
+[2026-09-29T17:02:34.166956] 2026-09-16__10-48-44_DDULog.xml moved to / se movio a configuration
+[2026-09-29T17:02:34.167955500] 2026-09-18-11-21-12-686.jpg -> images
+[2026-09-29T17:02:34.170286400] 2026-09-18-11-21-12-686.jpg moved to / se movio a images
+[2026-09-29T17:02:34.170888900] 2026-09-18-11-34-32-334.jpg -> images
+[2026-09-29T17:02:34.171896100] 2026-09-18-11-34-32-334.jpg moved to / se movio a images
+[2026-09-29T17:02:34.172899400] 2026-09-18-12-15-05-258.jpg -> images
+[2026-09-29T17:02:34.174155400] 2026-09-18-12-15-05-258.jpg moved to / se movio a images
+[2026-09-29T17:02:34.175162400] 2026-09-18-12-23-53-571.jpg -> images
+[2026-09-29T17:02:34.176163200] 2026-09-18-12-23-53-571.jpg moved to / se movio a images
+[2026-09-29T17:02:34.177163400] 21.mcfunction -> unknown
+[2026-09-29T17:02:34.177163400] Skipped unknown file. / Archivo desconocido omitido: 21.mcfunction
+[2026-09-29T17:02:34.177163400] 21.yves -> unknown
+[2026-09-29T17:02:34.178162600] Skipped unknown file. / Archivo desconocido omitido: 21.yves
+[2026-09-29T17:02:34.178876200] 22.mcfunction -> unknown
+[2026-09-29T17:02:34.179612300] Skipped unknown file. / Archivo desconocido omitido: 22.mcfunction
+[2026-09-29T17:02:34.179612300] 22.yves -> unknown
+[2026-09-29T17:02:34.179612300] Skipped unknown file. / Archivo desconocido omitido: 22.yves
+[2026-09-29T17:02:34.180616500] 23.mcfunction -> unknown
+[2026-09-29T17:02:34.181251400] Skipped unknown file. / Archivo desconocido omitido: 23.mcfunction
+[2026-09-29T17:02:34.183103800] 23.yves -> unknown
+[2026-09-29T17:02:34.184106200] Skipped unknown file. / Archivo desconocido omitido: 23.yves
+[2026-09-29T17:02:34.185458300] 24.mcfunction -> unknown
+[2026-09-29T17:02:34.185898200] Skipped unknown file. / Archivo desconocido omitido: 24.mcfunction
+[2026-09-29T17:02:34.186905900] 24.yves -> unknown
+[2026-09-29T17:02:34.186905900] Skipped unknown file. / Archivo desconocido omitido: 24.yves
+[2026-09-29T17:02:34.187922700] 25.mcfunction -> unknown
+[2026-09-29T17:02:34.188899300] Skipped unknown file. / Archivo desconocido omitido: 25.mcfunction
+[2026-09-29T17:02:34.188899300] 25.yves -> unknown
+[2026-09-29T17:02:34.189733500] Skipped unknown file. / Archivo desconocido omitido: 25.yves
+[2026-09-29T17:02:34.189733500] 26.mcfunction -> unknown
+[2026-09-29T17:02:34.189733500] Skipped unknown file. / Archivo desconocido omitido: 26.mcfunction
+[2026-09-29T17:02:34.189733500] 26.yves -> unknown
+[2026-09-29T17:02:34.189733500] Skipped unknown file. / Archivo desconocido omitido: 26.yves
+[2026-09-29T17:02:34.189733500] 27.mcfunction -> unknown
+[2026-09-29T17:02:34.189733500] Skipped unknown file. / Archivo desconocido omitido: 27.mcfunction
+[2026-09-29T17:02:34.189733500] 27.yves -> unknown
+[2026-09-29T17:02:34.193652200] Skipped unknown file. / Archivo desconocido omitido: 27.yves
+[2026-09-29T17:02:34.193652200] 28.mcfunction -> unknown
+[2026-09-29T17:02:34.193652200] Skipped unknown file. / Archivo desconocido omitido: 28.mcfunction
+[2026-09-29T17:02:34.193652200] 28.yves -> unknown
+[2026-09-29T17:02:34.195135200] Skipped unknown file. / Archivo desconocido omitido: 28.yves
+[2026-09-29T17:02:34.195135200] 29.mcfunction -> unknown
+[2026-09-29T17:02:34.195135200] Skipped unknown file. / Archivo desconocido omitido: 29.mcfunction
+[2026-09-29T17:02:34.196144600] 29.yves -> unknown
+[2026-09-29T17:02:34.196144600] Skipped unknown file. / Archivo desconocido omitido: 29.yves
+[2026-09-29T17:02:34.196144600] 2_004-Algoritmos_Ordenamiento.pdf -> documents
+[2026-09-29T17:02:34.198146200] 2_004-Algoritmos_Ordenamiento.pdf moved to / se movio a documents
+[2026-09-29T17:02:34.198146200] 3.mcfunction -> unknown
+[2026-09-29T17:02:34.199146500] Skipped unknown file. / Archivo desconocido omitido: 3.mcfunction
+[2026-09-29T17:02:34.200018800] 3.yves -> unknown
+[2026-09-29T17:02:34.200570700] Skipped unknown file. / Archivo desconocido omitido: 3.yves
+[2026-09-29T17:02:34.203262900] 30 miniproyects challange.md -> documents
+[2026-09-29T17:02:34.204650500] 30 miniproyects challange.md moved to / se movio a documents
+[2026-09-29T17:02:34.205654400] 30.mcfunction -> unknown
+[2026-09-29T17:02:34.205654400] Skipped unknown file. / Archivo desconocido omitido: 30.mcfunction
+[2026-09-29T17:02:34.205654400] 30.yves -> unknown
+[2026-09-29T17:02:34.207108900] Skipped unknown file. / Archivo desconocido omitido: 30.yves
+[2026-09-29T17:02:34.207108900] 31.mcfunction -> unknown
+[2026-09-29T17:02:34.207108900] Skipped unknown file. / Archivo desconocido omitido: 31.mcfunction
+[2026-09-29T17:02:34.207108900] 31.yves -> unknown
+[2026-09-29T17:02:34.209115500] Skipped unknown file. / Archivo desconocido omitido: 31.yves
+[2026-09-29T17:02:34.209115500] 32.mcfunction -> unknown
+[2026-09-29T17:02:34.209115500] Skipped unknown file. / Archivo desconocido omitido: 32.mcfunction
+[2026-09-29T17:02:34.209115500] 32.yves -> unknown
+[2026-09-29T17:02:34.210643200] Skipped unknown file. / Archivo desconocido omitido: 32.yves
+[2026-09-29T17:02:34.210643200] 33.mcfunction -> unknown
+[2026-09-29T17:02:34.210643200] Skipped unknown file. / Archivo desconocido omitido: 33.mcfunction
+[2026-09-29T17:02:34.210643200] 33.yves -> unknown
+[2026-09-29T17:02:34.210643200] Skipped unknown file. / Archivo desconocido omitido: 33.yves
+[2026-09-29T17:02:34.212652200] 34.mcfunction -> unknown
+[2026-09-29T17:02:34.212652200] Skipped unknown file. / Archivo desconocido omitido: 34.mcfunction
+[2026-09-29T17:02:34.213496700] 34.yves -> unknown
+[2026-09-29T17:02:34.213496700] Skipped unknown file. / Archivo desconocido omitido: 34.yves
+[2026-09-29T17:02:34.214506900] 35.mcfunction -> unknown
+[2026-09-29T17:02:34.214506900] Skipped unknown file. / Archivo desconocido omitido: 35.mcfunction
+[2026-09-29T17:02:34.214506900] 35.yves -> unknown
+[2026-09-29T17:02:34.215508700] Skipped unknown file. / Archivo desconocido omitido: 35.yves
+[2026-09-29T17:02:34.215508700] 36.mcfunction -> unknown
+[2026-09-29T17:02:34.216509700] Skipped unknown file. / Archivo desconocido omitido: 36.mcfunction
+[2026-09-29T17:02:34.217064800] 36.yves -> unknown
+[2026-09-29T17:02:34.218138900] Skipped unknown file. / Archivo desconocido omitido: 36.yves
+[2026-09-29T17:02:34.219153200] 37.mcfunction -> unknown
+[2026-09-29T17:02:34.219153200] Skipped unknown file. / Archivo desconocido omitido: 37.mcfunction
+[2026-09-29T17:02:34.219153200] 37.yves -> unknown
+[2026-09-29T17:02:34.219153200] Skipped unknown file. / Archivo desconocido omitido: 37.yves
+[2026-09-29T17:02:34.219153200] 38.mcfunction -> unknown
+[2026-09-29T17:02:34.219153200] Skipped unknown file. / Archivo desconocido omitido: 38.mcfunction
+[2026-09-29T17:02:34.219153200] 38.yves -> unknown
+[2026-09-29T17:02:34.219153200] Skipped unknown file. / Archivo desconocido omitido: 38.yves
+[2026-09-29T17:02:34.219153200] 39.mcfunction -> unknown
+[2026-09-29T17:02:34.224259100] Skipped unknown file. / Archivo desconocido omitido: 39.mcfunction
+[2026-09-29T17:02:34.225268] 39.yves -> unknown
+[2026-09-29T17:02:34.225268] Skipped unknown file. / Archivo desconocido omitido: 39.yves
+[2026-09-29T17:02:34.225268] 3secret1.json -> configuration
+[2026-09-29T17:02:34.226266500] 3secret1.json moved to / se movio a configuration
+[2026-09-29T17:02:34.227266] 4.mcfunction -> unknown
+[2026-09-29T17:02:34.227266] Skipped unknown file. / Archivo desconocido omitido: 4.mcfunction
+[2026-09-29T17:02:34.227266] 4.yves -> unknown
+[2026-09-29T17:02:34.228270300] Skipped unknown file. / Archivo desconocido omitido: 4.yves
+[2026-09-29T17:02:34.228270300] 40.mcfunction -> unknown
+[2026-09-29T17:02:34.228794600] Skipped unknown file. / Archivo desconocido omitido: 40.mcfunction
+[2026-09-29T17:02:34.228794600] 40.yves -> unknown
+[2026-09-29T17:02:34.228794600] Skipped unknown file. / Archivo desconocido omitido: 40.yves
+[2026-09-29T17:02:34.230617300] 41.mcfunction -> unknown
+[2026-09-29T17:02:34.230617300] Skipped unknown file. / Archivo desconocido omitido: 41.mcfunction
+[2026-09-29T17:02:34.231138] 41.yves -> unknown
+[2026-09-29T17:02:34.231643800] Skipped unknown file. / Archivo desconocido omitido: 41.yves
+[2026-09-29T17:02:34.231643800] 42.mcfunction -> unknown
+[2026-09-29T17:02:34.231643800] Skipped unknown file. / Archivo desconocido omitido: 42.mcfunction
+[2026-09-29T17:02:34.232877500] 42.yves -> unknown
+[2026-09-29T17:02:34.232877500] Skipped unknown file. / Archivo desconocido omitido: 42.yves
+[2026-09-29T17:02:34.233379900] 43.mcfunction -> unknown
+[2026-09-29T17:02:34.235527400] Skipped unknown file. / Archivo desconocido omitido: 43.mcfunction
+[2026-09-29T17:02:34.235527400] 43.yves -> unknown
+[2026-09-29T17:02:34.236530800] Skipped unknown file. / Archivo desconocido omitido: 43.yves
+[2026-09-29T17:02:34.236530800] 44.mcfunction -> unknown
+[2026-09-29T17:02:34.237525300] Skipped unknown file. / Archivo desconocido omitido: 44.mcfunction
+[2026-09-29T17:02:34.237525300] 44.yves -> unknown
+[2026-09-29T17:02:34.237525300] Skipped unknown file. / Archivo desconocido omitido: 44.yves
+[2026-09-29T17:02:34.238758600] 45.mcfunction -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 45.mcfunction
+[2026-09-29T17:02:34.239267200] 45.yves -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 45.yves
+[2026-09-29T17:02:34.239267200] 46.mcfunction -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 46.mcfunction
+[2026-09-29T17:02:34.239267200] 46.yves -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 46.yves
+[2026-09-29T17:02:34.239267200] 47.mcfunction -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 47.mcfunction
+[2026-09-29T17:02:34.239267200] 47.yves -> unknown
+[2026-09-29T17:02:34.239267200] Skipped unknown file. / Archivo desconocido omitido: 47.yves
+[2026-09-29T17:02:34.243997500] 48.mcfunction -> unknown
+[2026-09-29T17:02:34.243997500] Skipped unknown file. / Archivo desconocido omitido: 48.mcfunction
+[2026-09-29T17:02:34.243997500] 48.yves -> unknown
+[2026-09-29T17:02:34.245004200] Skipped unknown file. / Archivo desconocido omitido: 48.yves
+[2026-09-29T17:02:34.245004200] 49.mcfunction -> unknown
+[2026-09-29T17:02:34.245004200] Skipped unknown file. / Archivo desconocido omitido: 49.mcfunction
+[2026-09-29T17:02:34.246003500] 49.yves -> unknown
+[2026-09-29T17:02:34.246003500] Skipped unknown file. / Archivo desconocido omitido: 49.yves
+[2026-09-29T17:02:34.246003500] 5.mcfunction -> unknown
+[2026-09-29T17:02:34.247003200] Skipped unknown file. / Archivo desconocido omitido: 5.mcfunction
+[2026-09-29T17:02:34.247003200] 5.yves -> unknown
+[2026-09-29T17:02:34.247003200] Skipped unknown file. / Archivo desconocido omitido: 5.yves
+[2026-09-29T17:02:34.248004500] 50.mcfunction -> unknown
+[2026-09-29T17:02:34.248004500] Skipped unknown file. / Archivo desconocido omitido: 50.mcfunction
+[2026-09-29T17:02:34.249526200] 50.yves -> unknown
+[2026-09-29T17:02:34.249526200] Skipped unknown file. / Archivo desconocido omitido: 50.yves
+[2026-09-29T17:02:34.251065600] 51.mcfunction -> unknown
+[2026-09-29T17:02:34.251627400] Skipped unknown file. / Archivo desconocido omitido: 51.mcfunction
+[2026-09-29T17:02:34.252643900] 51.yves -> unknown
+[2026-09-29T17:02:34.253656600] Skipped unknown file. / Archivo desconocido omitido: 51.yves
+[2026-09-29T17:02:34.254401800] 52.mcfunction -> unknown
+[2026-09-29T17:02:34.254950400] Skipped unknown file. / Archivo desconocido omitido: 52.mcfunction
+[2026-09-29T17:02:34.254950400] 52.yves -> unknown
+[2026-09-29T17:02:34.254950400] Skipped unknown file. / Archivo desconocido omitido: 52.yves
+[2026-09-29T17:02:34.255957800] 53.mcfunction -> unknown
+[2026-09-29T17:02:34.255957800] Skipped unknown file. / Archivo desconocido omitido: 53.mcfunction
+[2026-09-29T17:02:34.255957800] 53.yves -> unknown
+[2026-09-29T17:02:34.255957800] Skipped unknown file. / Archivo desconocido omitido: 53.yves
+[2026-09-29T17:02:34.255957800] 54.mcfunction -> unknown
+[2026-09-29T17:02:34.255957800] Skipped unknown file. / Archivo desconocido omitido: 54.mcfunction
+[2026-09-29T17:02:34.255957800] 54.yves -> unknown
+[2026-09-29T17:02:34.258992800] Skipped unknown file. / Archivo desconocido omitido: 54.yves
+[2026-09-29T17:02:34.258992800] 55.mcfunction -> unknown
+[2026-09-29T17:02:34.258992800] Skipped unknown file. / Archivo desconocido omitido: 55.mcfunction
+[2026-09-29T17:02:34.260502] 55.yves -> unknown
+[2026-09-29T17:02:34.260502] Skipped unknown file. / Archivo desconocido omitido: 55.yves
+[2026-09-29T17:02:34.260502] 56.mcfunction -> unknown
+[2026-09-29T17:02:34.261511600] Skipped unknown file. / Archivo desconocido omitido: 56.mcfunction
+[2026-09-29T17:02:34.261511600] 56.yves -> unknown
+[2026-09-29T17:02:34.261511600] Skipped unknown file. / Archivo desconocido omitido: 56.yves
+[2026-09-29T17:02:34.261511600] 57.mcfunction -> unknown
+[2026-09-29T17:02:34.261511600] Skipped unknown file. / Archivo desconocido omitido: 57.mcfunction
+[2026-09-29T17:02:34.263017500] 57.yves -> unknown
+[2026-09-29T17:02:34.263017500] Skipped unknown file. / Archivo desconocido omitido: 57.yves
+[2026-09-29T17:02:34.263017500] 58.mcfunction -> unknown
+[2026-09-29T17:02:34.264024900] Skipped unknown file. / Archivo desconocido omitido: 58.mcfunction
+[2026-09-29T17:02:34.264580800] 58.yves -> unknown
+[2026-09-29T17:02:34.264580800] Skipped unknown file. / Archivo desconocido omitido: 58.yves
+[2026-09-29T17:02:34.265280500] 59.mcfunction -> unknown
+[2026-09-29T17:02:34.265280500] Skipped unknown file. / Archivo desconocido omitido: 59.mcfunction
+[2026-09-29T17:02:34.266294100] 59.yves -> unknown
+[2026-09-29T17:02:34.267001200] Skipped unknown file. / Archivo desconocido omitido: 59.yves
+[2026-09-29T17:02:34.267001200] 6.mcfunction -> unknown
+[2026-09-29T17:02:34.267001200] Skipped unknown file. / Archivo desconocido omitido: 6.mcfunction
+[2026-09-29T17:02:34.269013300] 6.yves -> unknown
+[2026-09-29T17:02:34.269013300] Skipped unknown file. / Archivo desconocido omitido: 6.yves
+[2026-09-29T17:02:34.269013300] 60.mcfunction -> unknown
+[2026-09-29T17:02:34.271079300] Skipped unknown file. / Archivo desconocido omitido: 60.mcfunction
+[2026-09-29T17:02:34.271079300] 60.yves -> unknown
+[2026-09-29T17:02:34.271079300] Skipped unknown file. / Archivo desconocido omitido: 60.yves
+[2026-09-29T17:02:34.272087100] 61.mcfunction -> unknown
+[2026-09-29T17:02:34.272087100] Skipped unknown file. / Archivo desconocido omitido: 61.mcfunction
+[2026-09-29T17:02:34.272836200] 61.yves -> unknown
+[2026-09-29T17:02:34.272836200] Skipped unknown file. / Archivo desconocido omitido: 61.yves
+[2026-09-29T17:02:34.273344800] 62.mcfunction -> unknown
+[2026-09-29T17:02:34.273344800] Skipped unknown file. / Archivo desconocido omitido: 62.mcfunction
+[2026-09-29T17:02:34.274350600] 62.yves -> unknown
+[2026-09-29T17:02:34.274350600] Skipped unknown file. / Archivo desconocido omitido: 62.yves
+[2026-09-29T17:02:34.274350600] 63.mcfunction -> unknown
+[2026-09-29T17:02:34.274350600] Skipped unknown file. / Archivo desconocido omitido: 63.mcfunction
+[2026-09-29T17:02:34.275353100] 63.yves -> unknown
+[2026-09-29T17:02:34.275815600] Skipped unknown file. / Archivo desconocido omitido: 63.yves
+[2026-09-29T17:02:34.275815600] 64.mcfunction -> unknown
+[2026-09-29T17:02:34.275815600] Skipped unknown file. / Archivo desconocido omitido: 64.mcfunction
+[2026-09-29T17:02:34.275815600] 64.yves -> unknown
+[2026-09-29T17:02:34.275815600] Skipped unknown file. / Archivo desconocido omitido: 64.yves
+[2026-09-29T17:02:34.275815600] 65.mcfunction -> unknown
+[2026-09-29T17:02:34.275815600] Skipped unknown file. / Archivo desconocido omitido: 65.mcfunction
+[2026-09-29T17:02:34.278323100] 65.yves -> unknown
+[2026-09-29T17:02:34.278853300] Skipped unknown file. / Archivo desconocido omitido: 65.yves
+[2026-09-29T17:02:34.278853300] 66.mcfunction -> unknown
+[2026-09-29T17:02:34.278853300] Skipped unknown file. / Archivo desconocido omitido: 66.mcfunction
+[2026-09-29T17:02:34.278853300] 66.yves -> unknown
+[2026-09-29T17:02:34.278853300] Skipped unknown file. / Archivo desconocido omitido: 66.yves
+[2026-09-29T17:02:34.280578] 67.mcfunction -> unknown
+[2026-09-29T17:02:34.281264800] Skipped unknown file. / Archivo desconocido omitido: 67.mcfunction
+[2026-09-29T17:02:34.281264800] 68.mcfunction -> unknown
+[2026-09-29T17:02:34.281264800] Skipped unknown file. / Archivo desconocido omitido: 68.mcfunction
+[2026-09-29T17:02:34.282772300] 69.mcfunction -> unknown
+[2026-09-29T17:02:34.282772300] Skipped unknown file. / Archivo desconocido omitido: 69.mcfunction
+[2026-09-29T17:02:34.283784300] 7.mcfunction -> unknown
+[2026-09-29T17:02:34.285206700] Skipped unknown file. / Archivo desconocido omitido: 7.mcfunction
+[2026-09-29T17:02:34.286114900] 7.yves -> unknown
+[2026-09-29T17:02:34.286114900] Skipped unknown file. / Archivo desconocido omitido: 7.yves
+[2026-09-29T17:02:34.287422900] 70.mcfunction -> unknown
+[2026-09-29T17:02:34.288009100] Skipped unknown file. / Archivo desconocido omitido: 70.mcfunction
+[2026-09-29T17:02:34.288009100] 71.mcfunction -> unknown
+[2026-09-29T17:02:34.288009100] Skipped unknown file. / Archivo desconocido omitido: 71.mcfunction
+[2026-09-29T17:02:34.289018] 72.mcfunction -> unknown
+[2026-09-29T17:02:34.289018] Skipped unknown file. / Archivo desconocido omitido: 72.mcfunction
+[2026-09-29T17:02:34.290024800] 73.mcfunction -> unknown
+[2026-09-29T17:02:34.290024800] Skipped unknown file. / Archivo desconocido omitido: 73.mcfunction
+[2026-09-29T17:02:34.290024800] 74.mcfunction -> unknown
+[2026-09-29T17:02:34.291025900] Skipped unknown file. / Archivo desconocido omitido: 74.mcfunction
+[2026-09-29T17:02:34.291025900] 75.mcfunction -> unknown
+[2026-09-29T17:02:34.291025900] Skipped unknown file. / Archivo desconocido omitido: 75.mcfunction
+[2026-09-29T17:02:34.292030500] 76.mcfunction -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 76.mcfunction
+[2026-09-29T17:02:34.292030500] 77.mcfunction -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 77.mcfunction
+[2026-09-29T17:02:34.292030500] 78.mcfunction -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 78.mcfunction
+[2026-09-29T17:02:34.292030500] 79.mcfunction -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 79.mcfunction
+[2026-09-29T17:02:34.292030500] 7zDP_LZMA.cfg -> configuration
+[2026-09-29T17:02:34.292030500] 7zDP_LZMA.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.292030500] 8.mcfunction -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 8.mcfunction
+[2026-09-29T17:02:34.292030500] 8.yves -> unknown
+[2026-09-29T17:02:34.292030500] Skipped unknown file. / Archivo desconocido omitido: 8.yves
+[2026-09-29T17:02:34.292030500] 80.mcfunction -> unknown
+[2026-09-29T17:02:34.298206900] Skipped unknown file. / Archivo desconocido omitido: 80.mcfunction
+[2026-09-29T17:02:34.298206900] 81.mcfunction -> unknown
+[2026-09-29T17:02:34.299215700] Skipped unknown file. / Archivo desconocido omitido: 81.mcfunction
+[2026-09-29T17:02:34.299215700] 9.mcfunction -> unknown
+[2026-09-29T17:02:34.299215700] Skipped unknown file. / Archivo desconocido omitido: 9.mcfunction
+[2026-09-29T17:02:34.300668200] 9.yves -> unknown
+[2026-09-29T17:02:34.301775600] Skipped unknown file. / Archivo desconocido omitido: 9.yves
+[2026-09-29T17:02:34.301775600] ability1.mcfunction -> unknown
+[2026-09-29T17:02:34.302752900] Skipped unknown file. / Archivo desconocido omitido: ability1.mcfunction
+[2026-09-29T17:02:34.302752900] ability2.mcfunction -> unknown
+[2026-09-29T17:02:34.302752900] Skipped unknown file. / Archivo desconocido omitido: ability2.mcfunction
+[2026-09-29T17:02:34.302752900] ability3.mcfunction -> unknown
+[2026-09-29T17:02:34.302752900] Skipped unknown file. / Archivo desconocido omitido: ability3.mcfunction
+[2026-09-29T17:02:34.302752900] accessible-urls.txt -> documents
+[2026-09-29T17:02:34.302752900] accessible-urls.txt moved to / se movio a documents
+[2026-09-29T17:02:34.306549200] Actividad No. 4 - Estado de Resultado..docx -> documents
+[2026-09-29T17:02:34.306549200] Actividad No. 4 - Estado de Resultado..docx moved to / se movio a documents
+[2026-09-29T17:02:34.306549200] Activity.log -> logs
+[2026-09-29T17:02:34.309052500] Activity.log moved to / se movio a logs
+[2026-09-29T17:02:34.310060800] actujueguito.html -> programming
+[2026-09-29T17:02:34.311060600] actujueguito.html moved to / se movio a programming
+[2026-09-29T17:02:34.311060600] adb.exe -> executables
+[2026-09-29T17:02:34.312061200] adb.exe moved to / se movio a executables
+[2026-09-29T17:02:34.313062400] AdbWinApi.dll -> unknown
+[2026-09-29T17:02:34.313062400] Skipped unknown file. / Archivo desconocido omitido: AdbWinApi.dll
+[2026-09-29T17:02:34.313062400] AdbWinUsbApi.dll -> unknown
+[2026-09-29T17:02:34.313062400] Skipped unknown file. / Archivo desconocido omitido: AdbWinUsbApi.dll
+[2026-09-29T17:02:34.315135400] add.mcfunction -> unknown
+[2026-09-29T17:02:34.315135400] Skipped unknown file. / Archivo desconocido omitido: add.mcfunction
+[2026-09-29T17:02:34.316148200] addtime.mcfunction -> unknown
+[2026-09-29T17:02:34.316826700] Skipped unknown file. / Archivo desconocido omitido: addtime.mcfunction
+[2026-09-29T17:02:34.316826700] advancement.mcfunction -> unknown
+[2026-09-29T17:02:34.318834500] Skipped unknown file. / Archivo desconocido omitido: advancement.mcfunction
+[2026-09-29T17:02:34.319981100] afterkill.mcfunction -> unknown
+[2026-09-29T17:02:34.320666500] Skipped unknown file. / Archivo desconocido omitido: afterkill.mcfunction
+[2026-09-29T17:02:34.320666500] ai.mcfunction -> unknown
+[2026-09-29T17:02:34.320666500] Skipped unknown file. / Archivo desconocido omitido: ai.mcfunction
+[2026-09-29T17:02:34.321677400] air_or_light.json -> configuration
+[2026-09-29T17:02:34.322676500] air_or_light.json moved to / se movio a configuration
+[2026-09-29T17:02:34.322676500] Algoritmo de Banco.md -> documents
+[2026-09-29T17:02:34.323675100] Algoritmo de Banco.md moved to / se movio a documents
+[2026-09-29T17:02:34.323675100] all.mcfunction -> unknown
+[2026-09-29T17:02:34.324630600] Skipped unknown file. / Archivo desconocido omitido: all.mcfunction
+[2026-09-29T17:02:34.325253800] allboats.json -> configuration
+[2026-09-29T17:02:34.330967400] allboats.json moved to / se movio a configuration
+[2026-09-29T17:02:34.332937300] allend.json -> configuration
+[2026-09-29T17:02:34.339378300] allend.json moved to / se movio a configuration
+[2026-09-29T17:02:34.342070800] almond.mcfunction -> unknown
+[2026-09-29T17:02:34.343210100] Skipped unknown file. / Archivo desconocido omitido: almond.mcfunction
+[2026-09-29T17:02:34.344232600] almondwater.mcfunction -> unknown
+[2026-09-29T17:02:34.345232200] Skipped unknown file. / Archivo desconocido omitido: almondwater.mcfunction
+[2026-09-29T17:02:34.347226300] almond_drink.json -> configuration
+[2026-09-29T17:02:34.353314200] almond_drink.json moved to / se movio a configuration
+[2026-09-29T17:02:34.355194300] almond_water.json -> configuration
+[2026-09-29T17:02:34.356638500] almond_water.json moved to / se movio a configuration
+[2026-09-29T17:02:34.359230700] anim.mcfunction -> unknown
+[2026-09-29T17:02:34.360429700] Skipped unknown file. / Archivo desconocido omitido: anim.mcfunction
+[2026-09-29T17:02:34.361317500] antiguedad.cs -> programming
+[2026-09-29T17:02:34.362440] antiguedad.cs moved to / se movio a programming
+[2026-09-29T17:02:34.363441600] API Lyrics Extraction.md -> documents
+[2026-09-29T17:02:34.364955] API Lyrics Extraction.md moved to / se movio a documents
+[2026-09-29T17:02:34.364955] Application_EventLog.csv -> spreadsheets
+[2026-09-29T17:02:34.369195100] Application_EventLog.csv moved to / se movio a spreadsheets
+[2026-09-29T17:02:34.371098800] Application_EventLog.evtx -> unknown
+[2026-09-29T17:02:34.371098800] Skipped unknown file. / Archivo desconocido omitido: Application_EventLog.evtx
+[2026-09-29T17:02:34.371098800] apply.mcfunction -> unknown
+[2026-09-29T17:02:34.373374100] Skipped unknown file. / Archivo desconocido omitido: apply.mcfunction
+[2026-09-29T17:02:34.375405400] applydebug.mcfunction -> unknown
+[2026-09-29T17:02:34.378438100] Skipped unknown file. / Archivo desconocido omitido: applydebug.mcfunction
+[2026-09-29T17:02:34.379257500] applypatch-msg.sample -> unknown
+[2026-09-29T17:02:34.380270200] Skipped unknown file. / Archivo desconocido omitido: applypatch-msg.sample
+[2026-09-29T17:02:34.380996700] apply_default_pose.mcfunction -> unknown
+[2026-09-29T17:02:34.382011700] Skipped unknown file. / Archivo desconocido omitido: apply_default_pose.mcfunction
+[2026-09-29T17:02:34.383005600] apply_frame.mcfunction -> unknown
+[2026-09-29T17:02:34.383005600] Skipped unknown file. / Archivo desconocido omitido: apply_frame.mcfunction
+[2026-09-29T17:02:34.384167] Arabic.xml -> configuration
+[2026-09-29T17:02:34.386619700] Arabic.xml moved to / se movio a configuration
+[2026-09-29T17:02:34.387620700] AreasFG.cs -> programming
+[2026-09-29T17:02:34.387620700] AreasFG.cs moved to / se movio a programming
+[2026-09-29T17:02:34.389130900] arrive.mcfunction -> unknown
+[2026-09-29T17:02:34.390082900] Skipped unknown file. / Archivo desconocido omitido: arrive.mcfunction
+[2026-09-29T17:02:34.390916200] as_data_entity.mcfunction -> unknown
+[2026-09-29T17:02:34.390916200] Skipped unknown file. / Archivo desconocido omitido: as_data_entity.mcfunction
+[2026-09-29T17:02:34.390916200] as_root_entity.mcfunction -> unknown
+[2026-09-29T17:02:34.390916200] Skipped unknown file. / Archivo desconocido omitido: as_root_entity.mcfunction
+[2026-09-29T17:02:34.390916200] Atmoslogo.bmp -> images
+[2026-09-29T17:02:34.393086100] Atmoslogo.bmp moved to / se movio a images
+[2026-09-29T17:02:34.393086100] attack.mcfunction -> unknown
+[2026-09-29T17:02:34.393086100] Skipped unknown file. / Archivo desconocido omitido: attack.mcfunction
+[2026-09-29T17:02:34.393086100] auth.py -> programming
+[2026-09-29T17:02:34.393086100] auth.py moved to / se movio a programming
+[2026-09-29T17:02:34.393086100] Available_Sleepstates.txt -> documents
+[2026-09-29T17:02:34.398082300] Available_Sleepstates.txt moved to / se movio a documents
+[2026-09-29T17:02:34.399095400] axolotl.mcfunction -> unknown
+[2026-09-29T17:02:34.399095400] Skipped unknown file. / Archivo desconocido omitido: axolotl.mcfunction
+[2026-09-29T17:02:34.400353800] background.bmp -> images
+[2026-09-29T17:02:34.402418800] background.bmp moved to / se movio a images
+[2026-09-29T17:02:34.404210600] bacteriajump1.json -> configuration
+[2026-09-29T17:02:34.405247500] bacteriajump1.json moved to / se movio a configuration
+[2026-09-29T17:02:34.406256400] bad_ending.json -> configuration
+[2026-09-29T17:02:34.406256400] bad_ending.json moved to / se movio a configuration
+[2026-09-29T17:02:34.407685600] Battery_Report.html -> programming
+[2026-09-29T17:02:34.407685600] Battery_Report.html moved to / se movio a programming
+[2026-09-29T17:02:34.409197400] BCD.txt -> documents
+[2026-09-29T17:02:34.410687600] BCD.txt moved to / se movio a documents
+[2026-09-29T17:02:34.411328500] bible_import.exe -> executables
+[2026-09-29T17:02:34.412336300] bible_import.exe moved to / se movio a executables
+[2026-09-29T17:02:34.412336300] bible_import_WIN.zip -> archives
+[2026-09-29T17:02:34.413335100] bible_import_WIN.zip moved to / se movio a archives
+[2026-09-29T17:02:34.414337900] BIOS_Settings.txt -> documents
+[2026-09-29T17:02:34.415129200] BIOS_Settings.txt moved to / se movio a documents
+[2026-09-29T17:02:34.415129200] biskeydump_usb.bin -> executables
+[2026-09-29T17:02:34.417376600] biskeydump_usb.bin moved to / se movio a executables
+[2026-09-29T17:02:34.418888900] Bitlocker_PCRs.txt -> documents
+[2026-09-29T17:02:34.421080700] Bitlocker_PCRs.txt moved to / se movio a documents
+[2026-09-29T17:02:34.421080700] Bitlocker_Status.txt -> documents
+[2026-09-29T17:02:34.422700500] Bitlocker_Status.txt moved to / se movio a documents
+[2026-09-29T17:02:34.422700500] blocks.json -> configuration
+[2026-09-29T17:02:34.423711200] blocks.json moved to / se movio a configuration
+[2026-09-29T17:02:34.424711700] boot.img -> disk_images
+[2026-09-29T17:02:34.425710200] boot.img moved to / se movio a disk_images
+[2026-09-29T17:02:34.426709900] boxdeath.json -> configuration
+[2026-09-29T17:02:34.427737900] boxdeath.json moved to / se movio a configuration
+[2026-09-29T17:02:34.427737900] bpmpfw.bin -> executables
+[2026-09-29T17:02:34.429590] bpmpfw.bin moved to / se movio a executables
+[2026-09-29T17:02:34.430599100] bpmpfw_b01.bin -> executables
+[2026-09-29T17:02:34.431598] bpmpfw_b01.bin moved to / se movio a executables
+[2026-09-29T17:02:34.432599700] BradburyAPISubAgentService.00.log -> logs
+[2026-09-29T17:02:34.434030400] BradburyAPISubAgentService.00.log moved to / se movio a logs
+[2026-09-29T17:02:34.434030400] BradburySubAgent.log -> logs
+[2026-09-29T17:02:34.434030400] BradburySubAgent.log moved to / se movio a logs
+[2026-09-29T17:02:34.434030400] breadcrumbs.mcfunction -> unknown
+[2026-09-29T17:02:34.438919600] Skipped unknown file. / Archivo desconocido omitido: breadcrumbs.mcfunction
+[2026-09-29T17:02:34.438919600] Broadband_Adapter.txt -> documents
+[2026-09-29T17:02:34.438919600] Broadband_Adapter.txt moved to / se movio a documents
+[2026-09-29T17:02:34.438919600] bugfix.mcfunction -> unknown
+[2026-09-29T17:02:34.438919600] Skipped unknown file. / Archivo desconocido omitido: bugfix.mcfunction
+[2026-09-29T17:02:34.441571900] Bulgarian.xml -> configuration
+[2026-09-29T17:02:34.442581] Bulgarian.xml moved to / se movio a configuration
+[2026-09-29T17:02:34.442581] Burbuja.cs -> programming
+[2026-09-29T17:02:34.443582500] Burbuja.cs moved to / se movio a programming
+[2026-09-29T17:02:34.443582500] burn.json -> configuration
+[2026-09-29T17:02:34.444580300] burn.json moved to / se movio a configuration
+[2026-09-29T17:02:34.444580300] bypasscd.mcfunction -> unknown
+[2026-09-29T17:02:34.445580700] Skipped unknown file. / Archivo desconocido omitido: bypasscd.mcfunction
+[2026-09-29T17:02:34.445580700] c454998b-dc54-43ac-943a-90b30d5bf568.json -> configuration
+[2026-09-29T17:02:34.446579400] c454998b-dc54-43ac-943a-90b30d5bf568.json moved to / se movio a configuration
+[2026-09-29T17:02:34.447893700] Ca-1.cs -> programming
+[2026-09-29T17:02:34.448902100] Ca-1.cs moved to / se movio a programming
+[2026-09-29T17:02:34.448902100] Ca.cs -> programming
+[2026-09-29T17:02:34.450805400] Ca.cs moved to / se movio a programming
+[2026-09-29T17:02:34.450805400] Cadenas.cs -> programming
+[2026-09-29T17:02:34.452904300] Cadenas.cs moved to / se movio a programming
+[2026-09-29T17:02:34.452904300] cake.json -> configuration
+[2026-09-29T17:02:34.454807100] cake.json moved to / se movio a configuration
+[2026-09-29T17:02:34.454807100] Calificaciones Programacion Estructurada 1M1-SIS-S.xlsx -> spreadsheets
+[2026-09-29T17:02:34.455816700] Calificaciones Programacion Estructurada 1M1-SIS-S.xlsx moved to / se movio a spreadsheets
+[2026-09-29T17:02:34.456817300] camera.mcfunction -> unknown
+[2026-09-29T17:02:34.456817300] Skipped unknown file. / Archivo desconocido omitido: camera.mcfunction
+[2026-09-29T17:02:34.457816900] cammo.mcfunction -> unknown
+[2026-09-29T17:02:34.457816900] Skipped unknown file. / Archivo desconocido omitido: cammo.mcfunction
+[2026-09-29T17:02:34.458776] cam_check.json -> configuration
+[2026-09-29T17:02:34.459426800] cam_check.json moved to / se movio a configuration
+[2026-09-29T17:02:34.460438700] canva-design (1).pdf -> documents
+[2026-09-29T17:02:34.460438700] canva-design (1).pdf moved to / se movio a documents
+[2026-09-29T17:02:34.460438700] canva-design (2).pdf -> documents
+[2026-09-29T17:02:34.460438700] canva-design (2).pdf moved to / se movio a documents
+[2026-09-29T17:02:34.460438700] canva-design (3).pdf -> documents
+[2026-09-29T17:02:34.464424900] canva-design (3).pdf moved to / se movio a documents
+[2026-09-29T17:02:34.465432800] canva-design (4).pdf -> documents
+[2026-09-29T17:02:34.467438800] canva-design (4).pdf moved to / se movio a documents
+[2026-09-29T17:02:34.468162400] canva-design.pdf -> documents
+[2026-09-29T17:02:34.469495800] canva-design.pdf moved to / se movio a documents
+[2026-09-29T17:02:34.471282300] cat.mcfunction -> unknown
+[2026-09-29T17:02:34.471876900] Skipped unknown file. / Archivo desconocido omitido: cat.mcfunction
+[2026-09-29T17:02:34.471876900] Cedula.cs -> programming
+[2026-09-29T17:02:34.472884400] Cedula.cs moved to / se movio a programming
+[2026-09-29T17:02:34.472884400] chase.mcfunction -> unknown
+[2026-09-29T17:02:34.473882900] Skipped unknown file. / Archivo desconocido omitido: chase.mcfunction
+[2026-09-29T17:02:34.473882900] checkpoint1.mcfunction -> unknown
+[2026-09-29T17:02:34.473882900] Skipped unknown file. / Archivo desconocido omitido: checkpoint1.mcfunction
+[2026-09-29T17:02:34.474883800] check_rig_hash.mcfunction -> unknown
+[2026-09-29T17:02:34.474883800] Skipped unknown file. / Archivo desconocido omitido: check_rig_hash.mcfunction
+[2026-09-29T17:02:34.474883800] chess.json -> configuration
+[2026-09-29T17:02:34.476762400] chess.json moved to / se movio a configuration
+[2026-09-29T17:02:34.477159100] Chinese (Simplified).xml -> configuration
+[2026-09-29T17:02:34.477159100] Chinese (Simplified).xml moved to / se movio a configuration
+[2026-09-29T17:02:34.478672800] Chinese (Traditional).xml -> configuration
+[2026-09-29T17:02:34.479209] Chinese (Traditional).xml moved to / se movio a configuration
+[2026-09-29T17:02:34.479209] chocolate.mcfunction -> unknown
+[2026-09-29T17:02:34.480220400] Skipped unknown file. / Archivo desconocido omitido: chocolate.mcfunction
+[2026-09-29T17:02:34.480664200] chunks.dat -> unknown
+[2026-09-29T17:02:34.480664200] Skipped unknown file. / Archivo desconocido omitido: chunks.dat
+[2026-09-29T17:02:34.481695400] CInssL.cs -> programming
+[2026-09-29T17:02:34.482703900] CInssL.cs moved to / se movio a programming
+[2026-09-29T17:02:34.482703900] Circulo.cs -> programming
+[2026-09-29T17:02:34.483503200] Circulo.cs moved to / se movio a programming
+[2026-09-29T17:02:34.483503200] clases.csproj -> programming
+[2026-09-29T17:02:34.483503200] clases.csproj moved to / se movio a programming
+[2026-09-29T17:02:34.483503200] classroot.cfg -> configuration
+[2026-09-29T17:02:34.487675200] classroot.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.487675200] classrootgfe.cfg -> configuration
+[2026-09-29T17:02:34.489184400] classrootgfe.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.490193700] clear.mcfunction -> unknown
+[2026-09-29T17:02:34.490193700] Skipped unknown file. / Archivo desconocido omitido: clear.mcfunction
+[2026-09-29T17:02:34.490193700] clsidleftover.cfg -> configuration
+[2026-09-29T17:02:34.491194800] clsidleftover.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.492192800] clsidleftoverGFE.cfg -> configuration
+[2026-09-29T17:02:34.493542400] clsidleftoverGFE.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.493870] clsidleftoverigs.cfg -> configuration
+[2026-09-29T17:02:34.494300800] clsidleftoverigs.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.495307300] clsidleftoverNVB.cfg -> configuration
+[2026-09-29T17:02:34.495307300] clsidleftoverNVB.cfg moved to / se movio a configuration
+[2026-09-29T17:02:34.496307500] Color palette.md -> documents
+[2026-09-29T17:02:34.497310100] Color palette.md moved to / se movio a documents
+[2026-09-29T17:02:34.497310100] commands_keyframe_loop_patch.mcfunction -> unknown
+[2026-09-29T17:02:34.497310100] Skipped unknown file. / Archivo desconocido omitido: commands_keyframe_loop_patch.mcfunction
+[2026-09-29T17:02:34.498823300] commit-msg.sample -> unknown
+[2026-09-29T17:02:34.498823300] Skipped unknown file. / Archivo desconocido omitido: commit-msg.sample
+[2026-09-29T17:02:34.499832800] complete.mcfunction -> unknown
+[2026-09-29T17:02:34.500531200] Skipped unknown file. / Archivo desconocido omitido: complete.mcfunction
+[2026-09-29T17:02:34.501392800] composer-bridge-1.6.0-windows-amd64 (1).zip -> archives
+[2026-09-29T17:02:34.502399400] composer-bridge-1.6.0-windows-amd64 (1).zip moved to / se movio a archives
+[2026-09-29T17:02:34.503404200] composer-bridge-1.6.0-windows-amd64.exe -> executables
+[2026-09-29T17:02:34.504945800] composer-bridge-1.6.0-windows-amd64.exe moved to / se movio a executables
+[2026-09-29T17:02:34.504945800] composer-bridge-1.6.0-windows-amd64.zip -> archives
+[2026-09-29T17:02:34.505952200] composer-bridge-1.6.0-windows-amd64.zip moved to / se movio a archives
+[2026-09-29T17:02:34.505952200] composer-bridge.exe -> executables
+[2026-09-29T17:02:34.509181200] composer-bridge.exe moved to / se movio a executables
+[2026-09-29T17:02:34.509719100] config -> unknown
+[2026-09-29T17:02:34.510743200] Skipped unknown file. / Archivo desconocido omitido: config
+[2026-09-29T17:02:34.510743200] config.ini -> configuration
+[2026-09-29T17:02:34.511829100] config.ini moved to / se movio a configuration
+[2026-09-29T17:02:34.511829100] Conversion.cs -> programming
+[2026-09-29T17:02:34.513339800] Conversion.cs moved to / se movio a programming
+[2026-09-29T17:02:34.513339800] conversiones.cs -> programming
+[2026-09-29T17:02:34.514345] conversiones.cs moved to / se movio a programming
+[2026-09-29T17:02:34.515343600] Conversor(gemini me lo paso a metodos xdd).cs -> programming
+[2026-09-29T17:02:34.517138900] Conversor(gemini me lo paso a metodos xdd).cs moved to / se movio a programming
+[2026-09-29T17:02:34.518780100] Conversor.cs.csh -> design
+[2026-09-29T17:02:34.520641600] Conversor.cs.csh moved to / se movio a design
+[2026-09-29T17:02:34.521789500] CoreServices.Client.log -> logs
+[2026-09-29T17:02:34.524098400] CoreServices.Client.log moved to / se movio a logs
+[2026-09-29T17:02:34.524098400] corpse.json -> configuration
+[2026-09-29T17:02:34.525113900] corpse.json moved to / se movio a configuration
+[2026-09-29T17:02:34.526104400] corpse2.json -> configuration
+[2026-09-29T17:02:34.527112900] corpse2.json moved to / se movio a configuration
+[2026-09-29T17:02:34.528111100] cosmetics.mcfunction -> unknown
+[2026-09-29T17:02:34.528111100] Skipped unknown file. / Archivo desconocido omitido: cosmetics.mcfunction
+[2026-09-29T17:02:34.529108100] CrashReport-20260916133227.log -> logs
+[2026-09-29T17:02:34.530363800] CrashReport-20260916133227.log moved to / se movio a logs
+[2026-09-29T17:02:34.530363800] CrashReport-20260916133336.log -> logs
+[2026-09-29T17:02:34.532747800] CrashReport-20260916133336.log moved to / se movio a logs
+[2026-09-29T17:02:34.532747800] Current_Wired_Network_Interfaces.txt -> documents
+[2026-09-29T17:02:34.535185800] Current_Wired_Network_Interfaces.txt moved to / se movio a documents
+[2026-09-29T17:02:34.536233600] Czech.xml -> configuration
+[2026-09-29T17:02:34.537195600] Czech.xml moved to / se movio a configuration
+[2026-09-29T17:02:34.538657900] Cálculo, trascendentes tempranas by Dennis Zill, Warren Wright (z-lib.org) (1)_compressed_compressed.pdf -> documents
+[2026-09-29T17:02:35.629207700] Cálculo, trascendentes tempranas by Dennis Zill, Warren Wright (z-lib.org) (1)_compressed_compressed.pdf moved to / se movio a documents
+[2026-09-29T17:02:35.629207700] Códigos UNI_CrackPass.md -> documents
+[2026-09-29T17:02:35.639015] Códigos UNI_CrackPass.md moved to / se movio a documents
+[2026-09-29T17:02:35.639015] Danish.xml -> configuration
+[2026-09-29T17:02:35.639015] Danish.xml moved to / se movio a configuration
+[2026-09-29T17:02:35.641694] DCMServiceStartup.log -> logs
+[2026-09-29T17:02:35.641694] DCMServiceStartup.log moved to / se movio a logs
+[2026-09-29T17:02:35.643734400] DCU_Registry_Info.txt -> documents
+[2026-09-29T17:02:35.645314300] DCU_Registry_Info.txt moved to / se movio a documents
+[2026-09-29T17:02:35.646286100] DDU v18.1.6.0.exe -> executables
+[2026-09-29T17:02:35.649009800] DDU v18.1.6.0.exe moved to / se movio a executables
+[2026-09-29T17:02:35.650163600] death.mcfunction -> unknown
+[2026-09-29T17:02:35.651110600] Skipped unknown file. / Archivo desconocido omitido: death.mcfunction
+[2026-09-29T17:02:35.652011100] debug.mcfunction -> unknown
+[2026-09-29T17:02:35.653124200] Skipped unknown file. / Archivo desconocido omitido: debug.mcfunction
+[2026-09-29T17:02:35.653124200] debug1.json -> configuration
+[2026-09-29T17:02:35.654111400] debug1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.655391800] debug1_1.json -> configuration
+[2026-09-29T17:02:35.656940400] debug1_1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.657618400] debug2.json -> configuration
+[2026-09-29T17:02:35.657618400] debug2.json moved to / se movio a configuration
+[2026-09-29T17:02:35.659130800] debug2_1.json -> configuration
+[2026-09-29T17:02:35.661921300] debug2_1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.662669400] debug3.json -> configuration
+[2026-09-29T17:02:35.665214900] debug3.json moved to / se movio a configuration
+[2026-09-29T17:02:35.666437200] debug3_1.json -> configuration
+[2026-09-29T17:02:35.667929400] debug3_1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.670492700] defibrillator.mcfunction -> unknown
+[2026-09-29T17:02:35.671586100] Skipped unknown file. / Archivo desconocido omitido: defibrillator.mcfunction
+[2026-09-29T17:02:35.671586100] delete.mcfunction -> unknown
+[2026-09-29T17:02:35.671586100] Skipped unknown file. / Archivo desconocido omitido: delete.mcfunction
+[2026-09-29T17:02:35.673095600] Dell-Optimizer-Application_J1H35_WIN_4.2.4.0_A00_01.EXE -> executables
+[2026-09-29T17:02:35.674561800] Dell-Optimizer-Application_J1H35_WIN_4.2.4.0_A00_01.EXE moved to / se movio a executables
+[2026-09-29T17:02:35.675574800] DellTechHub.log -> logs
+[2026-09-29T17:02:35.676912] DellTechHub.log moved to / se movio a logs
+[2026-09-29T17:02:35.677426200] Dell_Audit_Telemetry_Logs_not_found.txt -> documents
+[2026-09-29T17:02:35.678934] Dell_Audit_Telemetry_Logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.679722900] Dell_Command_Update.txt -> documents
+[2026-09-29T17:02:35.680736600] Dell_Command_Update.txt moved to / se movio a documents
+[2026-09-29T17:02:35.681748100] Dell_CoreServices_Client_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.685789] Dell_CoreServices_Client_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.685789] Dell_Data_Migrate_Destination_not_found.txt -> documents
+[2026-09-29T17:02:35.688761700] Dell_Data_Migrate_Destination_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.689933200] Dell_Data_Migrate_Source_not_found.txt -> documents
+[2026-09-29T17:02:35.689933200] Dell_Data_Migrate_Source_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.692066400] Dell_DCDM_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.692753500] Dell_DCDM_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.694401600] Dell_DDPM_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.696679600] Dell_DDPM_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.697682900] Dell_Digital_Delivery_Destination_not_found.txt -> documents
+[2026-09-29T17:02:35.700599700] Dell_Digital_Delivery_Destination_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.702628200] Dell_InvCol_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.705047700] Dell_InvCol_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.706260600] Dell_Log_Collector_Example_V2.6.cmd -> executables
+[2026-09-29T17:02:35.707737500] Dell_Log_Collector_Example_V2.6.cmd moved to / se movio a executables
+[2026-09-29T17:02:35.708748800] Dell_Optimizer_not_found.txt -> documents
+[2026-09-29T17:02:35.710893300] Dell_Optimizer_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.710893300] Dell_SDR_not_found.txt -> documents
+[2026-09-29T17:02:35.713139500] Dell_SDR_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.714157800] Dell_SW_Policy.txt -> documents
+[2026-09-29T17:02:35.717478900] Dell_SW_Policy.txt moved to / se movio a documents
+[2026-09-29T17:02:35.718686900] Dell_TechHub_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.720375300] Dell_TechHub_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.721973400] Dell_TrustedDevice_logs_not_found.txt -> documents
+[2026-09-29T17:02:35.723486800] Dell_TrustedDevice_logs_not_found.txt moved to / se movio a documents
+[2026-09-29T17:02:35.723486800] demo.json -> configuration
+[2026-09-29T17:02:35.725523900] demo.json moved to / se movio a configuration
+[2026-09-29T17:02:35.727539400] description -> unknown
+[2026-09-29T17:02:35.728840100] Skipped unknown file. / Archivo desconocido omitido: description
+[2026-09-29T17:02:35.729853] desktop.ini -> configuration
+[2026-09-29T17:02:35.731855300] desktop.ini moved to / se movio a configuration
+[2026-09-29T17:02:35.733365700] despawn.mcfunction -> unknown
+[2026-09-29T17:02:35.734354700] Skipped unknown file. / Archivo desconocido omitido: despawn.mcfunction
+[2026-09-29T17:02:35.737012] despawn2.mcfunction -> unknown
+[2026-09-29T17:02:35.738076300] Skipped unknown file. / Archivo desconocido omitido: despawn2.mcfunction
+[2026-09-29T17:02:35.738076300] despawnall.mcfunction -> unknown
+[2026-09-29T17:02:35.739089700] Skipped unknown file. / Archivo desconocido omitido: despawnall.mcfunction
+[2026-09-29T17:02:35.740104200] Device_Wake_Armed.html -> programming
+[2026-09-29T17:02:35.742726400] Device_Wake_Armed.html moved to / se movio a programming
+[2026-09-29T17:02:35.743236500] Diagnostics_Application_WRG4N_WN64_3.0_A00.log -> logs
+[2026-09-29T17:02:35.745491300] Diagnostics_Application_WRG4N_WN64_3.0_A00.log moved to / se movio a logs
+[2026-09-29T17:02:35.745491300] Diagnostics_Application_WRG4N_WN64_3.0_A00.txt -> documents
+[2026-09-29T17:02:35.747908400] Diagnostics_Application_WRG4N_WN64_3.0_A00.txt moved to / se movio a documents
+[2026-09-29T17:02:35.749417] dice.mcfunction -> unknown
+[2026-09-29T17:02:35.751168300] Skipped unknown file. / Archivo desconocido omitido: dice.mcfunction
+[2026-09-29T17:02:35.752334] disableplayercommand.mcfunction -> unknown
+[2026-09-29T17:02:35.753357600] Skipped unknown file. / Archivo desconocido omitido: disableplayercommand.mcfunction
+[2026-09-29T17:02:35.754449900] DisableWindowsUpdate.zip -> archives
+[2026-09-29T17:02:35.756460300] DisableWindowsUpdate.zip moved to / se movio a archives
+[2026-09-29T17:02:35.756460300] disconnected.png -> images
+[2026-09-29T17:02:35.758752] disconnected.png moved to / se movio a images
+[2026-09-29T17:02:35.760244800] Disk_Drives.txt -> documents
+[2026-09-29T17:02:35.762088] Disk_Drives.txt moved to / se movio a documents
+[2026-09-29T17:02:35.762088] Disk_Volumes.txt -> documents
+[2026-09-29T17:02:35.764185300] Disk_Volumes.txt moved to / se movio a documents
+[2026-09-29T17:02:35.765197700] Display Driver Uninstaller.exe -> executables
+[2026-09-29T17:02:35.767339500] Display Driver Uninstaller.exe moved to / se movio a executables
+[2026-09-29T17:02:35.768853500] Display_Stream_Compression_status.txt -> documents
+[2026-09-29T17:02:35.771651700] Display_Stream_Compression_status.txt moved to / se movio a documents
+[2026-09-29T17:02:35.771651700] Docker Desktop Installer (1).exe -> executables
+[2026-09-29T17:02:35.774709800] Docker Desktop Installer (1).exe moved to / se movio a executables
+[2026-09-29T17:02:35.775724200] Docker Desktop Installer.exe -> executables
+[2026-09-29T17:02:35.777275500] Docker Desktop Installer.exe moved to / se movio a executables
+[2026-09-29T17:02:35.777858400] dontmove.json -> configuration
+[2026-09-29T17:02:35.780237300] dontmove.json moved to / se movio a configuration
+[2026-09-29T17:02:35.781757100] dotnet-sdk-10.0.401-win-x64.exe -> executables
+[2026-09-29T17:02:35.783966900] dotnet-sdk-10.0.401-win-x64.exe moved to / se movio a executables
+[2026-09-29T17:02:35.785424100] download.bat -> executables
+[2026-09-29T17:02:35.787839900] download.bat moved to / se movio a executables
+[2026-09-29T17:02:35.788849500] downloaded_from_www.guru3d.com.txt -> documents
+[2026-09-29T17:02:35.791606800] downloaded_from_www.guru3d.com.txt moved to / se movio a documents
+[2026-09-29T17:02:35.793123900] dpinst.xml -> configuration
+[2026-09-29T17:02:35.794650900] dpinst.xml moved to / se movio a configuration
+[2026-09-29T17:02:35.795662] dpinst32.exe -> executables
+[2026-09-29T17:02:35.797663] dpinst32.exe moved to / se movio a executables
+[2026-09-29T17:02:35.799183200] dpscat.exe -> executables
+[2026-09-29T17:02:35.800837600] dpscat.exe moved to / se movio a executables
+[2026-09-29T17:02:35.802715700] Drawd of my apps.md -> documents
+[2026-09-29T17:02:35.805135700] Drawd of my apps.md moved to / se movio a documents
+[2026-09-29T17:02:35.805674600] drink.mcfunction -> unknown
+[2026-09-29T17:02:35.806955900] Skipped unknown file. / Archivo desconocido omitido: drink.mcfunction
+[2026-09-29T17:02:35.808040900] driverfiles.cfg -> configuration
+[2026-09-29T17:02:35.810202300] driverfiles.cfg moved to / se movio a configuration
+[2026-09-29T17:02:35.811527200] driverfilesKMAFD.cfg -> configuration
+[2026-09-29T17:02:35.813743600] driverfilesKMAFD.cfg moved to / se movio a configuration
+[2026-09-29T17:02:35.814055] driverfilesKMPFD.cfg -> configuration
+[2026-09-29T17:02:35.816071] driverfilesKMPFD.cfg moved to / se movio a configuration
+[2026-09-29T17:02:35.817256300] driverfilesKMPFD.cfg.bak -> backup
+[2026-09-29T17:02:35.821153200] driverfilesKMPFD.cfg.bak moved to / se movio a backup
+[2026-09-29T17:02:35.822171700] Driver_Details.txt -> documents
+[2026-09-29T17:02:35.824500800] Driver_Details.txt moved to / se movio a documents
+[2026-09-29T17:02:35.825524300] Driver_List.txt -> documents
+[2026-09-29T17:02:35.827518700] Driver_List.txt moved to / se movio a documents
+[2026-09-29T17:02:35.827518700] Driver_Store.txt -> documents
+[2026-09-29T17:02:35.830048600] Driver_Store.txt moved to / se movio a documents
+[2026-09-29T17:02:35.830829500] drowning.json -> configuration
+[2026-09-29T17:02:35.833352] drowning.json moved to / se movio a configuration
+[2026-09-29T17:02:35.834737500] dtbo.img -> disk_images
+[2026-09-29T17:02:35.837168500] dtbo.img moved to / se movio a disk_images
+[2026-09-29T17:02:35.838605500] DumpStatus.txt -> documents
+[2026-09-29T17:02:35.840974500] DumpStatus.txt moved to / se movio a documents
+[2026-09-29T17:02:35.841793400] Dutch.xml -> configuration
+[2026-09-29T17:02:35.843308500] Dutch.xml moved to / se movio a configuration
+[2026-09-29T17:02:35.843308500] DXdiag.txt -> documents
+[2026-09-29T17:02:35.844772300] DXdiag.txt moved to / se movio a documents
+[2026-09-29T17:02:35.846242500] effect.mcfunction -> unknown
+[2026-09-29T17:02:35.847628600] Skipped unknown file. / Archivo desconocido omitido: effect.mcfunction
+[2026-09-29T17:02:35.847628600] effects.mcfunction -> unknown
+[2026-09-29T17:02:35.849142100] Skipped unknown file. / Archivo desconocido omitido: effects.mcfunction
+[2026-09-29T17:02:35.850156100] eightyseven.json -> configuration
+[2026-09-29T17:02:35.851164700] eightyseven.json moved to / se movio a configuration
+[2026-09-29T17:02:35.854303800] EjPilas.cs -> programming
+[2026-09-29T17:02:35.856314700] EjPilas.cs moved to / se movio a programming
+[2026-09-29T17:02:35.856314700] empbroke.json -> configuration
+[2026-09-29T17:02:35.858822700] empbroke.json moved to / se movio a configuration
+[2026-09-29T17:02:35.858822700] emummc.kipm -> unknown
+[2026-09-29T17:02:35.859833800] Skipped unknown file. / Archivo desconocido omitido: emummc.kipm
+[2026-09-29T17:02:35.860862200] EnableDriverInstallWU.cmd -> executables
+[2026-09-29T17:02:35.862895700] EnableDriverInstallWU.cmd moved to / se movio a executables
+[2026-09-29T17:02:35.862895700] end.mcfunction -> unknown
+[2026-09-29T17:02:35.863908600] Skipped unknown file. / Archivo desconocido omitido: end.mcfunction
+[2026-09-29T17:02:35.865403700] endagro.mcfunction -> unknown
+[2026-09-29T17:02:35.865923200] Skipped unknown file. / Archivo desconocido omitido: endagro.mcfunction
+[2026-09-29T17:02:35.867472700] endgame.mcfunction -> unknown
+[2026-09-29T17:02:35.869257] Skipped unknown file. / Archivo desconocido omitido: endgame.mcfunction
+[2026-09-29T17:02:35.871091300] ending1.json -> configuration
+[2026-09-29T17:02:35.872104400] ending1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.873616100] ending2.json -> configuration
+[2026-09-29T17:02:35.875331900] ending2.json moved to / se movio a configuration
+[2026-09-29T17:02:35.876593600] ending3.json -> configuration
+[2026-09-29T17:02:35.878872100] ending3.json moved to / se movio a configuration
+[2026-09-29T17:02:35.881050900] endstun.mcfunction -> unknown
+[2026-09-29T17:02:35.882390400] Skipped unknown file. / Archivo desconocido omitido: endstun.mcfunction
+[2026-09-29T17:02:35.883411800] end_game.mcfunction -> unknown
+[2026-09-29T17:02:35.884416500] Skipped unknown file. / Archivo desconocido omitido: end_game.mcfunction
+[2026-09-29T17:02:35.885253800] Energy.html -> programming
+[2026-09-29T17:02:35.887427] Energy.html moved to / se movio a programming
+[2026-09-29T17:02:35.889199300] engineerkill.json -> configuration
+[2026-09-29T17:02:35.891011800] engineerkill.json moved to / se movio a configuration
+[2026-09-29T17:02:35.891011800] English.xml -> configuration
+[2026-09-29T17:02:35.894536100] English.xml moved to / se movio a configuration
+[2026-09-29T17:02:35.895424800] enter.mcfunction -> unknown
+[2026-09-29T17:02:35.895935] Skipped unknown file. / Archivo desconocido omitido: enter.mcfunction
+[2026-09-29T17:02:35.895935] entities.json -> configuration
+[2026-09-29T17:02:35.897257600] entities.json moved to / se movio a configuration
+[2026-09-29T17:02:35.898765400] entities.mcfunction -> unknown
+[2026-09-29T17:02:35.898765400] Skipped unknown file. / Archivo desconocido omitido: entities.mcfunction
+[2026-09-29T17:02:35.899777100] erase.mcfunction -> unknown
+[2026-09-29T17:02:35.899777100] Skipped unknown file. / Archivo desconocido omitido: erase.mcfunction
+[2026-09-29T17:02:35.900678400] Error_State_Drivers.txt -> documents
+[2026-09-29T17:02:35.903010500] Error_State_Drivers.txt moved to / se movio a documents
+[2026-09-29T17:02:35.904022] escape.mcfunction -> unknown
+[2026-09-29T17:02:35.904022] Skipped unknown file. / Archivo desconocido omitido: escape.mcfunction
+[2026-09-29T17:02:35.905023200] estres1.CSV -> spreadsheets
+[2026-09-29T17:02:35.907019200] estres1.CSV moved to / se movio a spreadsheets
+[2026-09-29T17:02:35.908023700] etc1tool.exe -> executables
+[2026-09-29T17:02:35.910506800] etc1tool.exe moved to / se movio a executables
+[2026-09-29T17:02:35.910506800] exclude -> unknown
+[2026-09-29T17:02:35.912082100] Skipped unknown file. / Archivo desconocido omitido: exclude
+[2026-09-29T17:02:35.912082100] exit.mcfunction -> unknown
+[2026-09-29T17:02:35.913173600] Skipped unknown file. / Archivo desconocido omitido: exit.mcfunction
+[2026-09-29T17:02:35.913887600] exosphere.ini -> configuration
+[2026-09-29T17:02:35.915149300] exosphere.ini moved to / se movio a configuration
+[2026-09-29T17:02:35.916198400] f0.mcfunction -> unknown
+[2026-09-29T17:02:35.917826300] Skipped unknown file. / Archivo desconocido omitido: f0.mcfunction
+[2026-09-29T17:02:35.918837400] f1.mcfunction -> unknown
+[2026-09-29T17:02:35.919853] Skipped unknown file. / Archivo desconocido omitido: f1.mcfunction
+[2026-09-29T17:02:35.920850800] f10.mcfunction -> unknown
+[2026-09-29T17:02:35.921850] Skipped unknown file. / Archivo desconocido omitido: f10.mcfunction
+[2026-09-29T17:02:35.921850] f11.mcfunction -> unknown
+[2026-09-29T17:02:35.924336200] Skipped unknown file. / Archivo desconocido omitido: f11.mcfunction
+[2026-09-29T17:02:35.926362900] f12.mcfunction -> unknown
+[2026-09-29T17:02:35.928389200] Skipped unknown file. / Archivo desconocido omitido: f12.mcfunction
+[2026-09-29T17:02:35.928905300] f13.mcfunction -> unknown
+[2026-09-29T17:02:35.928905300] Skipped unknown file. / Archivo desconocido omitido: f13.mcfunction
+[2026-09-29T17:02:35.931460400] f14.mcfunction -> unknown
+[2026-09-29T17:02:35.933306900] Skipped unknown file. / Archivo desconocido omitido: f14.mcfunction
+[2026-09-29T17:02:35.933820800] f15.mcfunction -> unknown
+[2026-09-29T17:02:35.935057100] Skipped unknown file. / Archivo desconocido omitido: f15.mcfunction
+[2026-09-29T17:02:35.935770400] f16.mcfunction -> unknown
+[2026-09-29T17:02:35.935770400] Skipped unknown file. / Archivo desconocido omitido: f16.mcfunction
+[2026-09-29T17:02:35.935770400] f17.mcfunction -> unknown
+[2026-09-29T17:02:35.938953500] Skipped unknown file. / Archivo desconocido omitido: f17.mcfunction
+[2026-09-29T17:02:35.939556700] f18.mcfunction -> unknown
+[2026-09-29T17:02:35.939556700] Skipped unknown file. / Archivo desconocido omitido: f18.mcfunction
+[2026-09-29T17:02:35.940911500] f19.mcfunction -> unknown
+[2026-09-29T17:02:35.940911500] Skipped unknown file. / Archivo desconocido omitido: f19.mcfunction
+[2026-09-29T17:02:35.940911500] f2.mcfunction -> unknown
+[2026-09-29T17:02:35.941921400] Skipped unknown file. / Archivo desconocido omitido: f2.mcfunction
+[2026-09-29T17:02:35.941921400] f20.mcfunction -> unknown
+[2026-09-29T17:02:35.942920100] Skipped unknown file. / Archivo desconocido omitido: f20.mcfunction
+[2026-09-29T17:02:35.942920100] f21.mcfunction -> unknown
+[2026-09-29T17:02:35.942920100] Skipped unknown file. / Archivo desconocido omitido: f21.mcfunction
+[2026-09-29T17:02:35.943998700] f22.mcfunction -> unknown
+[2026-09-29T17:02:35.943998700] Skipped unknown file. / Archivo desconocido omitido: f22.mcfunction
+[2026-09-29T17:02:35.944988700] f23.mcfunction -> unknown
+[2026-09-29T17:02:35.944988700] Skipped unknown file. / Archivo desconocido omitido: f23.mcfunction
+[2026-09-29T17:02:35.945797400] f24.mcfunction -> unknown
+[2026-09-29T17:02:35.946903300] Skipped unknown file. / Archivo desconocido omitido: f24.mcfunction
+[2026-09-29T17:02:35.947915500] f25.mcfunction -> unknown
+[2026-09-29T17:02:35.949449400] Skipped unknown file. / Archivo desconocido omitido: f25.mcfunction
+[2026-09-29T17:02:35.950474200] f3.mcfunction -> unknown
+[2026-09-29T17:02:35.951203300] Skipped unknown file. / Archivo desconocido omitido: f3.mcfunction
+[2026-09-29T17:02:35.951657200] f4.mcfunction -> unknown
+[2026-09-29T17:02:35.953672100] Skipped unknown file. / Archivo desconocido omitido: f4.mcfunction
+[2026-09-29T17:02:35.953672100] f5.mcfunction -> unknown
+[2026-09-29T17:02:35.953672100] Skipped unknown file. / Archivo desconocido omitido: f5.mcfunction
+[2026-09-29T17:02:35.953672100] f6.mcfunction -> unknown
+[2026-09-29T17:02:35.953672100] Skipped unknown file. / Archivo desconocido omitido: f6.mcfunction
+[2026-09-29T17:02:35.953672100] f7.mcfunction -> unknown
+[2026-09-29T17:02:35.953672100] Skipped unknown file. / Archivo desconocido omitido: f7.mcfunction
+[2026-09-29T17:02:35.953672100] f8.mcfunction -> unknown
+[2026-09-29T17:02:35.957750800] Skipped unknown file. / Archivo desconocido omitido: f8.mcfunction
+[2026-09-29T17:02:35.957750800] f9.mcfunction -> unknown
+[2026-09-29T17:02:35.958760500] Skipped unknown file. / Archivo desconocido omitido: f9.mcfunction
+[2026-09-29T17:02:35.958760500] Factorial.cs -> programming
+[2026-09-29T17:02:35.959949100] Factorial.cs moved to / se movio a programming
+[2026-09-29T17:02:35.960748800] Factura.cs -> programming
+[2026-09-29T17:02:35.961760700] Factura.cs moved to / se movio a programming
+[2026-09-29T17:02:35.962758800] fastboot.exe -> executables
+[2026-09-29T17:02:35.966020700] fastboot.exe moved to / se movio a executables
+[2026-09-29T17:02:35.967015100] favorites.conf -> configuration
+[2026-09-29T17:02:35.968727900] favorites.conf moved to / se movio a configuration
+[2026-09-29T17:02:35.969856500] feat1.json -> configuration
+[2026-09-29T17:02:35.972491800] feat1.json moved to / se movio a configuration
+[2026-09-29T17:02:35.973502] feat10.json -> configuration
+[2026-09-29T17:02:35.975500300] feat10.json moved to / se movio a configuration
+[2026-09-29T17:02:35.976041900] feat11.json -> configuration
+[2026-09-29T17:02:35.976041900] feat11.json moved to / se movio a configuration
+[2026-09-29T17:02:35.976041900] feat12.json -> configuration
+[2026-09-29T17:02:35.978783] feat12.json moved to / se movio a configuration
+[2026-09-29T17:02:35.978783] feat13.json -> configuration
+[2026-09-29T17:02:35.981779400] feat13.json moved to / se movio a configuration
+[2026-09-29T17:02:35.983300800] feat14.json -> configuration
+[2026-09-29T17:02:35.985956300] feat14.json moved to / se movio a configuration
+[2026-09-29T17:02:35.986951] feat15.json -> configuration
+[2026-09-29T17:02:35.987950400] feat15.json moved to / se movio a configuration
+[2026-09-29T17:02:35.988946] feat16.json -> configuration
+[2026-09-29T17:02:35.988946] feat16.json moved to / se movio a configuration
+[2026-09-29T17:02:35.990794100] feat2.json -> configuration
+[2026-09-29T17:02:35.992835400] feat2.json moved to / se movio a configuration
+[2026-09-29T17:02:35.993340100] feat3.json -> configuration
+[2026-09-29T17:02:35.994506300] feat3.json moved to / se movio a configuration
+[2026-09-29T17:02:35.994506300] feat4.json -> configuration
+[2026-09-29T17:02:35.996436100] feat4.json moved to / se movio a configuration
+[2026-09-29T17:02:35.997448300] feat5.json -> configuration
+[2026-09-29T17:02:35.998825300] feat5.json moved to / se movio a configuration
+[2026-09-29T17:02:35.999835800] feat6.json -> configuration
+[2026-09-29T17:02:36.000836600] feat6.json moved to / se movio a configuration
+[2026-09-29T17:02:36.001845] feat7.json -> configuration
+[2026-09-29T17:02:36.002845100] feat7.json moved to / se movio a configuration
+[2026-09-29T17:02:36.004178700] feat8.json -> configuration
+[2026-09-29T17:02:36.005667100] feat8.json moved to / se movio a configuration
+[2026-09-29T17:02:36.006759100] feat9.json -> configuration
+[2026-09-29T17:02:36.008950900] feat9.json moved to / se movio a configuration
+[2026-09-29T17:02:36.010376600] fifteen_games.json -> configuration
+[2026-09-29T17:02:36.012445100] fifteen_games.json moved to / se movio a configuration
+[2026-09-29T17:02:36.014090100] fifty.json -> configuration
+[2026-09-29T17:02:36.017116200] fifty.json moved to / se movio a configuration
+[2026-09-29T17:02:36.017116200] fifty_games.json -> configuration
+[2026-09-29T17:02:36.019231200] fifty_games.json moved to / se movio a configuration
+[2026-09-29T17:02:36.019231200] FigmaSetup.exe -> executables
+[2026-09-29T17:02:36.021740800] FigmaSetup.exe moved to / se movio a executables
+[2026-09-29T17:02:36.021740800] Finnish.xml -> configuration
+[2026-09-29T17:02:36.023249] Finnish.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.023249] first_encounter.json -> configuration
+[2026-09-29T17:02:36.025352300] first_encounter.json moved to / se movio a configuration
+[2026-09-29T17:02:36.026413] first_game.json -> configuration
+[2026-09-29T17:02:36.029128700] first_game.json moved to / se movio a configuration
+[2026-09-29T17:02:36.031012900] five_games.json -> configuration
+[2026-09-29T17:02:36.033922200] five_games.json moved to / se movio a configuration
+[2026-09-29T17:02:36.035958900] flashlight.json -> configuration
+[2026-09-29T17:02:36.038248400] flashlight.json moved to / se movio a configuration
+[2026-09-29T17:02:36.039133600] flashlight.mcfunction -> unknown
+[2026-09-29T17:02:36.039133600] Skipped unknown file. / Archivo desconocido omitido: flashlight.mcfunction
+[2026-09-29T17:02:36.040972600] flashlightmodel_off.json -> configuration
+[2026-09-29T17:02:36.042040400] flashlightmodel_off.json moved to / se movio a configuration
+[2026-09-29T17:02:36.043549300] flashlightmodel_off2.json -> configuration
+[2026-09-29T17:02:36.043549300] flashlightmodel_off2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.043549300] flashlightmodel_on.json -> configuration
+[2026-09-29T17:02:36.048249800] flashlightmodel_on.json moved to / se movio a configuration
+[2026-09-29T17:02:36.049777500] flashlightmodel_on2.json -> configuration
+[2026-09-29T17:02:36.051614400] flashlightmodel_on2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.053470900] flashlightscore1.json -> configuration
+[2026-09-29T17:02:36.055126200] flashlightscore1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.056136600] flashlight_es.json -> configuration
+[2026-09-29T17:02:36.057136500] flashlight_es.json moved to / se movio a configuration
+[2026-09-29T17:02:36.058136200] flickers.mcfunction -> unknown
+[2026-09-29T17:02:36.059139] Skipped unknown file. / Archivo desconocido omitido: flickers.mcfunction
+[2026-09-29T17:02:36.059139] Fonts.md -> documents
+[2026-09-29T17:02:36.060891900] Fonts.md moved to / se movio a documents
+[2026-09-29T17:02:36.060891900] fox.mcfunction -> unknown
+[2026-09-29T17:02:36.060891900] Skipped unknown file. / Archivo desconocido omitido: fox.mcfunction
+[2026-09-29T17:02:36.063212] French.xml -> configuration
+[2026-09-29T17:02:36.064791500] French.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.065797500] Fresh Oil - Live-2026-09-17.ttml-project.json -> configuration
+[2026-09-29T17:02:36.068839100] Fresh Oil - Live-2026-09-17.ttml-project.json moved to / se movio a configuration
+[2026-09-29T17:02:36.070334900] Fresh Oil - Live.mp3 -> music
+[2026-09-29T17:02:36.072344200] Fresh Oil - Live.mp3 moved to / se movio a music
+[2026-09-29T17:02:36.073312300] fsmonitor-watchman.sample -> unknown
+[2026-09-29T17:02:36.073312300] Skipped unknown file. / Archivo desconocido omitido: fsmonitor-watchman.sample
+[2026-09-29T17:02:36.075126800] fullbacteria.json -> configuration
+[2026-09-29T17:02:36.075826400] fullbacteria.json moved to / se movio a configuration
+[2026-09-29T17:02:36.077209400] fullescape1.json -> configuration
+[2026-09-29T17:02:36.081017500] fullescape1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.082409200] fullescape2.json -> configuration
+[2026-09-29T17:02:36.084074100] fullescape2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.086274600] fullgarden.json -> configuration
+[2026-09-29T17:02:36.088035100] fullgarden.json moved to / se movio a configuration
+[2026-09-29T17:02:36.089041900] fulllobby.json -> configuration
+[2026-09-29T17:02:36.091609400] fulllobby.json moved to / se movio a configuration
+[2026-09-29T17:02:36.092713400] fullmap3.json -> configuration
+[2026-09-29T17:02:36.094726700] fullmap3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.095274900] fullmonster.json -> configuration
+[2026-09-29T17:02:36.107494300] fullmonster.json moved to / se movio a configuration
+[2026-09-29T17:02:36.108848400] fullperipheral.json -> configuration
+[2026-09-29T17:02:36.135392300] fullperipheral.json moved to / se movio a configuration
+[2026-09-29T17:02:36.139558800] fullsurvivor.json -> configuration
+[2026-09-29T17:02:36.147172200] fullsurvivor.json moved to / se movio a configuration
+[2026-09-29T17:02:36.157247400] function_keyframe_loop_patch.mcfunction -> unknown
+[2026-09-29T17:02:36.163787700] Skipped unknown file. / Archivo desconocido omitido: function_keyframe_loop_patch.mcfunction
+[2026-09-29T17:02:36.168917800] funnynumber.json -> configuration
+[2026-09-29T17:02:36.171933300] funnynumber.json moved to / se movio a configuration
+[2026-09-29T17:02:36.173553300] fusee.bin -> executables
+[2026-09-29T17:02:36.174430300] fusee.bin moved to / se movio a executables
+[2026-09-29T17:02:36.176441500] Fusee_Atmosphere.bin -> executables
+[2026-09-29T17:02:36.178982500] Fusee_Atmosphere.bin moved to / se movio a executables
+[2026-09-29T17:02:36.178982500] gambling1.json -> configuration
+[2026-09-29T17:02:36.183308700] gambling1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.184322700] gambling2.json -> configuration
+[2026-09-29T17:02:36.186675] gambling2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.186675] gambling3.json -> configuration
+[2026-09-29T17:02:36.189199500] gambling3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.190214100] gambling4.json -> configuration
+[2026-09-29T17:02:36.192037800] gambling4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.193552900] games.json -> configuration
+[2026-09-29T17:02:36.195565700] games.json moved to / se movio a configuration
+[2026-09-29T17:02:36.195565700] games2.json -> configuration
+[2026-09-29T17:02:36.198898] games2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.200914900] gameversion.json -> configuration
+[2026-09-29T17:02:36.203755] gameversion.json moved to / se movio a configuration
+[2026-09-29T17:02:36.205767200] GboardWu-v18.0.3.954559732-release-arm64-v8a-patches-v3.10.0.apk -> executables
+[2026-09-29T17:02:36.208799800] GboardWu-v18.0.3.954559732-release-arm64-v8a-patches-v3.10.0.apk moved to / se movio a executables
+[2026-09-29T17:02:36.211182600] general.mcfunction -> unknown
+[2026-09-29T17:02:36.213206] Skipped unknown file. / Archivo desconocido omitido: general.mcfunction
+[2026-09-29T17:02:36.214758100] GenP-4.2.1-info-sha256.md -> documents
+[2026-09-29T17:02:36.220902200] GenP-4.2.1-info-sha256.md moved to / se movio a documents
+[2026-09-29T17:02:36.222921800] GenP-v4.2.1.exe -> executables
+[2026-09-29T17:02:36.224279600] GenP-v4.2.1.exe moved to / se movio a executables
+[2026-09-29T17:02:36.224279600] GenP-v4.2.1.exe.hashes.txt -> documents
+[2026-09-29T17:02:36.228183400] GenP-v4.2.1.exe.hashes.txt moved to / se movio a documents
+[2026-09-29T17:02:36.229644500] German.xml -> configuration
+[2026-09-29T17:02:36.231387700] German.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.233399400] GestureSignSetup-8.1.0.0.zip -> archives
+[2026-09-29T17:02:36.236031400] GestureSignSetup-8.1.0.0.zip moved to / se movio a archives
+[2026-09-29T17:02:36.237478100] gfedriverfiles.cfg -> configuration
+[2026-09-29T17:02:36.239097400] gfedriverfiles.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.240107200] gfedriverfiles.cfg.bak -> backup
+[2026-09-29T17:02:36.242106900] gfedriverfiles.cfg.bak moved to / se movio a backup
+[2026-09-29T17:02:36.243618500] gfeservice.cfg -> configuration
+[2026-09-29T17:02:36.245194100] gfeservice.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.245194100] give.mcfunction -> unknown
+[2026-09-29T17:02:36.247812400] Skipped unknown file. / Archivo desconocido omitido: give.mcfunction
+[2026-09-29T17:02:36.247812400] goal.mcfunction -> unknown
+[2026-09-29T17:02:36.249108600] Skipped unknown file. / Archivo desconocido omitido: goal.mcfunction
+[2026-09-29T17:02:36.250365500] God of the Impossible - Eleven22 Worship - Topic (128k)-2026-09-17.ttml-project.json -> configuration
+[2026-09-29T17:02:36.252360300] God of the Impossible - Eleven22 Worship - Topic (128k)-2026-09-17.ttml-project.json moved to / se movio a configuration
+[2026-09-29T17:02:36.253419100] God of the Impossible - Eleven22 Worship - Topic (128k).mp3 -> music
+[2026-09-29T17:02:36.253930200] God of the Impossible - Eleven22 Worship - Topic (128k).mp3 moved to / se movio a music
+[2026-09-29T17:02:36.253930200] GPO_List.html -> programming
+[2026-09-29T17:02:36.256594400] GPO_List.html moved to / se movio a programming
+[2026-09-29T17:02:36.256594400] graph_client.py -> programming
+[2026-09-29T17:02:36.259913700] graph_client.py moved to / se movio a programming
+[2026-09-29T17:02:36.260831100] Greek.xml -> configuration
+[2026-09-29T17:02:36.261842800] Greek.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.261842800] Guia 1.md -> documents
+[2026-09-29T17:02:36.262844300] Guia 1.md moved to / se movio a documents
+[2026-09-29T17:02:36.264314400] habitablezone.mcfunction -> unknown
+[2026-09-29T17:02:36.264314400] Skipped unknown file. / Archivo desconocido omitido: habitablezone.mcfunction
+[2026-09-29T17:02:36.264314400] Hackaton Design System.md -> documents
+[2026-09-29T17:02:36.268936400] Hackaton Design System.md moved to / se movio a documents
+[2026-09-29T17:02:36.270251300] hasid.mcfunction -> unknown
+[2026-09-29T17:02:36.272026300] Skipped unknown file. / Archivo desconocido omitido: hasid.mcfunction
+[2026-09-29T17:02:36.273052600] haspassenger.json -> configuration
+[2026-09-29T17:02:36.274033400] haspassenger.json moved to / se movio a configuration
+[2026-09-29T17:02:36.274033400] hasvehicle.json -> configuration
+[2026-09-29T17:02:36.276493400] hasvehicle.json moved to / se movio a configuration
+[2026-09-29T17:02:36.277493700] HEAD -> unknown
+[2026-09-29T17:02:36.277493700] Skipped unknown file. / Archivo desconocido omitido: HEAD
+[2026-09-29T17:02:36.279263] Hebrew.xml -> configuration
+[2026-09-29T17:02:36.280864500] Hebrew.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.282457900] hekate_ctcaer_5.0.0.bin -> executables
+[2026-09-29T17:02:36.285415800] hekate_ctcaer_5.0.0.bin moved to / se movio a executables
+[2026-09-29T17:02:36.285415800] hekate_ctcaer_6.5.3.bin -> executables
+[2026-09-29T17:02:36.287424900] hekate_ctcaer_6.5.3.bin moved to / se movio a executables
+[2026-09-29T17:02:36.287424900] hekate_ctcaer_6.5.3_Nyx_1.9.3.zip -> archives
+[2026-09-29T17:02:36.288813] hekate_ctcaer_6.5.3_Nyx_1.9.3.zip moved to / se movio a archives
+[2026-09-29T17:02:36.288813] hekate_ipl.ini -> configuration
+[2026-09-29T17:02:36.290665100] hekate_ipl.ini moved to / se movio a configuration
+[2026-09-29T17:02:36.290665100] hide.mcfunction -> unknown
+[2026-09-29T17:02:36.293363100] Skipped unknown file. / Archivo desconocido omitido: hide.mcfunction
+[2026-09-29T17:02:36.293363100] homewav.mcfunction -> unknown
+[2026-09-29T17:02:36.294372] Skipped unknown file. / Archivo desconocido omitido: homewav.mcfunction
+[2026-09-29T17:02:36.295373500] Hotfixes.txt -> documents
+[2026-09-29T17:02:36.296372800] Hotfixes.txt moved to / se movio a documents
+[2026-09-29T17:02:36.296372800] hprof-conv.exe -> executables
+[2026-09-29T17:02:36.299208300] hprof-conv.exe moved to / se movio a executables
+[2026-09-29T17:02:36.299208300] hundred_games.json -> configuration
+[2026-09-29T17:02:36.302422800] hundred_games.json moved to / se movio a configuration
+[2026-09-29T17:02:36.302422800] Hungarian.xml -> configuration
+[2026-09-29T17:02:36.302422800] Hungarian.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.302422800] HWiNFO32.exe -> executables
+[2026-09-29T17:02:36.306639200] HWiNFO32.exe moved to / se movio a executables
+[2026-09-29T17:02:36.306639200] HWiNFO64.exe -> executables
+[2026-09-29T17:02:36.306639200] HWiNFO64.exe moved to / se movio a executables
+[2026-09-29T17:02:36.309153400] HWiNFO64.INI -> configuration
+[2026-09-29T17:02:36.310452500] HWiNFO64.INI moved to / se movio a configuration
+[2026-09-29T17:02:36.311445600] HWiNFO_ARM64.exe -> executables
+[2026-09-29T17:02:36.313063500] HWiNFO_ARM64.exe moved to / se movio a executables
+[2026-09-29T17:02:36.313588200] hwi_852.zip -> archives
+[2026-09-29T17:02:36.314452900] hwi_852.zip moved to / se movio a archives
+[2026-09-29T17:02:36.314452900] ICDebugLog.txt -> documents
+[2026-09-29T17:02:36.319476400] ICDebugLog.txt moved to / se movio a documents
+[2026-09-29T17:02:36.320488700] ICDownload.log -> logs
+[2026-09-29T17:02:36.321485400] ICDownload.log moved to / se movio a logs
+[2026-09-29T17:02:36.322488300] ICHOSTMetadata.txt -> documents
+[2026-09-29T17:02:36.324762700] ICHOSTMetadata.txt moved to / se movio a documents
+[2026-09-29T17:02:36.324762700] icon.png -> images
+[2026-09-29T17:02:36.325900500] icon.png moved to / se movio a images
+[2026-09-29T17:02:36.326645] icon_payload.bmp -> images
+[2026-09-29T17:02:36.327237500] icon_payload.bmp moved to / se movio a images
+[2026-09-29T17:02:36.327237500] icon_switch.bmp -> images
+[2026-09-29T17:02:36.328749400] icon_switch.bmp moved to / se movio a images
+[2026-09-29T17:02:36.328749400] ICRegMSILog.txt -> documents
+[2026-09-29T17:02:36.330995200] ICRegMSILog.txt moved to / se movio a documents
+[2026-09-29T17:02:36.330995200] if_empty.mcfunction -> unknown
+[2026-09-29T17:02:36.335104100] Skipped unknown file. / Archivo desconocido omitido: if_empty.mcfunction
+[2026-09-29T17:02:36.336102800] importer.py -> programming
+[2026-09-29T17:02:36.337511400] importer.py moved to / se movio a programming
+[2026-09-29T17:02:36.339023800] impuesto.cs -> programming
+[2026-09-29T17:02:36.341056400] impuesto.cs moved to / se movio a programming
+[2026-09-29T17:02:36.343078100] imx_usb.bat -> executables
+[2026-09-29T17:02:36.345608300] imx_usb.bat moved to / se movio a executables
+[2026-09-29T17:02:36.346628500] imx_usb.exe -> executables
+[2026-09-29T17:02:36.349100100] imx_usb.exe moved to / se movio a executables
+[2026-09-29T17:02:36.350118300] index -> unknown
+[2026-09-29T17:02:36.351113800] Skipped unknown file. / Archivo desconocido omitido: index
+[2026-09-29T17:02:36.351113800] index.html -> programming
+[2026-09-29T17:02:36.353782800] index.html moved to / se movio a programming
+[2026-09-29T17:02:36.354792300] infectionsave.json -> configuration
+[2026-09-29T17:02:36.355793600] infectionsave.json moved to / se movio a configuration
+[2026-09-29T17:02:36.355793600] infinitetime.mcfunction -> unknown
+[2026-09-29T17:02:36.357341300] Skipped unknown file. / Archivo desconocido omitido: infinitetime.mcfunction
+[2026-09-29T17:02:36.358495] info.mcfunction -> unknown
+[2026-09-29T17:02:36.359542100] Skipped unknown file. / Archivo desconocido omitido: info.mcfunction
+[2026-09-29T17:02:36.360551700] informe-financiero-consolidado-bancentro-2025.pdf -> documents
+[2026-09-29T17:02:36.361551800] informe-financiero-consolidado-bancentro-2025.pdf moved to / se movio a documents
+[2026-09-29T17:02:36.362936200] infosurvivor.mcfunction -> unknown
+[2026-09-29T17:02:36.363754400] Skipped unknown file. / Archivo desconocido omitido: infosurvivor.mcfunction
+[2026-09-29T17:02:36.364616100] ingame.json -> configuration
+[2026-09-29T17:02:36.368114500] ingame.json moved to / se movio a configuration
+[2026-09-29T17:02:36.369134300] input_1.json -> configuration
+[2026-09-29T17:02:36.370912] input_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.371923200] input_2.json -> configuration
+[2026-09-29T17:02:36.374445400] input_2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.375444] input_3.json -> configuration
+[2026-09-29T17:02:36.377199900] input_3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.378210100] input_4.json -> configuration
+[2026-09-29T17:02:36.379211400] input_4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.379211400] input_5.json -> configuration
+[2026-09-29T17:02:36.383411300] input_5.json moved to / se movio a configuration
+[2026-09-29T17:02:36.384824400] input_6.json -> configuration
+[2026-09-29T17:02:36.385891100] input_6.json moved to / se movio a configuration
+[2026-09-29T17:02:36.387322300] input_7.json -> configuration
+[2026-09-29T17:02:36.389092] input_7.json moved to / se movio a configuration
+[2026-09-29T17:02:36.389092] Insercion.cs -> programming
+[2026-09-29T17:02:36.391014500] Insercion.cs moved to / se movio a programming
+[2026-09-29T17:02:36.393493900] InstallDriver.exe -> executables
+[2026-09-29T17:02:36.394830400] InstallDriver.exe moved to / se movio a executables
+[2026-09-29T17:02:36.394830400] Installed_Apps.txt -> documents
+[2026-09-29T17:02:36.401258900] Installed_Apps.txt moved to / se movio a documents
+[2026-09-29T17:02:36.403787700] Installed_Appx.txt -> documents
+[2026-09-29T17:02:36.407734300] Installed_Appx.txt moved to / se movio a documents
+[2026-09-29T17:02:36.408746700] Installer-7.3.exe -> executables
+[2026-09-29T17:02:36.410879400] Installer-7.3.exe moved to / se movio a executables
+[2026-09-29T17:02:36.411890200] Intel-BE2xx-AX4xx-AX2xx-9xxx-Wi-Fi-Driver_KGD8K_WIN64_24.40.0.4_A74.txt -> documents
+[2026-09-29T17:02:36.414249200] Intel-BE2xx-AX4xx-AX2xx-9xxx-Wi-Fi-Driver_KGD8K_WIN64_24.40.0.4_A74.txt moved to / se movio a documents
+[2026-09-29T17:02:36.414249200] Intel-Driver-and-Support-Assistant-Installer.exe -> executables
+[2026-09-29T17:02:36.416263900] Intel-Driver-and-Support-Assistant-Installer.exe moved to / se movio a executables
+[2026-09-29T17:02:36.418887] interface.cfg -> configuration
+[2026-09-29T17:02:36.419899300] interface.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.419899300] interfaceGFE.cfg -> configuration
+[2026-09-29T17:02:36.422153600] interfaceGFE.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.422153600] INTRO1.yves -> unknown
+[2026-09-29T17:02:36.422153600] Skipped unknown file. / Archivo desconocido omitido: INTRO1.yves
+[2026-09-29T17:02:36.423165400] invalid_animation.mcfunction -> unknown
+[2026-09-29T17:02:36.423165400] Skipped unknown file. / Archivo desconocido omitido: invalid_animation.mcfunction
+[2026-09-29T17:02:36.423165400] invalid_version_warning.mcfunction -> unknown
+[2026-09-29T17:02:36.423165400] Skipped unknown file. / Archivo desconocido omitido: invalid_version_warning.mcfunction
+[2026-09-29T17:02:36.423165400] invisibleplayer.json -> configuration
+[2026-09-29T17:02:36.423165400] invisibleplayer.json moved to / se movio a configuration
+[2026-09-29T17:02:36.423165400] IPConfig_all.txt -> documents
+[2026-09-29T17:02:36.427466] IPConfig_all.txt moved to / se movio a documents
+[2026-09-29T17:02:36.427466] irongolem.mcfunction -> unknown
+[2026-09-29T17:02:36.428974100] Skipped unknown file. / Archivo desconocido omitido: irongolem.mcfunction
+[2026-09-29T17:02:36.428974100] isblind.json -> configuration
+[2026-09-29T17:02:36.430858100] isblind.json moved to / se movio a configuration
+[2026-09-29T17:02:36.432882800] ishungry.json -> configuration
+[2026-09-29T17:02:36.434332800] ishungry.json moved to / se movio a configuration
+[2026-09-29T17:02:36.436793] isminingfatigued.json -> configuration
+[2026-09-29T17:02:36.438807] isminingfatigued.json moved to / se movio a configuration
+[2026-09-29T17:02:36.438807] isonwater.json -> configuration
+[2026-09-29T17:02:36.439817600] isonwater.json moved to / se movio a configuration
+[2026-09-29T17:02:36.441302400] ispoisoned.json -> configuration
+[2026-09-29T17:02:36.443317400] ispoisoned.json moved to / se movio a configuration
+[2026-09-29T17:02:36.443317400] Issues and solutions.txt -> documents
+[2026-09-29T17:02:36.445869200] Issues and solutions.txt moved to / se movio a documents
+[2026-09-29T17:02:36.447794] Italian.xml -> configuration
+[2026-09-29T17:02:36.450867400] Italian.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.451867700] Japanese.xml -> configuration
+[2026-09-29T17:02:36.454003300] Japanese.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.455017700] jdk-21_windows-x64_bin.exe -> executables
+[2026-09-29T17:02:36.456015400] jdk-21_windows-x64_bin.exe moved to / se movio a executables
+[2026-09-29T17:02:36.456015400] jerry.json -> configuration
+[2026-09-29T17:02:36.456015400] jerry.json moved to / se movio a configuration
+[2026-09-29T17:02:36.459013] jerry_perfect.json -> configuration
+[2026-09-29T17:02:36.460939400] jerry_perfect.json moved to / se movio a configuration
+[2026-09-29T17:02:36.460939400] jumpscare.json -> configuration
+[2026-09-29T17:02:36.463140500] jumpscare.json moved to / se movio a configuration
+[2026-09-29T17:02:36.464089200] jumpscare.mcfunction -> unknown
+[2026-09-29T17:02:36.465251100] Skipped unknown file. / Archivo desconocido omitido: jumpscare.mcfunction
+[2026-09-29T17:02:36.466530] jumspcare.mcfunction -> unknown
+[2026-09-29T17:02:36.468265800] Skipped unknown file. / Archivo desconocido omitido: jumspcare.mcfunction
+[2026-09-29T17:02:36.468716200] kill.mcfunction -> unknown
+[2026-09-29T17:02:36.469534300] Skipped unknown file. / Archivo desconocido omitido: kill.mcfunction
+[2026-09-29T17:02:36.470545300] killedbyskeleton.json -> configuration
+[2026-09-29T17:02:36.471541900] killedbyskeleton.json moved to / se movio a configuration
+[2026-09-29T17:02:36.471541900] killitems.mcfunction -> unknown
+[2026-09-29T17:02:36.473051400] Skipped unknown file. / Archivo desconocido omitido: killitems.mcfunction
+[2026-09-29T17:02:36.474102600] killmarkers.mcfunction -> unknown
+[2026-09-29T17:02:36.475679200] Skipped unknown file. / Archivo desconocido omitido: killmarkers.mcfunction
+[2026-09-29T17:02:36.476839400] killplayer.mcfunction -> unknown
+[2026-09-29T17:02:36.476839400] Skipped unknown file. / Archivo desconocido omitido: killplayer.mcfunction
+[2026-09-29T17:02:36.477849100] killsorts.mcfunction -> unknown
+[2026-09-29T17:02:36.477849100] Skipped unknown file. / Archivo desconocido omitido: killsorts.mcfunction
+[2026-09-29T17:02:36.478851300] kill_camera.mcfunction -> unknown
+[2026-09-29T17:02:36.480245900] Skipped unknown file. / Archivo desconocido omitido: kill_camera.mcfunction
+[2026-09-29T17:02:36.480882800] kill_locator.mcfunction -> unknown
+[2026-09-29T17:02:36.480882800] Skipped unknown file. / Archivo desconocido omitido: kill_locator.mcfunction
+[2026-09-29T17:02:36.483420600] Korean.xml -> configuration
+[2026-09-29T17:02:36.486863800] Korean.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.487466300] Latitude5430_8V8Y2T3_Mon09142026_12524674.zip -> archives
+[2026-09-29T17:02:36.488974] Latitude5430_8V8Y2T3_Mon09142026_12524674.zip moved to / se movio a archives
+[2026-09-29T17:02:36.489982700] Latitude5430_8V8Y2T3_Wed09162026_10264139.zip -> archives
+[2026-09-29T17:02:36.490910700] Latitude5430_8V8Y2T3_Wed09162026_10264139.zip moved to / se movio a archives
+[2026-09-29T17:02:36.491920400] Latitude5430_8V8Y2T3_Wed09162026_13544680.zip -> archives
+[2026-09-29T17:02:36.493427] Latitude5430_8V8Y2T3_Wed09162026_13544680.zip moved to / se movio a archives
+[2026-09-29T17:02:36.494435900] Latvian.xml -> configuration
+[2026-09-29T17:02:36.494435900] Latvian.xml moved to / se movio a configuration
+[2026-09-29T17:02:36.495437100] leave.mcfunction -> unknown
+[2026-09-29T17:02:36.495437100] Skipped unknown file. / Archivo desconocido omitido: leave.mcfunction
+[2026-09-29T17:02:36.496436700] leaverbuster.mcfunction -> unknown
+[2026-09-29T17:02:36.497219500] Skipped unknown file. / Archivo desconocido omitido: leaverbuster.mcfunction
+[2026-09-29T17:02:36.497219500] lethaldrink.json -> configuration
+[2026-09-29T17:02:36.500683500] lethaldrink.json moved to / se movio a configuration
+[2026-09-29T17:02:36.502315200] levelskip.mcfunction -> unknown
+[2026-09-29T17:02:36.502315200] Skipped unknown file. / Archivo desconocido omitido: levelskip.mcfunction
+[2026-09-29T17:02:36.504383800] level_0.json -> configuration
+[2026-09-29T17:02:36.504383800] level_0.json moved to / se movio a configuration
+[2026-09-29T17:02:36.504383800] level_1.json -> configuration
+[2026-09-29T17:02:36.509131800] level_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.509131800] level_188.json -> configuration
+[2026-09-29T17:02:36.512076500] level_188.json moved to / se movio a configuration
+[2026-09-29T17:02:36.512076500] level_2.json -> configuration
+[2026-09-29T17:02:36.514103400] level_2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.516562400] level_3.json -> configuration
+[2026-09-29T17:02:36.520369] level_3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.520369] level_4.json -> configuration
+[2026-09-29T17:02:36.521370] level_4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.521370] level_end.json -> configuration
+[2026-09-29T17:02:36.522884] level_end.json moved to / se movio a configuration
+[2026-09-29T17:02:36.522884] level_hub.json -> configuration
+[2026-09-29T17:02:36.522884] level_hub.json moved to / se movio a configuration
+[2026-09-29T17:02:36.522884] libsys_lp0.bso -> unknown
+[2026-09-29T17:02:36.526493700] Skipped unknown file. / Archivo desconocido omitido: libsys_lp0.bso
+[2026-09-29T17:02:36.526493700] libsys_minerva.bso -> unknown
+[2026-09-29T17:02:36.526493700] Skipped unknown file. / Archivo desconocido omitido: libsys_minerva.bso
+[2026-09-29T17:02:36.526493700] libusb-1.0.dll -> unknown
+[2026-09-29T17:02:36.526493700] Skipped unknown file. / Archivo desconocido omitido: libusb-1.0.dll
+[2026-09-29T17:02:36.526493700] LICENSE.txt -> documents
+[2026-09-29T17:02:36.530524300] LICENSE.txt moved to / se movio a documents
+[2026-09-29T17:02:36.531281300] lifeform.json -> configuration
+[2026-09-29T17:02:36.533662700] lifeform.json moved to / se movio a configuration
+[2026-09-29T17:02:36.534666500] light1.json -> configuration
+[2026-09-29T17:02:36.536639800] light1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.536639800] light10.json -> configuration
+[2026-09-29T17:02:36.537652] light10.json moved to / se movio a configuration
+[2026-09-29T17:02:36.537652] light11.json -> configuration
+[2026-09-29T17:02:36.540174700] light11.json moved to / se movio a configuration
+[2026-09-29T17:02:36.540833500] light12.json -> configuration
+[2026-09-29T17:02:36.540833500] light12.json moved to / se movio a configuration
+[2026-09-29T17:02:36.543423700] light13.json -> configuration
+[2026-09-29T17:02:36.543423700] light13.json moved to / se movio a configuration
+[2026-09-29T17:02:36.543423700] light14.json -> configuration
+[2026-09-29T17:02:36.543423700] light14.json moved to / se movio a configuration
+[2026-09-29T17:02:36.543423700] light15.json -> configuration
+[2026-09-29T17:02:36.547535700] light15.json moved to / se movio a configuration
+[2026-09-29T17:02:36.548897500] light16.json -> configuration
+[2026-09-29T17:02:36.551272300] light16.json moved to / se movio a configuration
+[2026-09-29T17:02:36.552289500] light2.json -> configuration
+[2026-09-29T17:02:36.554082100] light2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.554082100] light3.json -> configuration
+[2026-09-29T17:02:36.555093600] light3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.555999700] light4.json -> configuration
+[2026-09-29T17:02:36.555999700] light4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.555999700] light5.json -> configuration
+[2026-09-29T17:02:36.559215300] light5.json moved to / se movio a configuration
+[2026-09-29T17:02:36.559215300] light6.json -> configuration
+[2026-09-29T17:02:36.560609700] light6.json moved to / se movio a configuration
+[2026-09-29T17:02:36.561231200] light7.json -> configuration
+[2026-09-29T17:02:36.561231200] light7.json moved to / se movio a configuration
+[2026-09-29T17:02:36.562741100] light8.json -> configuration
+[2026-09-29T17:02:36.564380800] light8.json moved to / se movio a configuration
+[2026-09-29T17:02:36.564380800] light9.json -> configuration
+[2026-09-29T17:02:36.567942900] light9.json moved to / se movio a configuration
+[2026-09-29T17:02:36.568953800] lightout.json -> configuration
+[2026-09-29T17:02:36.570320800] lightout.json moved to / se movio a configuration
+[2026-09-29T17:02:36.571332900] lightout2.json -> configuration
+[2026-09-29T17:02:36.572141900] lightout2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.572141900] light_raycast_passable.json -> configuration
+[2026-09-29T17:02:36.572141900] light_raycast_passable.json moved to / se movio a configuration
+[2026-09-29T17:02:36.572141900] limbler.json -> configuration
+[2026-09-29T17:02:36.572141900] limbler.json moved to / se movio a configuration
+[2026-09-29T17:02:36.572141900] lineage-23.2-20260919-nightly-genevn-signed.zip -> archives
+[2026-09-29T17:02:36.572141900] lineage-23.2-20260919-nightly-genevn-signed.zip moved to / se movio a archives
+[2026-09-29T17:02:36.572141900] linuxmint-22.3-cinnamon-64bit.iso -> disk_images
+[2026-09-29T17:02:36.579120100] linuxmint-22.3-cinnamon-64bit.iso moved to / se movio a disk_images
+[2026-09-29T17:02:36.580826800] load.json -> configuration
+[2026-09-29T17:02:36.581949] load.json moved to / se movio a configuration
+[2026-09-29T17:02:36.583976800] load.mcfunction -> unknown
+[2026-09-29T17:02:36.583976800] Skipped unknown file. / Archivo desconocido omitido: load.mcfunction
+[2026-09-29T17:02:36.584973600] lobby.mcfunction -> unknown
+[2026-09-29T17:02:36.585902400] Skipped unknown file. / Archivo desconocido omitido: lobby.mcfunction
+[2026-09-29T17:02:36.586221800] LogCollectorStatus.txt -> documents
+[2026-09-29T17:02:36.587799700] LogCollectorStatus.txt moved to / se movio a documents
+[2026-09-29T17:02:36.587799700] Logo thoghts.md -> documents
+[2026-09-29T17:02:36.589312400] Logo thoghts.md moved to / se movio a documents
+[2026-09-29T17:02:36.590681] Logo.md -> documents
+[2026-09-29T17:02:36.592940300] Logo.md moved to / se movio a documents
+[2026-09-29T17:02:36.594758900] logoheader.svg -> images
+[2026-09-29T17:02:36.597139200] logoheader.svg moved to / se movio a images
+[2026-09-29T17:02:36.600111900] loop_mode_stop.mcfunction -> unknown
+[2026-09-29T17:02:36.602139600] Skipped unknown file. / Archivo desconocido omitido: loop_mode_stop.mcfunction
+[2026-09-29T17:02:36.603042800] Macedonian (Latin).xml -> configuration
+[2026-09-29T17:02:36.605054400] Macedonian (Latin).xml moved to / se movio a configuration
+[2026-09-29T17:02:36.606052400] main -> unknown
+[2026-09-29T17:02:36.607053900] Skipped unknown file. / Archivo desconocido omitido: main
+[2026-09-29T17:02:36.607837500] main.json -> configuration
+[2026-09-29T17:02:36.609783900] main.json moved to / se movio a configuration
+[2026-09-29T17:02:36.610794700] main.mcfunction -> unknown
+[2026-09-29T17:02:36.610794700] Skipped unknown file. / Archivo desconocido omitido: main.mcfunction
+[2026-09-29T17:02:36.611900800] main.py -> programming
+[2026-09-29T17:02:36.612908800] main.py moved to / se movio a programming
+[2026-09-29T17:02:36.614315] mainhandblackskull.json -> configuration
+[2026-09-29T17:02:36.617737200] mainhandblackskull.json moved to / se movio a configuration
+[2026-09-29T17:02:36.619507600] mainhandboat.json -> configuration
+[2026-09-29T17:02:36.622266500] mainhandboat.json moved to / se movio a configuration
+[2026-09-29T17:02:36.622266500] mainhandbrick.json -> configuration
+[2026-09-29T17:02:36.622266500] mainhandbrick.json moved to / se movio a configuration
+[2026-09-29T17:02:36.622266500] mainhandcarrotonastick.json -> configuration
+[2026-09-29T17:02:36.622266500] mainhandcarrotonastick.json moved to / se movio a configuration
+[2026-09-29T17:02:36.622266500] mainhandchirp.json -> configuration
+[2026-09-29T17:02:36.629928200] mainhandchirp.json moved to / se movio a configuration
+[2026-09-29T17:02:36.630741600] mainhandclock.json -> configuration
+[2026-09-29T17:02:36.633046700] mainhandclock.json moved to / se movio a configuration
+[2026-09-29T17:02:36.634060900] mainhandcrimson.json -> configuration
+[2026-09-29T17:02:36.635949600] mainhandcrimson.json moved to / se movio a configuration
+[2026-09-29T17:02:36.636964500] mainhandendcrystal.json -> configuration
+[2026-09-29T17:02:36.638114400] mainhandendcrystal.json moved to / se movio a configuration
+[2026-09-29T17:02:36.638114400] mainhandfermented.json -> configuration
+[2026-09-29T17:02:36.640612900] mainhandfermented.json moved to / se movio a configuration
+[2026-09-29T17:02:36.641134300] mainhandfirestar.json -> configuration
+[2026-09-29T17:02:36.642701200] mainhandfirestar.json moved to / se movio a configuration
+[2026-09-29T17:02:36.643778700] mainhandglowframe.json -> configuration
+[2026-09-29T17:02:36.644782800] mainhandglowframe.json moved to / se movio a configuration
+[2026-09-29T17:02:36.645781100] mainhandglowmelon.json -> configuration
+[2026-09-29T17:02:36.649295300] mainhandglowmelon.json moved to / se movio a configuration
+[2026-09-29T17:02:36.651055400] mainhandladder.json -> configuration
+[2026-09-29T17:02:36.656472800] mainhandladder.json moved to / se movio a configuration
+[2026-09-29T17:02:36.657485600] mainhandminecart.json -> configuration
+[2026-09-29T17:02:36.659001300] mainhandminecart.json moved to / se movio a configuration
+[2026-09-29T17:02:36.660919900] mainhandobserver.json -> configuration
+[2026-09-29T17:02:36.662567500] mainhandobserver.json moved to / se movio a configuration
+[2026-09-29T17:02:36.663078800] mainhandquartz.json -> configuration
+[2026-09-29T17:02:36.664870200] mainhandquartz.json moved to / se movio a configuration
+[2026-09-29T17:02:36.665898300] mainhandsculk.json -> configuration
+[2026-09-29T17:02:36.666882800] mainhandsculk.json moved to / se movio a configuration
+[2026-09-29T17:02:36.667890600] mainhandsculkvein.json -> configuration
+[2026-09-29T17:02:36.669392800] mainhandsculkvein.json moved to / se movio a configuration
+[2026-09-29T17:02:36.670568500] mainhandshears.json -> configuration
+[2026-09-29T17:02:36.671681800] mainhandshears.json moved to / se movio a configuration
+[2026-09-29T17:02:36.672683700] mainhandspyglass.json -> configuration
+[2026-09-29T17:02:36.673834700] mainhandspyglass.json moved to / se movio a configuration
+[2026-09-29T17:02:36.673834700] mainhandtinted.json -> configuration
+[2026-09-29T17:02:36.675843800] mainhandtinted.json moved to / se movio a configuration
+[2026-09-29T17:02:36.675843800] mainhandtntcart.json -> configuration
+[2026-09-29T17:02:36.675843800] mainhandtntcart.json moved to / se movio a configuration
+[2026-09-29T17:02:36.679192800] mainhandtorch.json -> configuration
+[2026-09-29T17:02:36.681252700] mainhandtorch.json moved to / se movio a configuration
+[2026-09-29T17:02:36.683279] mainhandultimateitem.json -> configuration
+[2026-09-29T17:02:36.684505500] mainhandultimateitem.json moved to / se movio a configuration
+[2026-09-29T17:02:36.686404500] mainhandwarped.json -> configuration
+[2026-09-29T17:02:36.688081] mainhandwarped.json moved to / se movio a configuration
+[2026-09-29T17:02:36.689082300] mainhandwart.json -> configuration
+[2026-09-29T17:02:36.690041600] mainhandwart.json moved to / se movio a configuration
+[2026-09-29T17:02:36.691247900] mainhandwhitedye.json -> configuration
+[2026-09-29T17:02:36.693374800] mainhandwhitedye.json moved to / se movio a configuration
+[2026-09-29T17:02:36.693374800] mainhand_day.json -> configuration
+[2026-09-29T17:02:36.693374800] mainhand_day.json moved to / se movio a configuration
+[2026-09-29T17:02:36.693374800] make_f2fs.exe -> executables
+[2026-09-29T17:02:36.697498700] make_f2fs.exe moved to / se movio a executables
+[2026-09-29T17:02:36.699201100] make_f2fs_casefold.exe -> executables
+[2026-09-29T17:02:36.701214100] make_f2fs_casefold.exe moved to / se movio a executables
+[2026-09-29T17:02:36.702528] make_unique.mcfunction -> unknown
+[2026-09-29T17:02:36.703087800] Skipped unknown file. / Archivo desconocido omitido: make_unique.mcfunction
+[2026-09-29T17:02:36.703087800] Manual de marca.md -> documents
+[2026-09-29T17:02:36.705098200] Manual de marca.md moved to / se movio a documents
+[2026-09-29T17:02:36.706864200] md_converter.py -> programming
+[2026-09-29T17:02:36.708890100] md_converter.py moved to / se movio a programming
+[2026-09-29T17:02:36.710810300] Meeting started 2026_09_16 20_07 CST - Notes by Gemini (Spanish) (1).docx -> documents
+[2026-09-29T17:02:36.712149600] Meeting started 2026_09_16 20_07 CST - Notes by Gemini (Spanish) (1).docx moved to / se movio a documents
+[2026-09-29T17:02:36.714171300] Meeting started 2026_09_16 20_07 CST - Notes by Gemini (Spanish).docx -> documents
+[2026-09-29T17:02:36.716619600] Meeting started 2026_09_16 20_07 CST - Notes by Gemini (Spanish).docx moved to / se movio a documents
+[2026-09-29T17:02:36.719144] memloader_usb.bin -> executables
+[2026-09-29T17:02:36.720851100] memloader_usb.bin moved to / se movio a executables
+[2026-09-29T17:02:36.721462] Memory_Info.txt -> documents
+[2026-09-29T17:02:36.721462] Memory_Info.txt moved to / se movio a documents
+[2026-09-29T17:02:36.722976700] mindset komorebic.md -> documents
+[2026-09-29T17:02:36.723939] mindset komorebic.md moved to / se movio a documents
+[2026-09-29T17:02:36.725225100] minutetime.mcfunction -> unknown
+[2026-09-29T17:02:36.725680400] Skipped unknown file. / Archivo desconocido omitido: minutetime.mcfunction
+[2026-09-29T17:02:36.725680400] mke2fs.conf -> configuration
+[2026-09-29T17:02:36.726690900] mke2fs.conf moved to / se movio a configuration
+[2026-09-29T17:02:36.726690900] mke2fs.exe -> executables
+[2026-09-29T17:02:36.727688600] mke2fs.exe moved to / se movio a executables
+[2026-09-29T17:02:36.727688600] mod4_1.json -> configuration
+[2026-09-29T17:02:36.729744700] mod4_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.730739100] mods.json -> configuration
+[2026-09-29T17:02:36.731289100] mods.json moved to / se movio a configuration
+[2026-09-29T17:02:36.731289100] mod_1.json -> configuration
+[2026-09-29T17:02:36.737138200] mod_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.741681300] mod_1_1.json -> configuration
+[2026-09-29T17:02:36.743817] mod_1_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.743817] mod_2.json -> configuration
+[2026-09-29T17:02:36.750979400] mod_2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.752455100] mod_3.json -> configuration
+[2026-09-29T17:02:36.753471200] mod_3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.755705600] mod_4.json -> configuration
+[2026-09-29T17:02:36.758096] mod_4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.758096] mod_4_1.json -> configuration
+[2026-09-29T17:02:36.760893] mod_4_1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.764451200] mod_5.json -> configuration
+[2026-09-29T17:02:36.768990700] mod_5.json moved to / se movio a configuration
+[2026-09-29T17:02:36.771067100] mod_6.json -> configuration
+[2026-09-29T17:02:36.774859400] mod_6.json moved to / se movio a configuration
+[2026-09-29T17:02:36.774859400] Monitor.txt -> documents
+[2026-09-29T17:02:36.778219600] Monitor.txt moved to / se movio a documents
+[2026-09-29T17:02:36.778727] Motorola_Mobile_Drivers_64bit.msi -> executables
+[2026-09-29T17:02:36.781193] Motorola_Mobile_Drivers_64bit.msi moved to / se movio a executables
+[2026-09-29T17:02:36.782703300] move.mcfunction -> unknown
+[2026-09-29T17:02:36.783763200] Skipped unknown file. / Archivo desconocido omitido: move.mcfunction
+[2026-09-29T17:02:36.785371400] MsInfo32.nfo -> unknown
+[2026-09-29T17:02:36.786304500] Skipped unknown file. / Archivo desconocido omitido: MsInfo32.nfo
+[2026-09-29T17:02:36.787368700] mtc_tbl_b01.bin -> executables
+[2026-09-29T17:02:36.789600400] mtc_tbl_b01.bin moved to / se movio a executables
+[2026-09-29T17:02:36.789600400] multiplayerstaminapotion.json -> configuration
+[2026-09-29T17:02:36.792484200] multiplayerstaminapotion.json moved to / se movio a configuration
+[2026-09-29T17:02:36.793496900] My One Desire-2026-09-17.ttml-project.json -> configuration
+[2026-09-29T17:02:36.795519100] My One Desire-2026-09-17.ttml-project.json moved to / se movio a configuration
+[2026-09-29T17:02:36.797515700] My One Desire.mp3 -> music
+[2026-09-29T17:02:36.801647] My One Desire.mp3 moved to / se movio a music
+[2026-09-29T17:02:36.802968600] Net_Adapter_Adv_Properties.txt -> documents
+[2026-09-29T17:02:36.805566800] Net_Adapter_Adv_Properties.txt moved to / se movio a documents
+[2026-09-29T17:02:36.806582700] newcostume.mcfunction -> unknown
+[2026-09-29T17:02:36.806582700] Skipped unknown file. / Archivo desconocido omitido: newcostume.mcfunction
+[2026-09-29T17:02:36.807474700] next_frame.mcfunction -> unknown
+[2026-09-29T17:02:36.807474700] Skipped unknown file. / Archivo desconocido omitido: next_frame.mcfunction
+[2026-09-29T17:02:36.808989800] noclip.json -> configuration
+[2026-09-29T17:02:36.808989800] noclip.json moved to / se movio a configuration
+[2026-09-29T17:02:36.808989800] nocliper.mcfunction -> unknown
+[2026-09-29T17:02:36.808989800] Skipped unknown file. / Archivo desconocido omitido: nocliper.mcfunction
+[2026-09-29T17:02:36.808989800] nodeaths.json -> configuration
+[2026-09-29T17:02:36.813893500] nodeaths.json moved to / se movio a configuration
+[2026-09-29T17:02:36.815397100] nodoorescape.json -> configuration
+[2026-09-29T17:02:36.818048700] nodoorescape.json moved to / se movio a configuration
+[2026-09-29T17:02:36.818048700] nohelp.json -> configuration
+[2026-09-29T17:02:36.819560500] nohelp.json moved to / se movio a configuration
+[2026-09-29T17:02:36.820389500] nothingonfeet.json -> configuration
+[2026-09-29T17:02:36.820389500] nothingonfeet.json moved to / se movio a configuration
+[2026-09-29T17:02:36.820389500] NOTICE.txt -> documents
+[2026-09-29T17:02:36.820389500] NOTICE.txt moved to / se movio a documents
+[2026-09-29T17:02:36.820389500] not_sneak.json -> configuration
+[2026-09-29T17:02:36.820389500] not_sneak.json moved to / se movio a configuration
+[2026-09-29T17:02:36.820389500] no_negative.mcfunction -> unknown
+[2026-09-29T17:02:36.820389500] Skipped unknown file. / Archivo desconocido omitido: no_negative.mcfunction
+[2026-09-29T17:02:36.826522400] no_variants_warning.mcfunction -> unknown
+[2026-09-29T17:02:36.826522400] Skipped unknown file. / Archivo desconocido omitido: no_variants_warning.mcfunction
+[2026-09-29T17:02:36.827531300] Num.cs -> programming
+[2026-09-29T17:02:36.827531300] Num.cs moved to / se movio a programming
+[2026-09-29T17:02:36.829040300] Numeros.cs -> programming
+[2026-09-29T17:02:36.830228500] Numeros.cs moved to / se movio a programming
+[2026-09-29T17:02:36.832532900] nvbdriverfiles.cfg -> configuration
+[2026-09-29T17:02:36.834901] nvbdriverfiles.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.834901] nvbservice.cfg -> configuration
+[2026-09-29T17:02:36.836921700] nvbservice.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.837909900] nyx.bin -> executables
+[2026-09-29T17:02:36.838913100] nyx.bin moved to / se movio a executables
+[2026-09-29T17:02:36.839597700] nyx.ini -> configuration
+[2026-09-29T17:02:36.840502] nyx.ini moved to / se movio a configuration
+[2026-09-29T17:02:36.840502] OCCT-26916-011107.png -> images
+[2026-09-29T17:02:36.841806500] OCCT-26916-011107.png moved to / se movio a images
+[2026-09-29T17:02:36.841806500] OCCT-26916-125454.png -> images
+[2026-09-29T17:02:36.842814300] OCCT-26916-125454.png moved to / se movio a images
+[2026-09-29T17:02:36.842814300] OCCT.config.json -> configuration
+[2026-09-29T17:02:36.843859600] OCCT.config.json moved to / se movio a configuration
+[2026-09-29T17:02:36.843859600] OCCT.exe -> executables
+[2026-09-29T17:02:36.846589100] OCCT.exe moved to / se movio a executables
+[2026-09-29T17:02:36.847177600] off.mcfunction -> unknown
+[2026-09-29T17:02:36.847177600] Skipped unknown file. / Archivo desconocido omitido: off.mcfunction
+[2026-09-29T17:02:36.849009900] offhand1.json -> configuration
+[2026-09-29T17:02:36.851019600] offhand1.json moved to / se movio a configuration
+[2026-09-29T17:02:36.851825300] offhand10.json -> configuration
+[2026-09-29T17:02:36.853142600] offhand10.json moved to / se movio a configuration
+[2026-09-29T17:02:36.853700600] offhand11.json -> configuration
+[2026-09-29T17:02:36.857708900] offhand11.json moved to / se movio a configuration
+[2026-09-29T17:02:36.857708900] offhand12.json -> configuration
+[2026-09-29T17:02:36.859980500] offhand12.json moved to / se movio a configuration
+[2026-09-29T17:02:36.860742500] offhand13.json -> configuration
+[2026-09-29T17:02:36.861752300] offhand13.json moved to / se movio a configuration
+[2026-09-29T17:02:36.861752300] offhand14.json -> configuration
+[2026-09-29T17:02:36.862763600] offhand14.json moved to / se movio a configuration
+[2026-09-29T17:02:36.863903600] offhand15.json -> configuration
+[2026-09-29T17:02:36.866457200] offhand15.json moved to / se movio a configuration
+[2026-09-29T17:02:36.867144400] offhand16.json -> configuration
+[2026-09-29T17:02:36.869169400] offhand16.json moved to / se movio a configuration
+[2026-09-29T17:02:36.870078100] offhand17.json -> configuration
+[2026-09-29T17:02:36.870783900] offhand17.json moved to / se movio a configuration
+[2026-09-29T17:02:36.871794800] offhand18.json -> configuration
+[2026-09-29T17:02:36.871794800] offhand18.json moved to / se movio a configuration
+[2026-09-29T17:02:36.871794800] offhand19.json -> configuration
+[2026-09-29T17:02:36.871794800] offhand19.json moved to / se movio a configuration
+[2026-09-29T17:02:36.871794800] offhand2.json -> configuration
+[2026-09-29T17:02:36.871794800] offhand2.json moved to / se movio a configuration
+[2026-09-29T17:02:36.871794800] offhand20.json -> configuration
+[2026-09-29T17:02:36.876719200] offhand20.json moved to / se movio a configuration
+[2026-09-29T17:02:36.876719200] offhand21.json -> configuration
+[2026-09-29T17:02:36.877729600] offhand21.json moved to / se movio a configuration
+[2026-09-29T17:02:36.877729600] offhand22.json -> configuration
+[2026-09-29T17:02:36.878727900] offhand22.json moved to / se movio a configuration
+[2026-09-29T17:02:36.878727900] offhand23.json -> configuration
+[2026-09-29T17:02:36.880319200] offhand23.json moved to / se movio a configuration
+[2026-09-29T17:02:36.881280800] offhand24.json -> configuration
+[2026-09-29T17:02:36.883867900] offhand24.json moved to / se movio a configuration
+[2026-09-29T17:02:36.884376500] offhand25.json -> configuration
+[2026-09-29T17:02:36.884376500] offhand25.json moved to / se movio a configuration
+[2026-09-29T17:02:36.885398500] offhand26.json -> configuration
+[2026-09-29T17:02:36.886390500] offhand26.json moved to / se movio a configuration
+[2026-09-29T17:02:36.886390500] offhand27.json -> configuration
+[2026-09-29T17:02:36.887389200] offhand27.json moved to / se movio a configuration
+[2026-09-29T17:02:36.887389200] offhand28.json -> configuration
+[2026-09-29T17:02:36.887389200] offhand28.json moved to / se movio a configuration
+[2026-09-29T17:02:36.887389200] offhand29.json -> configuration
+[2026-09-29T17:02:36.889722200] offhand29.json moved to / se movio a configuration
+[2026-09-29T17:02:36.890503200] offhand3.json -> configuration
+[2026-09-29T17:02:36.890503200] offhand3.json moved to / se movio a configuration
+[2026-09-29T17:02:36.891846200] offhand30.json -> configuration
+[2026-09-29T17:02:36.891846200] offhand30.json moved to / se movio a configuration
+[2026-09-29T17:02:36.892856800] offhand31.json -> configuration
+[2026-09-29T17:02:36.892856800] offhand31.json moved to / se movio a configuration
+[2026-09-29T17:02:36.893857900] offhand32.json -> configuration
+[2026-09-29T17:02:36.893857900] offhand32.json moved to / se movio a configuration
+[2026-09-29T17:02:36.893857900] offhand33.json -> configuration
+[2026-09-29T17:02:36.893857900] offhand33.json moved to / se movio a configuration
+[2026-09-29T17:02:36.896433300] offhand34.json -> configuration
+[2026-09-29T17:02:36.897063100] offhand34.json moved to / se movio a configuration
+[2026-09-29T17:02:36.899082] offhand35.json -> configuration
+[2026-09-29T17:02:36.900540100] offhand35.json moved to / se movio a configuration
+[2026-09-29T17:02:36.900540100] offhand36.json -> configuration
+[2026-09-29T17:02:36.901991] offhand36.json moved to / se movio a configuration
+[2026-09-29T17:02:36.903003600] offhand37.json -> configuration
+[2026-09-29T17:02:36.904005] offhand37.json moved to / se movio a configuration
+[2026-09-29T17:02:36.904005] offhand38.json -> configuration
+[2026-09-29T17:02:36.905014200] offhand38.json moved to / se movio a configuration
+[2026-09-29T17:02:36.905014200] offhand39.json -> configuration
+[2026-09-29T17:02:36.905014200] offhand39.json moved to / se movio a configuration
+[2026-09-29T17:02:36.908811600] offhand4.json -> configuration
+[2026-09-29T17:02:36.908811600] offhand4.json moved to / se movio a configuration
+[2026-09-29T17:02:36.910428500] offhand40.json -> configuration
+[2026-09-29T17:02:36.910428500] offhand40.json moved to / se movio a configuration
+[2026-09-29T17:02:36.910428500] offhand41.json -> configuration
+[2026-09-29T17:02:36.912442300] offhand41.json moved to / se movio a configuration
+[2026-09-29T17:02:36.914542900] offhand42.json -> configuration
+[2026-09-29T17:02:36.915900] offhand42.json moved to / se movio a configuration
+[2026-09-29T17:02:36.916889100] offhand43.json -> configuration
+[2026-09-29T17:02:36.918942300] offhand43.json moved to / se movio a configuration
+[2026-09-29T17:02:36.920040100] offhand44.json -> configuration
+[2026-09-29T17:02:36.921452100] offhand44.json moved to / se movio a configuration
+[2026-09-29T17:02:36.921452100] offhand45.json -> configuration
+[2026-09-29T17:02:36.922463700] offhand45.json moved to / se movio a configuration
+[2026-09-29T17:02:36.922463700] offhand46.json -> configuration
+[2026-09-29T17:02:36.923460400] offhand46.json moved to / se movio a configuration
+[2026-09-29T17:02:36.924475200] offhand47.json -> configuration
+[2026-09-29T17:02:36.925983500] offhand47.json moved to / se movio a configuration
+[2026-09-29T17:02:36.925983500] offhand48.json -> configuration
+[2026-09-29T17:02:36.926997900] offhand48.json moved to / se movio a configuration
+[2026-09-29T17:02:36.926997900] offhand49.json -> configuration
+[2026-09-29T17:02:36.928300500] offhand49.json moved to / se movio a configuration
+[2026-09-29T17:02:36.928810700] offhand5.json -> configuration
+[2026-09-29T17:02:36.930316600] offhand5.json moved to / se movio a configuration
+[2026-09-29T17:02:36.930316600] offhand50.json -> configuration
+[2026-09-29T17:02:36.933347700] offhand50.json moved to / se movio a configuration
+[2026-09-29T17:02:36.934082200] offhand51.json -> configuration
+[2026-09-29T17:02:36.935103800] offhand51.json moved to / se movio a configuration
+[2026-09-29T17:02:36.935103800] offhand52.json -> configuration
+[2026-09-29T17:02:36.936092500] offhand52.json moved to / se movio a configuration
+[2026-09-29T17:02:36.936092500] offhand53.json -> configuration
+[2026-09-29T17:02:36.937097100] offhand53.json moved to / se movio a configuration
+[2026-09-29T17:02:36.937097100] offhand54.json -> configuration
+[2026-09-29T17:02:36.939146200] offhand54.json moved to / se movio a configuration
+[2026-09-29T17:02:36.939146200] offhand6.json -> configuration
+[2026-09-29T17:02:36.939146200] offhand6.json moved to / se movio a configuration
+[2026-09-29T17:02:36.939146200] offhand7.json -> configuration
+[2026-09-29T17:02:36.939146200] offhand7.json moved to / se movio a configuration
+[2026-09-29T17:02:36.939146200] offhand8.json -> configuration
+[2026-09-29T17:02:36.939146200] offhand8.json moved to / se movio a configuration
+[2026-09-29T17:02:36.943355300] offhand9.json -> configuration
+[2026-09-29T17:02:36.944363400] offhand9.json moved to / se movio a configuration
+[2026-09-29T17:02:36.944363400] offhandclock.json -> configuration
+[2026-09-29T17:02:36.945377500] offhandclock.json moved to / se movio a configuration
+[2026-09-29T17:02:36.945377500] offhandeggall.json -> configuration
+[2026-09-29T17:02:36.947003500] offhandeggall.json moved to / se movio a configuration
+[2026-09-29T17:02:36.947955900] offhandshears.json -> configuration
+[2026-09-29T17:02:36.950521200] offhandshears.json moved to / se movio a configuration
+[2026-09-29T17:02:36.951560100] offhandtorch.json -> configuration
+[2026-09-29T17:02:36.952567300] offhandtorch.json moved to / se movio a configuration
+[2026-09-29T17:02:36.952567300] offhandultimateitem.json -> configuration
+[2026-09-29T17:02:36.953567800] offhandultimateitem.json moved to / se movio a configuration
+[2026-09-29T17:02:36.953567800] on_load.json -> configuration
+[2026-09-29T17:02:36.954568800] on_load.json moved to / se movio a configuration
+[2026-09-29T17:02:36.954568800] on_load.mcfunction -> unknown
+[2026-09-29T17:02:36.954568800] Skipped unknown file. / Archivo desconocido omitido: on_load.mcfunction
+[2026-09-29T17:02:36.955568500] on_tick.json -> configuration
+[2026-09-29T17:02:36.956858800] on_tick.json moved to / se movio a configuration
+[2026-09-29T17:02:36.956858800] on_tick.mcfunction -> unknown
+[2026-09-29T17:02:36.957868400] Skipped unknown file. / Archivo desconocido omitido: on_tick.mcfunction
+[2026-09-29T17:02:36.957868400] open.mcfunction -> unknown
+[2026-09-29T17:02:36.957868400] Skipped unknown file. / Archivo desconocido omitido: open.mcfunction
+[2026-09-29T17:02:36.958869500] opengate.json -> configuration
+[2026-09-29T17:02:36.958869500] opengate.json moved to / se movio a configuration
+[2026-09-29T17:02:36.960166200] open_a_terminal_here.bat -> executables
+[2026-09-29T17:02:36.961291] open_a_terminal_here.bat moved to / se movio a executables
+[2026-09-29T17:02:36.961291] orangedrink.mcfunction -> unknown
+[2026-09-29T17:02:36.961291] Skipped unknown file. / Archivo desconocido omitido: orangedrink.mcfunction
+[2026-09-29T17:02:36.962801] OS_Refresh_Upgrade.txt -> documents
+[2026-09-29T17:02:36.963621500] OS_Refresh_Upgrade.txt moved to / se movio a documents
+[2026-09-29T17:02:36.963621500] outrange_max.mcfunction -> unknown
+[2026-09-29T17:02:36.963621500] Skipped unknown file. / Archivo desconocido omitido: outrange_max.mcfunction
+[2026-09-29T17:02:36.966630600] outrange_min.mcfunction -> unknown
+[2026-09-29T17:02:36.966630600] Skipped unknown file. / Archivo desconocido omitido: outrange_min.mcfunction
+[2026-09-29T17:02:36.967349900] overdose.json -> configuration
+[2026-09-29T17:02:36.967825600] overdose.json moved to / se movio a configuration
+[2026-09-29T17:02:36.968833300] overkillpill.json -> configuration
+[2026-09-29T17:02:36.968833300] overkillpill.json moved to / se movio a configuration
+[2026-09-29T17:02:36.969843900] override_config.ini -> configuration
+[2026-09-29T17:02:36.970844900] override_config.ini moved to / se movio a configuration
+[2026-09-29T17:02:36.970844900] P02_Programación Estructurada.pdf -> documents
+[2026-09-29T17:02:36.972843900] P02_Programación Estructurada.pdf moved to / se movio a documents
+[2026-09-29T17:02:36.972843900] pack.mcmeta -> unknown
+[2026-09-29T17:02:36.972843900] Skipped unknown file. / Archivo desconocido omitido: pack.mcmeta
+[2026-09-29T17:02:36.974487800] packages.cfg -> configuration
+[2026-09-29T17:02:36.975496200] packages.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.975496200] packagesendurance.cfg -> configuration
+[2026-09-29T17:02:36.976494700] packagesendurance.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.977497] packagesigs.cfg -> configuration
+[2026-09-29T17:02:36.977497] packagesigs.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.977497] packagesnpu.cfg -> configuration
+[2026-09-29T17:02:36.980360400] packagesnpu.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.980872600] packagesoneapi.cfg -> configuration
+[2026-09-29T17:02:36.980872600] packagesoneapi.cfg moved to / se movio a configuration
+[2026-09-29T17:02:36.980872600] PACK_CFW_NINTRICKS V22.5.0.zip -> archives
+[2026-09-29T17:02:36.980872600] PACK_CFW_NINTRICKS V22.5.0.zip moved to / se movio a archives
+[2026-09-29T17:02:36.980872600] painkillers.mcfunction -> unknown
+[2026-09-29T17:02:36.980872600] Skipped unknown file. / Archivo desconocido omitido: painkillers.mcfunction
+[2026-09-29T17:02:36.986678700] palindromo.cs -> programming
+[2026-09-29T17:02:36.987200500] palindromo.cs moved to / se movio a programming
+[2026-09-29T17:02:36.987200500] passive.mcfunction -> unknown
+[2026-09-29T17:02:36.987200500] Skipped unknown file. / Archivo desconocido omitido: passive.mcfunction
+[2026-09-29T17:02:36.988707100] patch_states.ini -> configuration
+[2026-09-29T17:02:36.988707100] patch_states.ini moved to / se movio a configuration
+[2026-09-29T17:02:36.989717] pathfinder.mcfunction -> unknown
+[2026-09-29T17:02:36.990587500] Skipped unknown file. / Archivo desconocido omitido: pathfinder.mcfunction
+[2026-09-29T17:02:36.990587500] pause.mcfunction -> unknown
+[2026-09-29T17:02:36.991236600] Skipped unknown file. / Archivo desconocido omitido: pause.mcfunction
+[2026-09-29T17:02:36.991915500] pause_all.mcfunction -> unknown
+[2026-09-29T17:02:36.991915500] Skipped unknown file. / Archivo desconocido omitido: pause_all.mcfunction
+[2026-09-29T17:02:36.992583100] PCIe_Device_Info.txt -> documents
+[2026-09-29T17:02:36.993591700] PCIe_Device_Info.txt moved to / se movio a documents
+[2026-09-29T17:02:36.994594500] PerformanceTest_Windows_x86-64.exe -> executables
+[2026-09-29T17:02:36.994594500] PerformanceTest_Windows_x86-64.exe moved to / se movio a executables
+[2026-09-29T17:02:36.995841] peripheral_pair.json -> configuration
+[2026-09-29T17:02:36.996853200] peripheral_pair.json moved to / se movio a configuration
+[2026-09-29T17:02:36.999014200] Persian.xml -> configuration
+[2026-09-29T17:02:37.000683900] Persian.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.000683900] pillssave.json -> configuration
+[2026-09-29T17:02:37.001692] pillssave.json moved to / se movio a configuration
+[2026-09-29T17:02:37.002693300] Ping_Test.txt -> documents
+[2026-09-29T17:02:37.003495900] Ping_Test.txt moved to / se movio a documents
+[2026-09-29T17:02:37.004505600] pitfalls.json -> configuration
+[2026-09-29T17:02:37.004505600] pitfalls.json moved to / se movio a configuration
+[2026-09-29T17:02:37.004505600] platform-tools-latest-windows.zip -> archives
+[2026-09-29T17:02:37.004505600] platform-tools-latest-windows.zip moved to / se movio a archives
+[2026-09-29T17:02:37.004505600] play.mcfunction -> unknown
+[2026-09-29T17:02:37.004505600] Skipped unknown file. / Archivo desconocido omitido: play.mcfunction
+[2026-09-29T17:02:37.004505600] playagain.mcfunction -> unknown
+[2026-09-29T17:02:37.004505600] Skipped unknown file. / Archivo desconocido omitido: playagain.mcfunction
+[2026-09-29T17:02:37.008422100] playerfinder.mcfunction -> unknown
+[2026-09-29T17:02:37.008929600] Skipped unknown file. / Archivo desconocido omitido: playerfinder.mcfunction
+[2026-09-29T17:02:37.008929600] PNP_Devices.txt -> documents
+[2026-09-29T17:02:37.009938200] PNP_Devices.txt moved to / se movio a documents
+[2026-09-29T17:02:37.010941600] Polish.xml -> configuration
+[2026-09-29T17:02:37.010941600] Polish.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.011941300] Portuguese.xml -> configuration
+[2026-09-29T17:02:37.013109900] Portuguese.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.013707100] PortugueseBrazil.xml -> configuration
+[2026-09-29T17:02:37.013707100] PortugueseBrazil.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.013707100] posbasico.cs -> programming
+[2026-09-29T17:02:37.013707100] posbasico.cs moved to / se movio a programming
+[2026-09-29T17:02:37.013707100] post-update.sample -> unknown
+[2026-09-29T17:02:37.013707100] Skipped unknown file. / Archivo desconocido omitido: post-update.sample
+[2026-09-29T17:02:37.013707100] Power_Schemes.txt -> documents
+[2026-09-29T17:02:37.019046100] Power_Schemes.txt moved to / se movio a documents
+[2026-09-29T17:02:37.020010100] PP.7.15.0.build.118423570.ZDescargas.org.rar -> archives
+[2026-09-29T17:02:37.021022200] PP.7.15.0.build.118423570.ZDescargas.org.rar moved to / se movio a archives
+[2026-09-29T17:02:37.021022200] PPTX Slides.md -> documents
+[2026-09-29T17:02:37.022020900] PPTX Slides.md moved to / se movio a documents
+[2026-09-29T17:02:37.022020900] pre-applypatch.sample -> unknown
+[2026-09-29T17:02:37.023021100] Skipped unknown file. / Archivo desconocido omitido: pre-applypatch.sample
+[2026-09-29T17:02:37.023021100] pre-commit.sample -> unknown
+[2026-09-29T17:02:37.024022] Skipped unknown file. / Archivo desconocido omitido: pre-commit.sample
+[2026-09-29T17:02:37.024022] pre-merge-commit.sample -> unknown
+[2026-09-29T17:02:37.024022] Skipped unknown file. / Archivo desconocido omitido: pre-merge-commit.sample
+[2026-09-29T17:02:37.025021300] pre-push.sample -> unknown
+[2026-09-29T17:02:37.025723300] Skipped unknown file. / Archivo desconocido omitido: pre-push.sample
+[2026-09-29T17:02:37.026553100] pre-rebase.sample -> unknown
+[2026-09-29T17:02:37.026553100] Skipped unknown file. / Archivo desconocido omitido: pre-rebase.sample
+[2026-09-29T17:02:37.026553100] pre-receive.sample -> unknown
+[2026-09-29T17:02:37.027564100] Skipped unknown file. / Archivo desconocido omitido: pre-receive.sample
+[2026-09-29T17:02:37.027564100] prepare-commit-msg.sample -> unknown
+[2026-09-29T17:02:37.027564100] Skipped unknown file. / Archivo desconocido omitido: prepare-commit-msg.sample
+[2026-09-29T17:02:37.027564100] Procesohistrico-Causasprincipales-Consecuenciaspri (1).csv -> spreadsheets
+[2026-09-29T17:02:37.030085300] Procesohistrico-Causasprincipales-Consecuenciaspri (1).csv moved to / se movio a spreadsheets
+[2026-09-29T17:02:37.030085300] process.mcfunction -> unknown
+[2026-09-29T17:02:37.030085300] Skipped unknown file. / Archivo desconocido omitido: process.mcfunction
+[2026-09-29T17:02:37.034032500] processes.csv -> spreadsheets
+[2026-09-29T17:02:37.034659900] processes.csv moved to / se movio a spreadsheets
+[2026-09-29T17:02:37.035670300] Prog.cs -> programming
+[2026-09-29T17:02:37.037645700] Prog.cs moved to / se movio a programming
+[2026-09-29T17:02:37.037645700] Program-1.cs -> programming
+[2026-09-29T17:02:37.038652500] Program-1.cs moved to / se movio a programming
+[2026-09-29T17:02:37.038652500] Program-2.cs -> programming
+[2026-09-29T17:02:37.038652500] Program-2.cs moved to / se movio a programming
+[2026-09-29T17:02:37.038652500] Program.cs -> programming
+[2026-09-29T17:02:37.038652500] Program.cs moved to / se movio a programming
+[2026-09-29T17:02:37.038652500] Provisioning_Packages.txt -> documents
+[2026-09-29T17:02:37.043429200] Provisioning_Packages.txt moved to / se movio a documents
+[2026-09-29T17:02:37.043429200] push-to-checkout.sample -> unknown
+[2026-09-29T17:02:37.044439100] Skipped unknown file. / Archivo desconocido omitido: push-to-checkout.sample
+[2026-09-29T17:02:37.044439100] pve.json -> configuration
+[2026-09-29T17:02:37.046439900] pve.json moved to / se movio a configuration
+[2026-09-29T17:02:37.046828200] pvp.json -> configuration
+[2026-09-29T17:02:37.048833700] pvp.json moved to / se movio a configuration
+[2026-09-29T17:02:37.050229200] quicktest.mcfunction -> unknown
+[2026-09-29T17:02:37.051156700] Skipped unknown file. / Archivo desconocido omitido: quicktest.mcfunction
+[2026-09-29T17:02:37.051156700] r.-1.-1.mca -> unknown
+[2026-09-29T17:02:37.052165900] Skipped unknown file. / Archivo desconocido omitido: r.-1.-1.mca
+[2026-09-29T17:02:37.052165900] r.-1.-2.mca -> unknown
+[2026-09-29T17:02:37.053166600] Skipped unknown file. / Archivo desconocido omitido: r.-1.-2.mca
+[2026-09-29T17:02:37.053166600] r.-1.-3.mca -> unknown
+[2026-09-29T17:02:37.053166600] Skipped unknown file. / Archivo desconocido omitido: r.-1.-3.mca
+[2026-09-29T17:02:37.054166600] r.-1.-4.mca -> unknown
+[2026-09-29T17:02:37.054166600] Skipped unknown file. / Archivo desconocido omitido: r.-1.-4.mca
+[2026-09-29T17:02:37.054902] r.-1.-5.mca -> unknown
+[2026-09-29T17:02:37.054902] Skipped unknown file. / Archivo desconocido omitido: r.-1.-5.mca
+[2026-09-29T17:02:37.055678] r.-1.-6.mca -> unknown
+[2026-09-29T17:02:37.056101900] Skipped unknown file. / Archivo desconocido omitido: r.-1.-6.mca
+[2026-09-29T17:02:37.056597600] r.-1.-7.mca -> unknown
+[2026-09-29T17:02:37.056597600] Skipped unknown file. / Archivo desconocido omitido: r.-1.-7.mca
+[2026-09-29T17:02:37.056597600] r.-1.-8.mca -> unknown
+[2026-09-29T17:02:37.057605800] Skipped unknown file. / Archivo desconocido omitido: r.-1.-8.mca
+[2026-09-29T17:02:37.057605800] r.-1.0.mca -> unknown
+[2026-09-29T17:02:37.057605800] Skipped unknown file. / Archivo desconocido omitido: r.-1.0.mca
+[2026-09-29T17:02:37.057605800] r.-1.1.mca -> unknown
+[2026-09-29T17:02:37.059114700] Skipped unknown file. / Archivo desconocido omitido: r.-1.1.mca
+[2026-09-29T17:02:37.059114700] r.-2.-1.mca -> unknown
+[2026-09-29T17:02:37.059733600] Skipped unknown file. / Archivo desconocido omitido: r.-2.-1.mca
+[2026-09-29T17:02:37.060512200] r.-2.-2.mca -> unknown
+[2026-09-29T17:02:37.061030800] Skipped unknown file. / Archivo desconocido omitido: r.-2.-2.mca
+[2026-09-29T17:02:37.061030800] r.-2.-3.mca -> unknown
+[2026-09-29T17:02:37.061030800] Skipped unknown file. / Archivo desconocido omitido: r.-2.-3.mca
+[2026-09-29T17:02:37.061030800] r.-2.-4.mca -> unknown
+[2026-09-29T17:02:37.061030800] Skipped unknown file. / Archivo desconocido omitido: r.-2.-4.mca
+[2026-09-29T17:02:37.062921800] r.-2.-5.mca -> unknown
+[2026-09-29T17:02:37.063351] Skipped unknown file. / Archivo desconocido omitido: r.-2.-5.mca
+[2026-09-29T17:02:37.063351] r.-2.-6.mca -> unknown
+[2026-09-29T17:02:37.063351] Skipped unknown file. / Archivo desconocido omitido: r.-2.-6.mca
+[2026-09-29T17:02:37.066464300] r.-2.-7.mca -> unknown
+[2026-09-29T17:02:37.066464300] Skipped unknown file. / Archivo desconocido omitido: r.-2.-7.mca
+[2026-09-29T17:02:37.067474600] r.-2.-8.mca -> unknown
+[2026-09-29T17:02:37.067474600] Skipped unknown file. / Archivo desconocido omitido: r.-2.-8.mca
+[2026-09-29T17:02:37.067474600] r.-2.0.mca -> unknown
+[2026-09-29T17:02:37.067474600] Skipped unknown file. / Archivo desconocido omitido: r.-2.0.mca
+[2026-09-29T17:02:37.067474600] r.-2.1.mca -> unknown
+[2026-09-29T17:02:37.068981400] Skipped unknown file. / Archivo desconocido omitido: r.-2.1.mca
+[2026-09-29T17:02:37.068981400] r.-3.-1.mca -> unknown
+[2026-09-29T17:02:37.068981400] Skipped unknown file. / Archivo desconocido omitido: r.-3.-1.mca
+[2026-09-29T17:02:37.069991700] r.-3.-2.mca -> unknown
+[2026-09-29T17:02:37.069991700] Skipped unknown file. / Archivo desconocido omitido: r.-3.-2.mca
+[2026-09-29T17:02:37.070813500] r.-3.-3.mca -> unknown
+[2026-09-29T17:02:37.070813500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-3.mca
+[2026-09-29T17:02:37.070813500] r.-3.-4.mca -> unknown
+[2026-09-29T17:02:37.070813500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-4.mca
+[2026-09-29T17:02:37.070813500] r.-3.-5.mca -> unknown
+[2026-09-29T17:02:37.070813500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-5.mca
+[2026-09-29T17:02:37.070813500] r.-3.-6.mca -> unknown
+[2026-09-29T17:02:37.070813500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-6.mca
+[2026-09-29T17:02:37.070813500] r.-3.-7.mca -> unknown
+[2026-09-29T17:02:37.070813500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-7.mca
+[2026-09-29T17:02:37.070813500] r.-3.-8.mca -> unknown
+[2026-09-29T17:02:37.076468500] Skipped unknown file. / Archivo desconocido omitido: r.-3.-8.mca
+[2026-09-29T17:02:37.076468500] r.-3.0.mca -> unknown
+[2026-09-29T17:02:37.076468500] Skipped unknown file. / Archivo desconocido omitido: r.-3.0.mca
+[2026-09-29T17:02:37.077476200] r.-3.1.mca -> unknown
+[2026-09-29T17:02:37.077476200] Skipped unknown file. / Archivo desconocido omitido: r.-3.1.mca
+[2026-09-29T17:02:37.077476200] r.-4.-1.mca -> unknown
+[2026-09-29T17:02:37.077476200] Skipped unknown file. / Archivo desconocido omitido: r.-4.-1.mca
+[2026-09-29T17:02:37.078985600] r.-4.0.mca -> unknown
+[2026-09-29T17:02:37.079997400] Skipped unknown file. / Archivo desconocido omitido: r.-4.0.mca
+[2026-09-29T17:02:37.079997400] r.-4.1.mca -> unknown
+[2026-09-29T17:02:37.081280] Skipped unknown file. / Archivo desconocido omitido: r.-4.1.mca
+[2026-09-29T17:02:37.082946600] r.0.-1.mca -> unknown
+[2026-09-29T17:02:37.083463100] Skipped unknown file. / Archivo desconocido omitido: r.0.-1.mca
+[2026-09-29T17:02:37.084680400] r.0.-2.mca -> unknown
+[2026-09-29T17:02:37.084680400] Skipped unknown file. / Archivo desconocido omitido: r.0.-2.mca
+[2026-09-29T17:02:37.085687700] r.0.-3.mca -> unknown
+[2026-09-29T17:02:37.085687700] Skipped unknown file. / Archivo desconocido omitido: r.0.-3.mca
+[2026-09-29T17:02:37.085687700] r.0.-4.mca -> unknown
+[2026-09-29T17:02:37.086690400] Skipped unknown file. / Archivo desconocido omitido: r.0.-4.mca
+[2026-09-29T17:02:37.086690400] r.0.-5.mca -> unknown
+[2026-09-29T17:02:37.087688500] Skipped unknown file. / Archivo desconocido omitido: r.0.-5.mca
+[2026-09-29T17:02:37.087688500] r.0.-6.mca -> unknown
+[2026-09-29T17:02:37.088696] Skipped unknown file. / Archivo desconocido omitido: r.0.-6.mca
+[2026-09-29T17:02:37.089317500] r.0.-7.mca -> unknown
+[2026-09-29T17:02:37.089317500] Skipped unknown file. / Archivo desconocido omitido: r.0.-7.mca
+[2026-09-29T17:02:37.089317500] r.0.-8.mca -> unknown
+[2026-09-29T17:02:37.090326500] Skipped unknown file. / Archivo desconocido omitido: r.0.-8.mca
+[2026-09-29T17:02:37.090756100] r.0.0.mca -> unknown
+[2026-09-29T17:02:37.090756100] Skipped unknown file. / Archivo desconocido omitido: r.0.0.mca
+[2026-09-29T17:02:37.090756100] r.0.1.mca -> unknown
+[2026-09-29T17:02:37.090756100] Skipped unknown file. / Archivo desconocido omitido: r.0.1.mca
+[2026-09-29T17:02:37.092763200] r.1.-1.mca -> unknown
+[2026-09-29T17:02:37.092763200] Skipped unknown file. / Archivo desconocido omitido: r.1.-1.mca
+[2026-09-29T17:02:37.092763200] r.1.-2.mca -> unknown
+[2026-09-29T17:02:37.092763200] Skipped unknown file. / Archivo desconocido omitido: r.1.-2.mca
+[2026-09-29T17:02:37.094597200] r.1.-3.mca -> unknown
+[2026-09-29T17:02:37.094597200] Skipped unknown file. / Archivo desconocido omitido: r.1.-3.mca
+[2026-09-29T17:02:37.095605200] r.1.-4.mca -> unknown
+[2026-09-29T17:02:37.095605200] Skipped unknown file. / Archivo desconocido omitido: r.1.-4.mca
+[2026-09-29T17:02:37.096731100] r.1.-5.mca -> unknown
+[2026-09-29T17:02:37.096731100] Skipped unknown file. / Archivo desconocido omitido: r.1.-5.mca
+[2026-09-29T17:02:37.097852100] r.1.-6.mca -> unknown
+[2026-09-29T17:02:37.097852100] Skipped unknown file. / Archivo desconocido omitido: r.1.-6.mca
+[2026-09-29T17:02:37.099508500] r.1.0.mca -> unknown
+[2026-09-29T17:02:37.099508500] Skipped unknown file. / Archivo desconocido omitido: r.1.0.mca
+[2026-09-29T17:02:37.100905800] r.1.1.mca -> unknown
+[2026-09-29T17:02:37.101386400] Skipped unknown file. / Archivo desconocido omitido: r.1.1.mca
+[2026-09-29T17:02:37.101386400] r.2.-1.mca -> unknown
+[2026-09-29T17:02:37.101386400] Skipped unknown file. / Archivo desconocido omitido: r.2.-1.mca
+[2026-09-29T17:02:37.102394400] r.2.-2.mca -> unknown
+[2026-09-29T17:02:37.103394900] Skipped unknown file. / Archivo desconocido omitido: r.2.-2.mca
+[2026-09-29T17:02:37.103394900] r.2.-3.mca -> unknown
+[2026-09-29T17:02:37.103394900] Skipped unknown file. / Archivo desconocido omitido: r.2.-3.mca
+[2026-09-29T17:02:37.104781600] r.2.-4.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.2.-4.mca
+[2026-09-29T17:02:37.104781600] r.2.-5.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.2.-5.mca
+[2026-09-29T17:02:37.104781600] r.2.0.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.2.0.mca
+[2026-09-29T17:02:37.104781600] r.3.-1.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.3.-1.mca
+[2026-09-29T17:02:37.104781600] r.3.-2.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.3.-2.mca
+[2026-09-29T17:02:37.104781600] r.3.-3.mca -> unknown
+[2026-09-29T17:02:37.104781600] Skipped unknown file. / Archivo desconocido omitido: r.3.-3.mca
+[2026-09-29T17:02:37.108941900] r.3.-4.mca -> unknown
+[2026-09-29T17:02:37.108941900] Skipped unknown file. / Archivo desconocido omitido: r.3.-4.mca
+[2026-09-29T17:02:37.108941900] rabbit.mcfunction -> unknown
+[2026-09-29T17:02:37.108941900] Skipped unknown file. / Archivo desconocido omitido: rabbit.mcfunction
+[2026-09-29T17:02:37.110704800] radioactive.json -> configuration
+[2026-09-29T17:02:37.111558100] radioactive.json moved to / se movio a configuration
+[2026-09-29T17:02:37.111558100] raids.dat -> unknown
+[2026-09-29T17:02:37.111558100] Skipped unknown file. / Archivo desconocido omitido: raids.dat
+[2026-09-29T17:02:37.113569200] raycast.mcfunction -> unknown
+[2026-09-29T17:02:37.113569200] Skipped unknown file. / Archivo desconocido omitido: raycast.mcfunction
+[2026-09-29T17:02:37.114611300] README.md -> documents
+[2026-09-29T17:02:37.116977400] README.md moved to / se movio a documents
+[2026-09-29T17:02:37.116977400] Readme.txt -> documents
+[2026-09-29T17:02:37.117800800] Readme.txt moved to / se movio a documents
+[2026-09-29T17:02:37.118810300] realtek-pcie-memory-card-reader-driver_4yhv8_win64_10.0.26200.21387_a09.txt -> documents
+[2026-09-29T17:02:37.119824600] realtek-pcie-memory-card-reader-driver_4yhv8_win64_10.0.26200.21387_a09.txt moved to / se movio a documents
+[2026-09-29T17:02:37.119824600] reboot_payload.bin -> executables
+[2026-09-29T17:02:37.120608400] reboot_payload.bin moved to / se movio a executables
+[2026-09-29T17:02:37.121618800] recovery.img -> disk_images
+[2026-09-29T17:02:37.123460400] recovery.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.123460400] recursively_kill_passengers.mcfunction -> unknown
+[2026-09-29T17:02:37.124470700] Skipped unknown file. / Archivo desconocido omitido: recursively_kill_passengers.mcfunction
+[2026-09-29T17:02:37.124470700] ReiNX.bin -> executables
+[2026-09-29T17:02:37.125469300] ReiNX.bin moved to / se movio a executables
+[2026-09-29T17:02:37.125469300] remove.mcfunction -> unknown
+[2026-09-29T17:02:37.126477200] Skipped unknown file. / Archivo desconocido omitido: remove.mcfunction
+[2026-09-29T17:02:37.126781600] removetags.mcfunction -> unknown
+[2026-09-29T17:02:37.127392600] Skipped unknown file. / Archivo desconocido omitido: removetags.mcfunction
+[2026-09-29T17:02:37.127392600] remove_animation_objectives.mcfunction -> unknown
+[2026-09-29T17:02:37.127392600] Skipped unknown file. / Archivo desconocido omitido: remove_animation_objectives.mcfunction
+[2026-09-29T17:02:37.128901100] requirements.txt -> documents
+[2026-09-29T17:02:37.129613] requirements.txt moved to / se movio a documents
+[2026-09-29T17:02:37.130261400] res.pak -> unknown
+[2026-09-29T17:02:37.130261400] Skipped unknown file. / Archivo desconocido omitido: res.pak
+[2026-09-29T17:02:37.130261400] reset.mcfunction -> unknown
+[2026-09-29T17:02:37.133482500] Skipped unknown file. / Archivo desconocido omitido: reset.mcfunction
+[2026-09-29T17:02:37.133482500] resetplayercommands.mcfunction -> unknown
+[2026-09-29T17:02:37.133482500] Skipped unknown file. / Archivo desconocido omitido: resetplayercommands.mcfunction
+[2026-09-29T17:02:37.134670200] resetpuzzle.mcfunction -> unknown
+[2026-09-29T17:02:37.134670200] Skipped unknown file. / Archivo desconocido omitido: resetpuzzle.mcfunction
+[2026-09-29T17:02:37.134670200] resetself.mcfunction -> unknown
+[2026-09-29T17:02:37.135682900] Skipped unknown file. / Archivo desconocido omitido: resetself.mcfunction
+[2026-09-29T17:02:37.135682900] reset_cd.mcfunction -> unknown
+[2026-09-29T17:02:37.135682900] Skipped unknown file. / Archivo desconocido omitido: reset_cd.mcfunction
+[2026-09-29T17:02:37.136682800] resources.zip -> archives
+[2026-09-29T17:02:37.137700700] resources.zip moved to / se movio a archives
+[2026-09-29T17:02:37.137700700] restart.mcfunction -> unknown
+[2026-09-29T17:02:37.137700700] Skipped unknown file. / Archivo desconocido omitido: restart.mcfunction
+[2026-09-29T17:02:37.138688300] resume.mcfunction -> unknown
+[2026-09-29T17:02:37.138688300] Skipped unknown file. / Archivo desconocido omitido: resume.mcfunction
+[2026-09-29T17:02:37.140486300] resumemove.mcfunction -> unknown
+[2026-09-29T17:02:37.140486300] Skipped unknown file. / Archivo desconocido omitido: resumemove.mcfunction
+[2026-09-29T17:02:37.140486300] reveal.mcfunction -> unknown
+[2026-09-29T17:02:37.141496100] Skipped unknown file. / Archivo desconocido omitido: reveal.mcfunction
+[2026-09-29T17:02:37.141496100] rng.mcfunction -> unknown
+[2026-09-29T17:02:37.141496100] Skipped unknown file. / Archivo desconocido omitido: rng.mcfunction
+[2026-09-29T17:02:37.143132500] rng1.json -> configuration
+[2026-09-29T17:02:37.143132500] rng1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.144143100] rng2.json -> configuration
+[2026-09-29T17:02:37.146475600] rng2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.147226200] rng3.json -> configuration
+[2026-09-29T17:02:37.149816100] rng3.json moved to / se movio a configuration
+[2026-09-29T17:02:37.150834100] rng4.json -> configuration
+[2026-09-29T17:02:37.151827100] rng4.json moved to / se movio a configuration
+[2026-09-29T17:02:37.153543200] rng5.json -> configuration
+[2026-09-29T17:02:37.154554500] rng5.json moved to / se movio a configuration
+[2026-09-29T17:02:37.155553] rng6.json -> configuration
+[2026-09-29T17:02:37.155553] rng6.json moved to / se movio a configuration
+[2026-09-29T17:02:37.156974700] root.json -> configuration
+[2026-09-29T17:02:37.157984600] root.json moved to / se movio a configuration
+[2026-09-29T17:02:37.157984600] root2.json -> configuration
+[2026-09-29T17:02:37.159631700] root2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.160641200] root3.json -> configuration
+[2026-09-29T17:02:37.161641] root3.json moved to / se movio a configuration
+[2026-09-29T17:02:37.161641] root4.json -> configuration
+[2026-09-29T17:02:37.163639300] root4.json moved to / se movio a configuration
+[2026-09-29T17:02:37.165650500] rope.mcfunction -> unknown
+[2026-09-29T17:02:37.167691300] Skipped unknown file. / Archivo desconocido omitido: rope.mcfunction
+[2026-09-29T17:02:37.167691300] rtxaud.cfg -> configuration
+[2026-09-29T17:02:37.169124200] rtxaud.cfg moved to / se movio a configuration
+[2026-09-29T17:02:37.170142900] rufus-4.15.exe -> executables
+[2026-09-29T17:02:37.171135800] rufus-4.15.exe moved to / se movio a executables
+[2026-09-29T17:02:37.172132700] run.bat -> executables
+[2026-09-29T17:02:37.172855] run.bat moved to / se movio a executables
+[2026-09-29T17:02:37.174558600] run.sh -> executables
+[2026-09-29T17:02:37.177265600] run.sh moved to / se movio a executables
+[2026-09-29T17:02:37.177265600] rushgenerators.json -> configuration
+[2026-09-29T17:02:37.179690600] rushgenerators.json moved to / se movio a configuration
+[2026-09-29T17:02:37.179690600] rushgenerators2.json -> configuration
+[2026-09-29T17:02:37.181589400] rushgenerators2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.182984900] rushgenerators3.json -> configuration
+[2026-09-29T17:02:37.185896700] rushgenerators3.json moved to / se movio a configuration
+[2026-09-29T17:02:37.185896700] Russian.xml -> configuration
+[2026-09-29T17:02:37.186911400] Russian.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.187906200] samespot.json -> configuration
+[2026-09-29T17:02:37.188907400] samespot.json moved to / se movio a configuration
+[2026-09-29T17:02:37.190079] samevalue.json -> configuration
+[2026-09-29T17:02:37.190811] samevalue.json moved to / se movio a configuration
+[2026-09-29T17:02:37.190811] sandboxpet.json -> configuration
+[2026-09-29T17:02:37.193514] sandboxpet.json moved to / se movio a configuration
+[2026-09-29T17:02:37.194137500] sc7entry.bin -> executables
+[2026-09-29T17:02:37.195157800] sc7entry.bin moved to / se movio a executables
+[2026-09-29T17:02:37.195157800] sc7exit.bin -> executables
+[2026-09-29T17:02:37.196669600] sc7exit.bin moved to / se movio a executables
+[2026-09-29T17:02:37.197912100] sc7exit_b01.bin -> executables
+[2026-09-29T17:02:37.200200500] sc7exit_b01.bin moved to / se movio a executables
+[2026-09-29T17:02:37.200914200] scorch.json -> configuration
+[2026-09-29T17:02:37.200914200] scorch.json moved to / se movio a configuration
+[2026-09-29T17:02:37.202362400] scrcpy-win64-v4.1.zip -> archives
+[2026-09-29T17:02:37.204373800] scrcpy-win64-v4.1.zip moved to / se movio a archives
+[2026-09-29T17:02:37.204373800] scrcpy.exe -> executables
+[2026-09-29T17:02:37.205919100] scrcpy.exe moved to / se movio a executables
+[2026-09-29T17:02:37.206887700] scrcpy.png -> images
+[2026-09-29T17:02:37.207396500] scrcpy.png moved to / se movio a images
+[2026-09-29T17:02:37.207396500] Screenshot 2026-09-18 125350.png -> images
+[2026-09-29T17:02:37.209981800] Screenshot 2026-09-18 125350.png moved to / se movio a images
+[2026-09-29T17:02:37.210606700] secret1.json -> configuration
+[2026-09-29T17:02:37.210978900] secret1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.212796200] secret1.mcfunction -> unknown
+[2026-09-29T17:02:37.213418100] Skipped unknown file. / Archivo desconocido omitido: secret1.mcfunction
+[2026-09-29T17:02:37.213418100] secret2.json -> configuration
+[2026-09-29T17:02:37.215751] secret2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.216713600] secret2.mcfunction -> unknown
+[2026-09-29T17:02:37.217712300] Skipped unknown file. / Archivo desconocido omitido: secret2.mcfunction
+[2026-09-29T17:02:37.217712300] secret3.json -> configuration
+[2026-09-29T17:02:37.219412200] secret3.json moved to / se movio a configuration
+[2026-09-29T17:02:37.220423800] secret3.mcfunction -> unknown
+[2026-09-29T17:02:37.220423800] Skipped unknown file. / Archivo desconocido omitido: secret3.mcfunction
+[2026-09-29T17:02:37.221420700] secret4.json -> configuration
+[2026-09-29T17:02:37.222657400] secret4.json moved to / se movio a configuration
+[2026-09-29T17:02:37.222657400] secret4.mcfunction -> unknown
+[2026-09-29T17:02:37.222657400] Skipped unknown file. / Archivo desconocido omitido: secret4.mcfunction
+[2026-09-29T17:02:37.223669600] secret5.json -> configuration
+[2026-09-29T17:02:37.223669600] secret5.json moved to / se movio a configuration
+[2026-09-29T17:02:37.227158700] secret5.mcfunction -> unknown
+[2026-09-29T17:02:37.228239400] Skipped unknown file. / Archivo desconocido omitido: secret5.mcfunction
+[2026-09-29T17:02:37.229354400] secret6.json -> configuration
+[2026-09-29T17:02:37.230684] secret6.json moved to / se movio a configuration
+[2026-09-29T17:02:37.230684] secretroot.json -> configuration
+[2026-09-29T17:02:37.230684] secretroot.json moved to / se movio a configuration
+[2026-09-29T17:02:37.236570400] secretroot2.json -> configuration
+[2026-09-29T17:02:37.237579] secretroot2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.237579] see2periphs.json -> configuration
+[2026-09-29T17:02:37.239088300] see2periphs.json moved to / se movio a configuration
+[2026-09-29T17:02:37.240098800] Seleccion.cs -> programming
+[2026-09-29T17:02:37.240773800] Seleccion.cs moved to / se movio a programming
+[2026-09-29T17:02:37.241782600] Self-Hosted Personal Dashboard Project Idea.md -> documents
+[2026-09-29T17:02:37.244475800] Self-Hosted Personal Dashboard Project Idea.md moved to / se movio a documents
+[2026-09-29T17:02:37.244475800] sendemail-validate.sample -> unknown
+[2026-09-29T17:02:37.245476400] Skipped unknown file. / Archivo desconocido omitido: sendemail-validate.sample
+[2026-09-29T17:02:37.245476400] Serbian (Cyrilic).xml -> configuration
+[2026-09-29T17:02:37.248064100] Serbian (Cyrilic).xml moved to / se movio a configuration
+[2026-09-29T17:02:37.249087300] Serbian (Latin).xml -> configuration
+[2026-09-29T17:02:37.252420300] Serbian (Latin).xml moved to / se movio a configuration
+[2026-09-29T17:02:37.252420300] Service.1.log -> logs
+[2026-09-29T17:02:37.254419600] Service.1.log moved to / se movio a logs
+[2026-09-29T17:02:37.255516700] Service.log -> logs
+[2026-09-29T17:02:37.257465] Service.log moved to / se movio a logs
+[2026-09-29T17:02:37.258412500] services.cfg -> configuration
+[2026-09-29T17:02:37.259932600] services.cfg moved to / se movio a configuration
+[2026-09-29T17:02:37.259932600] Services.txt -> documents
+[2026-09-29T17:02:37.262276300] Services.txt moved to / se movio a documents
+[2026-09-29T17:02:37.263284900] servicesaudio.cfg -> configuration
+[2026-09-29T17:02:37.263685] servicesaudio.cfg moved to / se movio a configuration
+[2026-09-29T17:02:37.267039100] servicesigs.cfg -> configuration
+[2026-09-29T17:02:37.268050800] servicesigs.cfg moved to / se movio a configuration
+[2026-09-29T17:02:37.269575200] session.lock -> programming
+[2026-09-29T17:02:37.270743] session.lock moved to / se movio a programming
+[2026-09-29T17:02:37.271341100] Settings.xml -> configuration
+[2026-09-29T17:02:37.271341100] Settings.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.272907] setup-lightshot.exe -> executables
+[2026-09-29T17:02:37.272907] setup-lightshot.exe moved to / se movio a executables
+[2026-09-29T17:02:37.272907] setupapi.app.log -> logs
+[2026-09-29T17:02:37.275403200] setupapi.app.log moved to / se movio a logs
+[2026-09-29T17:02:37.275403200] setupapi.dev.log -> logs
+[2026-09-29T17:02:37.276423300] setupapi.dev.log moved to / se movio a logs
+[2026-09-29T17:02:37.277413800] set_default_pose.mcfunction -> unknown
+[2026-09-29T17:02:37.277413800] Skipped unknown file. / Archivo desconocido omitido: set_default_pose.mcfunction
+[2026-09-29T17:02:37.277413800] set_frame.mcfunction -> unknown
+[2026-09-29T17:02:37.277413800] Skipped unknown file. / Archivo desconocido omitido: set_frame.mcfunction
+[2026-09-29T17:02:37.277413800] sfx.mcfunction -> unknown
+[2026-09-29T17:02:37.278921700] Skipped unknown file. / Archivo desconocido omitido: sfx.mcfunction
+[2026-09-29T17:02:37.278921700] shareddriverfiles.cfg -> configuration
+[2026-09-29T17:02:37.281607100] shareddriverfiles.cfg moved to / se movio a configuration
+[2026-09-29T17:02:37.283153700] show_outdated_warning.mcfunction -> unknown
+[2026-09-29T17:02:37.283153700] Skipped unknown file. / Archivo desconocido omitido: show_outdated_warning.mcfunction
+[2026-09-29T17:02:37.283955800] singleplayerstart.mcfunction -> unknown
+[2026-09-29T17:02:37.283955800] Skipped unknown file. / Archivo desconocido omitido: singleplayerstart.mcfunction
+[2026-09-29T17:02:37.284966] Sleepstudy.html -> programming
+[2026-09-29T17:02:37.285547600] Sleepstudy.html moved to / se movio a programming
+[2026-09-29T17:02:37.286558300] Slovak.xml -> configuration
+[2026-09-29T17:02:37.287559700] Slovak.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.287559700] Slovenian.xml -> configuration
+[2026-09-29T17:02:37.289136900] Slovenian.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.289136900] smellall.json -> configuration
+[2026-09-29T17:02:37.290899100] smellall.json moved to / se movio a configuration
+[2026-09-29T17:02:37.291908100] smiler_sameid.json -> configuration
+[2026-09-29T17:02:37.291908100] smiler_sameid.json moved to / se movio a configuration
+[2026-09-29T17:02:37.292911800] sneak.json -> configuration
+[2026-09-29T17:02:37.293909400] sneak.json moved to / se movio a configuration
+[2026-09-29T17:02:37.293909400] soclose1.json -> configuration
+[2026-09-29T17:02:37.294908600] soclose1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.295911200] Software and Alternatives.md -> documents
+[2026-09-29T17:02:37.296907900] Software and Alternatives.md moved to / se movio a documents
+[2026-09-29T17:02:37.298929500] Software_Fix_v7.6.2.10_setup.exe -> executables
+[2026-09-29T17:02:37.300153400] Software_Fix_v7.6.2.10_setup.exe moved to / se movio a executables
+[2026-09-29T17:02:37.301695100] sortgoal.mcfunction -> unknown
+[2026-09-29T17:02:37.301695100] Skipped unknown file. / Archivo desconocido omitido: sortgoal.mcfunction
+[2026-09-29T17:02:37.302340700] sort_again.mcfunction -> unknown
+[2026-09-29T17:02:37.302340700] Skipped unknown file. / Archivo desconocido omitido: sort_again.mcfunction
+[2026-09-29T17:02:37.303350100] source.properties -> configuration
+[2026-09-29T17:02:37.304350700] source.properties moved to / se movio a configuration
+[2026-09-29T17:02:37.304350700] Spanish (Spain).xml -> configuration
+[2026-09-29T17:02:37.304350700] Spanish (Spain).xml moved to / se movio a configuration
+[2026-09-29T17:02:37.304350700] Spanish.xml -> configuration
+[2026-09-29T17:02:37.307345400] Spanish.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.307345400] SpanishRevisedRVR1960Bible.xml -> configuration
+[2026-09-29T17:02:37.307345400] SpanishRevisedRVR1960Bible.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.308856800] spawn.mcfunction -> unknown
+[2026-09-29T17:02:37.308856800] Skipped unknown file. / Archivo desconocido omitido: spawn.mcfunction
+[2026-09-29T17:02:37.309866700] spawn1.mcfunction -> unknown
+[2026-09-29T17:02:37.309866700] Skipped unknown file. / Archivo desconocido omitido: spawn1.mcfunction
+[2026-09-29T17:02:37.309866700] spawn2.mcfunction -> unknown
+[2026-09-29T17:02:37.310866700] Skipped unknown file. / Archivo desconocido omitido: spawn2.mcfunction
+[2026-09-29T17:02:37.310866700] speedrun.json -> configuration
+[2026-09-29T17:02:37.311865600] speedrun.json moved to / se movio a configuration
+[2026-09-29T17:02:37.311865600] speedrun2.json -> configuration
+[2026-09-29T17:02:37.313313600] speedrun2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.316154400] spread.mcfunction -> unknown
+[2026-09-29T17:02:37.316154400] Skipped unknown file. / Archivo desconocido omitido: spread.mcfunction
+[2026-09-29T17:02:37.317589] spreadgoal.mcfunction -> unknown
+[2026-09-29T17:02:37.317589] Skipped unknown file. / Archivo desconocido omitido: spreadgoal.mcfunction
+[2026-09-29T17:02:37.318827600] sqlite3.exe -> executables
+[2026-09-29T17:02:37.319512700] sqlite3.exe moved to / se movio a executables
+[2026-09-29T17:02:37.320524] start.mcfunction -> unknown
+[2026-09-29T17:02:37.320524] Skipped unknown file. / Archivo desconocido omitido: start.mcfunction
+[2026-09-29T17:02:37.321523300] startagro.mcfunction -> unknown
+[2026-09-29T17:02:37.321523300] Skipped unknown file. / Archivo desconocido omitido: startagro.mcfunction
+[2026-09-29T17:02:37.321523300] startchase.mcfunction -> unknown
+[2026-09-29T17:02:37.321523300] Skipped unknown file. / Archivo desconocido omitido: startchase.mcfunction
+[2026-09-29T17:02:37.321523300] startgame.mcfunction -> unknown
+[2026-09-29T17:02:37.321523300] Skipped unknown file. / Archivo desconocido omitido: startgame.mcfunction
+[2026-09-29T17:02:37.324528500] Startup_Processes.txt -> documents
+[2026-09-29T17:02:37.325539400] Startup_Processes.txt moved to / se movio a documents
+[2026-09-29T17:02:37.325539400] start_animation.mcfunction -> unknown
+[2026-09-29T17:02:37.325539400] Skipped unknown file. / Archivo desconocido omitido: start_animation.mcfunction
+[2026-09-29T17:02:37.326536700] static.yml -> configuration
+[2026-09-29T17:02:37.327539700] static.yml moved to / se movio a configuration
+[2026-09-29T17:02:37.327539700] stealth.mcfunction -> unknown
+[2026-09-29T17:02:37.327539700] Skipped unknown file. / Archivo desconocido omitido: stealth.mcfunction
+[2026-09-29T17:02:37.328982800] Steps to learn web development.md -> documents
+[2026-09-29T17:02:37.330206800] Steps to learn web development.md moved to / se movio a documents
+[2026-09-29T17:02:37.330206800] Still Testing Ideas.md -> documents
+[2026-09-29T17:02:37.330206800] Still Testing Ideas.md moved to / se movio a documents
+[2026-09-29T17:02:37.330206800] stop.mcfunction -> unknown
+[2026-09-29T17:02:37.335726100] Skipped unknown file. / Archivo desconocido omitido: stop.mcfunction
+[2026-09-29T17:02:37.335726100] stratosphere.ini -> configuration
+[2026-09-29T17:02:37.337735400] stratosphere.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.338734300] stun.mcfunction -> unknown
+[2026-09-29T17:02:37.338734300] Skipped unknown file. / Archivo desconocido omitido: stun.mcfunction
+[2026-09-29T17:02:37.338734300] sum.mcfunction -> unknown
+[2026-09-29T17:02:37.339894700] Skipped unknown file. / Archivo desconocido omitido: sum.mcfunction
+[2026-09-29T17:02:37.340738200] summon.mcfunction -> unknown
+[2026-09-29T17:02:37.341875100] Skipped unknown file. / Archivo desconocido omitido: summon.mcfunction
+[2026-09-29T17:02:37.342258300] summon2.mcfunction -> unknown
+[2026-09-29T17:02:37.342971900] Skipped unknown file. / Archivo desconocido omitido: summon2.mcfunction
+[2026-09-29T17:02:37.342971900] summonmarker.mcfunction -> unknown
+[2026-09-29T17:02:37.343980200] Skipped unknown file. / Archivo desconocido omitido: summonmarker.mcfunction
+[2026-09-29T17:02:37.343980200] summonrandom.mcfunction -> unknown
+[2026-09-29T17:02:37.344982600] Skipped unknown file. / Archivo desconocido omitido: summonrandom.mcfunction
+[2026-09-29T17:02:37.344982600] super_empty.img -> disk_images
+[2026-09-29T17:02:37.346895] super_empty.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.346895] SupportAssistLauncher.exe -> executables
+[2026-09-29T17:02:37.348910600] SupportAssistLauncher.exe moved to / se movio a executables
+[2026-09-29T17:02:37.348910600] surrendered.mcfunction -> unknown
+[2026-09-29T17:02:37.348910600] Skipped unknown file. / Archivo desconocido omitido: surrendered.mcfunction
+[2026-09-29T17:02:37.352689500] Swedish.xml -> configuration
+[2026-09-29T17:02:37.352689500] Swedish.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.354141700] switch.mcfunction -> unknown
+[2026-09-29T17:02:37.354141700] Skipped unknown file. / Archivo desconocido omitido: switch.mcfunction
+[2026-09-29T17:02:37.355272500] switch_pieces.json -> configuration
+[2026-09-29T17:02:37.355272500] switch_pieces.json moved to / se movio a configuration
+[2026-09-29T17:02:37.356766500] SX_Loader.bin -> executables
+[2026-09-29T17:02:37.357781300] SX_Loader.bin moved to / se movio a executables
+[2026-09-29T17:02:37.358781700] sysdata_dumps.zip -> archives
+[2026-09-29T17:02:37.360916600] sysdata_dumps.zip moved to / se movio a archives
+[2026-09-29T17:02:37.360916600] SystemInfo.txt -> documents
+[2026-09-29T17:02:37.362929500] SystemInfo.txt moved to / se movio a documents
+[2026-09-29T17:02:37.363437500] System_Board.txt -> documents
+[2026-09-29T17:02:37.365498800] System_Board.txt moved to / se movio a documents
+[2026-09-29T17:02:37.367815100] System_EventLog.csv -> spreadsheets
+[2026-09-29T17:02:37.369965900] System_EventLog.csv moved to / se movio a spreadsheets
+[2026-09-29T17:02:37.370831800] System_EventLog.evtx -> unknown
+[2026-09-29T17:02:37.370831800] Skipped unknown file. / Archivo desconocido omitido: System_EventLog.evtx
+[2026-09-29T17:02:37.371965] system_settings.ini -> configuration
+[2026-09-29T17:02:37.373837500] system_settings.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.374964600] tagflashlightoff1.json -> configuration
+[2026-09-29T17:02:37.375974200] tagflashlightoff1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.375974200] tagflashlightoff2.json -> configuration
+[2026-09-29T17:02:37.376976700] tagflashlightoff2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.377976] tagflashlighton1.json -> configuration
+[2026-09-29T17:02:37.379469600] tagflashlighton1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.380202600] tagflashlighton2.json -> configuration
+[2026-09-29T17:02:37.383603400] tagflashlighton2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.384721300] taserall.json -> configuration
+[2026-09-29T17:02:37.386300500] taserall.json moved to / se movio a configuration
+[2026-09-29T17:02:37.387311100] taskroot.json -> configuration
+[2026-09-29T17:02:37.387311100] taskroot.json moved to / se movio a configuration
+[2026-09-29T17:02:37.388872900] Taskscheduler.txt -> documents
+[2026-09-29T17:02:37.388872900] Taskscheduler.txt moved to / se movio a documents
+[2026-09-29T17:02:37.388872900] task_1.json -> configuration
+[2026-09-29T17:02:37.390543100] task_1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.390543100] task_10.json -> configuration
+[2026-09-29T17:02:37.392907800] task_10.json moved to / se movio a configuration
+[2026-09-29T17:02:37.392907800] task_11.json -> configuration
+[2026-09-29T17:02:37.393921700] task_11.json moved to / se movio a configuration
+[2026-09-29T17:02:37.394920500] task_11_2.json -> configuration
+[2026-09-29T17:02:37.394920500] task_11_2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.395920900] task_12.json -> configuration
+[2026-09-29T17:02:37.396423900] task_12.json moved to / se movio a configuration
+[2026-09-29T17:02:37.398855400] task_2.json -> configuration
+[2026-09-29T17:02:37.400490] task_2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.401508100] task_3.json -> configuration
+[2026-09-29T17:02:37.402499100] task_3.json moved to / se movio a configuration
+[2026-09-29T17:02:37.402499100] task_3_1.json -> configuration
+[2026-09-29T17:02:37.403501400] task_3_1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.404498100] task_4.json -> configuration
+[2026-09-29T17:02:37.405401300] task_4.json moved to / se movio a configuration
+[2026-09-29T17:02:37.405401300] task_5.json -> configuration
+[2026-09-29T17:02:37.406409300] task_5.json moved to / se movio a configuration
+[2026-09-29T17:02:37.406409300] task_5_1.json -> configuration
+[2026-09-29T17:02:37.406409300] task_5_1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.406409300] task_6.json -> configuration
+[2026-09-29T17:02:37.408828500] task_6.json moved to / se movio a configuration
+[2026-09-29T17:02:37.408828500] task_7.json -> configuration
+[2026-09-29T17:02:37.410628] task_7.json moved to / se movio a configuration
+[2026-09-29T17:02:37.411059500] task_7_2.json -> configuration
+[2026-09-29T17:02:37.411407200] task_7_2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.411407200] task_8.json -> configuration
+[2026-09-29T17:02:37.413224100] task_8.json moved to / se movio a configuration
+[2026-09-29T17:02:37.413224100] task_9.json -> configuration
+[2026-09-29T17:02:37.413224100] task_9.json moved to / se movio a configuration
+[2026-09-29T17:02:37.413224100] TegraRcmGUI.exe -> executables
+[2026-09-29T17:02:37.417358300] TegraRcmGUI.exe moved to / se movio a executables
+[2026-09-29T17:02:37.417358300] TegraRcmSmash.exe -> executables
+[2026-09-29T17:02:37.418899900] TegraRcmSmash.exe moved to / se movio a executables
+[2026-09-29T17:02:37.418899900] Temp.cs -> programming
+[2026-09-29T17:02:37.419909700] Temp.cs moved to / se movio a programming
+[2026-09-29T17:02:37.419909700] ten_games.json -> configuration
+[2026-09-29T17:02:37.420916900] ten_games.json moved to / se movio a configuration
+[2026-09-29T17:02:37.420916900] test results.txt -> documents
+[2026-09-29T17:02:37.421911800] test results.txt moved to / se movio a documents
+[2026-09-29T17:02:37.421911800] test.mcfunction -> unknown
+[2026-09-29T17:02:37.421911800] Skipped unknown file. / Archivo desconocido omitido: test.mcfunction
+[2026-09-29T17:02:37.421911800] Thai.xml -> configuration
+[2026-09-29T17:02:37.421911800] Thai.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.421911800] The Cross.mp3 -> music
+[2026-09-29T17:02:37.421911800] The Cross.mp3 moved to / se movio a music
+[2026-09-29T17:02:37.421911800] the_real_end.json -> configuration
+[2026-09-29T17:02:37.421911800] the_real_end.json moved to / se movio a configuration
+[2026-09-29T17:02:37.421911800] this.mcfunction -> unknown
+[2026-09-29T17:02:37.421911800] Skipped unknown file. / Archivo desconocido omitido: this.mcfunction
+[2026-09-29T17:02:37.421911800] this_id.json -> configuration
+[2026-09-29T17:02:37.421911800] this_id.json moved to / se movio a configuration
+[2026-09-29T17:02:37.421911800] thk.bin -> executables
+[2026-09-29T17:02:37.428747600] thk.bin moved to / se movio a executables
+[2026-09-29T17:02:37.428747600] tick.json -> configuration
+[2026-09-29T17:02:37.430408700] tick.json moved to / se movio a configuration
+[2026-09-29T17:02:37.430408700] tick.mcfunction -> unknown
+[2026-09-29T17:02:37.431720] Skipped unknown file. / Archivo desconocido omitido: tick.mcfunction
+[2026-09-29T17:02:37.431720] timeout.mcfunction -> unknown
+[2026-09-29T17:02:37.432703100] Skipped unknown file. / Archivo desconocido omitido: timeout.mcfunction
+[2026-09-29T17:02:37.432703100] timerecord.json -> configuration
+[2026-09-29T17:02:37.432703100] timerecord.json moved to / se movio a configuration
+[2026-09-29T17:02:37.433704600] toggledebugmode.mcfunction -> unknown
+[2026-09-29T17:02:37.433704600] Skipped unknown file. / Archivo desconocido omitido: toggledebugmode.mcfunction
+[2026-09-29T17:02:37.433704600] toolbox.json -> configuration
+[2026-09-29T17:02:37.435077900] toolbox.json moved to / se movio a configuration
+[2026-09-29T17:02:37.435077900] torment.json -> configuration
+[2026-09-29T17:02:37.436389700] torment.json moved to / se movio a configuration
+[2026-09-29T17:02:37.436389700] tp.mcfunction -> unknown
+[2026-09-29T17:02:37.436389700] Skipped unknown file. / Archivo desconocido omitido: tp.mcfunction
+[2026-09-29T17:02:37.437398600] tp2.mcfunction -> unknown
+[2026-09-29T17:02:37.437398600] Skipped unknown file. / Archivo desconocido omitido: tp2.mcfunction
+[2026-09-29T17:02:37.437398600] TPM.txt -> documents
+[2026-09-29T17:02:37.437398600] TPM.txt moved to / se movio a documents
+[2026-09-29T17:02:37.438906800] trigger.mcfunction -> unknown
+[2026-09-29T17:02:37.438906800] Skipped unknown file. / Archivo desconocido omitido: trigger.mcfunction
+[2026-09-29T17:02:37.438906800] tripod_dark.json -> configuration
+[2026-09-29T17:02:37.439793300] tripod_dark.json moved to / se movio a configuration
+[2026-09-29T17:02:37.439793300] tripod_kill.json -> configuration
+[2026-09-29T17:02:37.439793300] tripod_kill.json moved to / se movio a configuration
+[2026-09-29T17:02:37.439793300] tripod_wakeup.json -> configuration
+[2026-09-29T17:02:37.439793300] tripod_wakeup.json moved to / se movio a configuration
+[2026-09-29T17:02:37.439793300] try_set_frame.mcfunction -> unknown
+[2026-09-29T17:02:37.439793300] Skipped unknown file. / Archivo desconocido omitido: try_set_frame.mcfunction
+[2026-09-29T17:02:37.439793300] Turkish.xml -> configuration
+[2026-09-29T17:02:37.439793300] Turkish.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.439793300] turtle.mcfunction -> unknown
+[2026-09-29T17:02:37.439793300] Skipped unknown file. / Archivo desconocido omitido: turtle.mcfunction
+[2026-09-29T17:02:37.439793300] tv.json -> configuration
+[2026-09-29T17:02:37.445256600] tv.json moved to / se movio a configuration
+[2026-09-29T17:02:37.446265] tween.mcfunction -> unknown
+[2026-09-29T17:02:37.446265] Skipped unknown file. / Archivo desconocido omitido: tween.mcfunction
+[2026-09-29T17:02:37.447428] twenty_games.json -> configuration
+[2026-09-29T17:02:37.448959800] twenty_games.json moved to / se movio a configuration
+[2026-09-29T17:02:37.449982] uberhacker.json -> configuration
+[2026-09-29T17:02:37.451380300] uberhacker.json moved to / se movio a configuration
+[2026-09-29T17:02:37.451732700] Ukrainian.xml -> configuration
+[2026-09-29T17:02:37.452301900] Ukrainian.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.453311600] ultimateitem.mcfunction -> unknown
+[2026-09-29T17:02:37.453311600] Skipped unknown file. / Archivo desconocido omitido: ultimateitem.mcfunction
+[2026-09-29T17:02:37.453311600] ums_boot0.ini -> configuration
+[2026-09-29T17:02:37.454310200] ums_boot0.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.454310200] ums_boot1.ini -> configuration
+[2026-09-29T17:02:37.455311] ums_boot1.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.455311] ums_emmc.ini -> configuration
+[2026-09-29T17:02:37.457061400] ums_emmc.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.457375900] ums_emmc.scr.img -> disk_images
+[2026-09-29T17:02:37.457896100] ums_emmc.scr.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.457896100] ums_emmc_boot0.scr.img -> disk_images
+[2026-09-29T17:02:37.458904500] ums_emmc_boot0.scr.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.458904500] ums_emmc_boot1.scr.img -> disk_images
+[2026-09-29T17:02:37.459916700] ums_emmc_boot1.scr.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.460916300] ums_sd.bat -> executables
+[2026-09-29T17:02:37.460916300] ums_sd.bat moved to / se movio a executables
+[2026-09-29T17:02:37.461915800] ums_sd.ini -> configuration
+[2026-09-29T17:02:37.463282300] ums_sd.ini moved to / se movio a configuration
+[2026-09-29T17:02:37.463282300] ums_sd.scr.img -> disk_images
+[2026-09-29T17:02:37.466119300] ums_sd.scr.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.466119300] unknown.json -> configuration
+[2026-09-29T17:02:37.467131500] unknown.json moved to / se movio a configuration
+[2026-09-29T17:02:37.467131500] update.bin -> executables
+[2026-09-29T17:02:37.468708200] update.bin moved to / se movio a executables
+[2026-09-29T17:02:37.468708200] update.sample -> unknown
+[2026-09-29T17:02:37.469717900] Skipped unknown file. / Archivo desconocido omitido: update.sample
+[2026-09-29T17:02:37.469717900] USB_Devices.txt -> documents
+[2026-09-29T17:02:37.469717900] USB_Devices.txt moved to / se movio a documents
+[2026-09-29T17:02:37.471857600] V2.6_changes.txt -> documents
+[2026-09-29T17:02:37.473327200] V2.6_changes.txt moved to / se movio a documents
+[2026-09-29T17:02:37.473327200] vault_walker.py -> programming
+[2026-09-29T17:02:37.474337500] vault_walker.py moved to / se movio a programming
+[2026-09-29T17:02:37.475337800] vbmeta.img -> disk_images
+[2026-09-29T17:02:37.476337200] vbmeta.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.476337200] VDD.Control.25.7.23.zip -> archives
+[2026-09-29T17:02:37.477338800] VDD.Control.25.7.23.zip moved to / se movio a archives
+[2026-09-29T17:02:37.477338800] vendor_boot.img -> disk_images
+[2026-09-29T17:02:37.477338800] vendor_boot.img moved to / se movio a disk_images
+[2026-09-29T17:02:37.478850600] ventoy-1.1.17-windows.zip -> archives
+[2026-09-29T17:02:37.480086300] ventoy-1.1.17-windows.zip moved to / se movio a archives
+[2026-09-29T17:02:37.481609300] Ventura_13.0.1.iso -> disk_images
+[2026-09-29T17:02:37.484156900] Ventura_13.0.1.iso moved to / se movio a disk_images
+[2026-09-29T17:02:37.484156900] vhscomplete.json -> configuration
+[2026-09-29T17:02:37.485751200] vhscomplete.json moved to / se movio a configuration
+[2026-09-29T17:02:37.485751200] vhs_hazmatoff.json -> configuration
+[2026-09-29T17:02:37.486760800] vhs_hazmatoff.json moved to / se movio a configuration
+[2026-09-29T17:02:37.486760800] vhs_hazmaton.json -> configuration
+[2026-09-29T17:02:37.486760800] vhs_hazmaton.json moved to / se movio a configuration
+[2026-09-29T17:02:37.486760800] Video.txt -> documents
+[2026-09-29T17:02:37.488827300] Video.txt moved to / se movio a documents
+[2026-09-29T17:02:37.488827300] Vietnamese.xml -> configuration
+[2026-09-29T17:02:37.488827300] Vietnamese.xml moved to / se movio a configuration
+[2026-09-29T17:02:37.488827300] VirtualBox-7.2.16-174877-Win.exe -> executables
+[2026-09-29T17:02:37.491635700] VirtualBox-7.2.16-174877-Win.exe moved to / se movio a executables
+[2026-09-29T17:02:37.491635700] void.mcfunction -> unknown
+[2026-09-29T17:02:37.491635700] Skipped unknown file. / Archivo desconocido omitido: void.mcfunction
+[2026-09-29T17:02:37.492645200] warden.mcfunction -> unknown
+[2026-09-29T17:02:37.492645200] Skipped unknown file. / Archivo desconocido omitido: warden.mcfunction
+[2026-09-29T17:02:37.492645200] water_or_light.json -> configuration
+[2026-09-29T17:02:37.493644600] water_or_light.json moved to / se movio a configuration
+[2026-09-29T17:02:37.493644600] wearingboots1.json -> configuration
+[2026-09-29T17:02:37.494643600] wearingboots1.json moved to / se movio a configuration
+[2026-09-29T17:02:37.494643600] wearingboots2.json -> configuration
+[2026-09-29T17:02:37.495644600] wearingboots2.json moved to / se movio a configuration
+[2026-09-29T17:02:37.496515400] WhatsApp Image 2026-09-18 at 4.13.38 PM.jpeg -> images
+[2026-09-29T17:02:37.500044] WhatsApp Image 2026-09-18 at 4.13.38 PM.jpeg moved to / se movio a images
+[2026-09-29T17:02:37.500599200] win.mcfunction -> unknown
+[2026-09-29T17:02:37.501309200] Skipped unknown file. / Archivo desconocido omitido: win.mcfunction
+[2026-09-29T17:02:37.501309200] wincheck.mcfunction -> unknown
+[2026-09-29T17:02:37.502318300] Skipped unknown file. / Archivo desconocido omitido: wincheck.mcfunction
+[2026-09-29T17:02:37.502318300] windowsdesktop-runtime-8.0.31-win-x64.exe -> executables
+[2026-09-29T17:02:37.503323300] windowsdesktop-runtime-8.0.31-win-x64.exe moved to / se movio a executables
+[2026-09-29T17:02:37.503323300] WindowsUpdateLog.txt -> documents
+[2026-09-29T17:02:37.504327500] WindowsUpdateLog.txt moved to / se movio a documents
+[2026-09-29T17:02:37.504327500] Wired_Profiles.txt -> documents
+[2026-09-29T17:02:37.505317300] Wired_Profiles.txt moved to / se movio a documents
+[2026-09-29T17:02:37.505317300] Wired_Settings.txt -> documents
+[2026-09-29T17:02:37.507003900] Wired_Settings.txt moved to / se movio a documents
+[2026-09-29T17:02:37.507003900] without_on_remove_function.mcfunction -> unknown
+[2026-09-29T17:02:37.508026200] Skipped unknown file. / Archivo desconocido omitido: without_on_remove_function.mcfunction
+[2026-09-29T17:02:37.508026200] wlan-report-latest.cab -> unknown
+[2026-09-29T17:02:37.508026200] Skipped unknown file. / Archivo desconocido omitido: wlan-report-latest.cab
+[2026-09-29T17:02:37.508026200] wlan-report-latest.html -> programming
+[2026-09-29T17:02:37.509016] wlan-report-latest.html moved to / se movio a programming
+[2026-09-29T17:02:37.509016] xournalpp-mobile-1.1.11.apk -> executables
+[2026-09-29T17:02:37.510527] xournalpp-mobile-1.1.11.apk moved to / se movio a executables
+[2026-09-29T17:02:37.511062900] [Guru3D]-DDU.zip -> archives
+[2026-09-29T17:02:37.511062900] [Guru3D]-DDU.zip moved to / se movio a archives
+[2026-09-29T17:02:37.511062900] _For translators - ReadMe.txt -> documents
+[2026-09-29T17:02:37.512618200] _For translators - ReadMe.txt moved to / se movio a documents
+[2026-09-29T17:02:37.513313200] §e§lBy§6§lInfiniteXgg§d§l[v9.9.2]§f(24-09-2026).zip -> archives
+[2026-09-29T17:02:37.515911400] §e§lBy§6§lInfiniteXgg§d§l[v9.9.2]§f(24-09-2026).zip moved to / se movio a archives
