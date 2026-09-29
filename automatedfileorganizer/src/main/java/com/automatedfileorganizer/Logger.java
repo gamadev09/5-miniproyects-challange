@@ -32,13 +32,12 @@ public class Logger {
                 + System.lineSeparator()
             );
 
-        }catch(IOException e){
+        }catch(IOException | RuntimeException e){
 
             System.out.println(
                 "Cannot write log."
             );
 
-            e.printStackTrace();
         }
     }
 }

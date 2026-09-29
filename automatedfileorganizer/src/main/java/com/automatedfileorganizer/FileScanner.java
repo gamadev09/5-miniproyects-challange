@@ -21,37 +21,45 @@ public class FileScanner {
 
     public void scan(String path){
 
+        if(path == null || path.isBlank()){
+            report("Path cannot be empty. / La ruta no puede estar vacía.");
+            return;
+        }
+
         File directory = new File(path);
 
-        if(!directory.exists()){
+        try {
+            if(!directory.exists()){
 
-            String message =
-                "Directory does not exist. / El directorio no existe.";
+                report("Directory does not exist. / El directorio no existe.");
+                return;
+            }
 
-            System.out.println(message);
-            logger.write(message);
+            if(!directory.isDirectory()){
 
-            return;
+                report("Path is not a directory. / La ruta no es un directorio.");
+                return;
+            }
+
+            scanDirectory(directory);
+
+        } catch (RuntimeException e) {
+
+            report("Cannot access directory. / No se puede acceder al directorio.", e);
         }
-
-        if(!directory.isDirectory()){
-
-            String message =
-                "Path is not a directory. / La ruta no es un directorio.";
-
-            System.out.println(message);
-            logger.write(message);
-
-            return;
-        }
-
-        scanDirectory(directory);
     }
 
 
     private void scanDirectory(File directory){
 
-        File[] files = directory.listFiles();
+        File[] files;
+
+        try {
+            files = directory.listFiles();
+        } catch (RuntimeException e) {
+            report("Cannot read directory. / No se puede leer el directorio.", e);
+            return;
+        }
 
         if(files == null){
 
@@ -67,27 +75,44 @@ public class FileScanner {
 
         for(File file : files){
 
-            if(file.isDirectory()){
+            try {
+                if(file.isDirectory()){
 
-                if(file.getName().equals("logs")){
-                    continue;
+                    if(file.getName().equals("logs")){
+                        continue;
+                    }
+
+                    scanDirectory(file);
+
                 }
+                else if(file.isFile()){
 
-                scanDirectory(file);
+                    String category = mapper.getCategory(file);
 
-            }
-            else if(file.isFile()){
+                    String message =
+                        file.getName() + " -> " + category;
 
-                String category = mapper.getCategory(file);
+                    System.out.println(message);
+                    logger.write(message);
 
-                String message =
-                    file.getName() + " -> " + category;
-
-                System.out.println(message);
-                logger.write(message);
-
-                organizer.organize(file, category);
+                    organizer.organize(file, category);
+                }
+            } catch (RuntimeException e) {
+                report("Cannot process file. / No se puede procesar el archivo.", e);
             }
         }
+    }
+
+    private void report(String message){
+        report(message, null);
+    }
+
+    private void report(String message, RuntimeException exception){
+        System.out.println(message);
+        logger.write(
+            exception == null
+                ? message
+                : message + " " + exception.getMessage()
+        );
     }
 }

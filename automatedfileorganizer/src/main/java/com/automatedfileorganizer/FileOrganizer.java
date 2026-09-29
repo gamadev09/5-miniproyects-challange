@@ -15,6 +15,11 @@ public class FileOrganizer {
 
     public void organize(File file, String category){
 
+        if(file == null || category == null || category.isBlank()){
+            report("Cannot organize an invalid file or category.");
+            return;
+        }
+
         if("unknown".equals(category)){
 
             String message =
@@ -48,8 +53,19 @@ public class FileOrganizer {
         );
 
 
-        if(!categoryFolder.exists()){
-            categoryFolder.mkdirs();
+        try {
+            if(!categoryFolder.exists() && !categoryFolder.mkdirs()){
+                report("Cannot create category folder: " + category);
+                return;
+            }
+
+            if(!categoryFolder.isDirectory()){
+                report("Category path is not a directory: " + category);
+                return;
+            }
+        } catch (RuntimeException e) {
+            report("Cannot access category folder: " + category, e);
+            return;
         }
 
 
@@ -90,7 +106,7 @@ public class FileOrganizer {
             logger.write(message);
 
 
-        } catch (IOException e){
+        } catch (IOException | RuntimeException e){
 
             String message =
                 "Cannot move / No se puede mover: "
@@ -100,7 +116,17 @@ public class FileOrganizer {
             System.out.println(message);
             logger.write(message);
 
-            logger.write(e.getMessage());
+            logger.write(e.getMessage() == null ? e.getClass().getSimpleName() : e.getMessage());
         }
+    }
+
+    private void report(String message){
+        System.out.println(message);
+        logger.write(message);
+    }
+
+    private void report(String message, RuntimeException exception){
+        System.out.println(message);
+        logger.write(message + " " + exception.getMessage());
     }
 }
