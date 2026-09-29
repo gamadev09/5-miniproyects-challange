@@ -14,10 +14,14 @@ public class ConfigLoader {
 
         ObjectMapper mapper = new ObjectMapper();
 
-        File file = new File("config/categories.json");
+        File file = findCategoriesFile();
 
-        System.out.println("Path: " + file.getAbsolutePath());
-        System.out.println("Exists: " + file.exists());
+        if(file == null){
+            System.out.println(
+                "The .json config file is not available."
+            );
+            return Map.of();
+        }
 
         try {
             return mapper.readValue(
@@ -25,11 +29,29 @@ public class ConfigLoader {
                 new TypeReference<Map<String, List<String>>>() {}
             );
 
-        } catch (IOException e) {
-            System.out.println("Cannot load categories file.");
-            e.printStackTrace();
+        } catch (IOException | RuntimeException e) {
+            System.out.println("The .json config file is not available.");
         }
 
         return Map.of();
+    }
+
+    private File findCategoriesFile(){
+        File[] candidates = {
+            new File("config/categories.json"),
+            new File("automatedfileorganizer/config/categories.json")
+        };
+
+        for(File candidate : candidates){
+            try {
+                if(candidate.isFile()){
+                    return candidate;
+                }
+            } catch (RuntimeException e) {
+                // Try the next known project location.
+            }
+        }
+
+        return null;
     }
 }

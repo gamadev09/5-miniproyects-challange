@@ -4,55 +4,90 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Main{
+public class main {
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
-
-        ConfigLoader loader = new ConfigLoader();
-        Map<String, List<String>> categories = loader.loadCategories();
-
-        ExtensionMapper mapper = new ExtensionMapper(categories);
-
         Logger logger = new Logger();
 
-        FileOrganizer organizer = new FileOrganizer(logger);
-
-        FileScanner scanner = new FileScanner(
-            mapper,
-            organizer,
-            logger
-        );
-
-        String directory;
-        
-        System.out.println("Automated File Organization");
-        System.out.println("Please select:");
-        System.out.println("1. English");
-        System.out.println("2. Spanish");
-
-        int language = input.nextInt();
-        input.nextLine();
-        
-        switch(language){
-
-            case 1:
-                System.out.println("Please write your path to order");
-                directory = input.nextLine();
-                scanner.scan(directory);
-            break;
-
-            case 2:
-                System.out.println("Porfavor ingresa el directorio a ordenar");
-                directory = input.nextLine();
-                scanner.scan(directory);
-            break;
-
-            default:
-                System.out.println("Invalid option/Opción Inválida");
-            break;
+        try {
+            ConfigLoader loader = new ConfigLoader();
+            Map<String, List<String>> categories = loader.loadCategories();
+            ExtensionMapper mapper = new ExtensionMapper(categories);
+            FileOrganizer organizer = new FileOrganizer(logger);
+            FileScanner scanner = new FileScanner(mapper, organizer, logger);
+            runOrganizer(input, scanner, logger);
+        } catch (Exception exception) {
+            reportError(
+                "Unexpected application error. / Error inesperado de la aplicación.",
+                exception,
+                logger
+            );
+        } finally {
+            input.close();
         }
-            
-        input.close();
+    }
+
+    private static void runOrganizer(Scanner input, FileScanner scanner, Logger logger) {
+        boolean running = true;
+
+        while (running && input.hasNextLine()) {
+            try {
+                System.out.println("Automated File Organization");
+                System.out.println("Please select:");
+                System.out.println("1. English");
+                System.out.println("2. Spanish");
+
+                String languageInput = input.nextLine().trim();
+                int language;
+
+                try {
+                    language = Integer.parseInt(languageInput);
+                } catch (NumberFormatException exception) {
+                    System.out.println("Invalid option/Opción Inválida. Enter 1 or 2.");
+                    continue;
+                }
+
+                if (language != 1 && language != 2) {
+                    System.out.println("Invalid option/Opción Inválida. Enter 1 or 2.");
+                    continue;
+                }
+
+                System.out.println(language == 1
+                    ? "Please write your path to order"
+                    : "Porfavor ingresa el directorio a ordenar");
+
+                if (!input.hasNextLine()) {
+                    break;
+                }
+
+                String directory = input.nextLine().trim();
+                if (directory.isEmpty()) {
+                    System.out.println("The path cannot be empty. / La ruta no puede estar vacía.");
+                    continue;
+                }
+
+                scanner.scan(directory);
+                System.out.println("Action finished. Press Enter to organize another path or type exit.");
+
+                if (!input.hasNextLine()) {
+                    break;
+                }
+
+                running = !"exit".equalsIgnoreCase(input.nextLine().trim());
+            } catch (Exception exception) {
+                reportError(
+                    "The action failed, but the program is still running. / "
+                        + "La acción falló, pero el programa continúa ejecutándose.",
+                    exception,
+                    logger
+                );
+            }
+        }
+    }
+
+    private static void reportError(String message, Exception exception, Logger logger) {
+        System.out.println(message);
+        String details = exception.getMessage();
+        logger.write(message + (details == null ? "" : " " + details));
     }
 }
