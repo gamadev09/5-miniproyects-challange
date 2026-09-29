@@ -35,7 +35,19 @@
         ".flv",
         ".ts",
         ".mts",
-        ".m2ts"
+        ".m2ts",
+        ".mxf",
+        ".r3d",
+        ".braw",
+        ".ari",
+        ".cin",
+        ".dpx",
+        ".exr",
+        ".m2v",
+        ".vob",
+        ".ogv",
+        ".amf",
+        ".avc"
     ],
 
     "music": [
@@ -50,7 +62,13 @@
         ".aiff",
         ".alac",
         ".mid",
-        ".midi"
+        ".midi",
+        ".aif",
+        ".caf",
+        ".au",
+        ".snd",
+        ".ac3",
+        ".mka"
     ],
 
     "documents": [
@@ -63,7 +81,14 @@
         ".md",
         ".tex",
         ".epub",
-        ".mobi"
+        ".mobi",
+        ".pages",
+        ".numbers",
+        ".key",
+        ".pages-tef",
+        ".xps",
+        ".djvu",
+        ".wps"
     ],
 
     "spreadsheets": [
@@ -101,6 +126,31 @@
         ".ts",
         ".jsx",
         ".tsx",
+        ".mjs",
+        ".cjs",
+        ".vue",
+        ".svelte",
+        ".astro",
+        ".wasm",
+        ".asm",
+        ".pl",
+        ".pm",
+        ".ps1",
+        ".gradle",
+        ".groovy",
+        ".m",
+        ".mm",
+        ".fs",
+        ".fsx",
+        ".vb",
+        ".hs",
+        ".ex",
+        ".exs",
+        ".erl",
+        ".hrl",
+        ".clj",
+        ".cljs",
+        ".vim",
         ".html",
         ".css",
         ".scss",
@@ -120,7 +170,19 @@
         ".lua",
         ".r",
         ".sql",
-        ".graphql"
+        ".graphql",
+        ".proto",
+        ".ipynb",
+        ".tf",
+        ".hcl",
+        ".dockerfile",
+        ".lock",
+        ".map",
+        ".sln",
+        ".csproj",
+        ".vcxproj",
+        ".xcodeproj",
+        ".xcworkspace"
     ],
 
     "configuration": [
@@ -147,18 +209,121 @@
         ".apk",
         ".app",
         ".deb",
-        ".rpm"
+        ".rpm",
+        ".pkg",
+        ".msix",
+        ".appimage",
+        ".run",
+        ".bin"
     ],
 
     "design": [
         ".psd",
         ".psb",
         ".ai",
+        ".ait",
         ".eps",
         ".indd",
+        ".indt",
+        ".idml",
         ".xd",
         ".fig",
-        ".sketch"
+        ".sketch",
+        ".afdesign",
+        ".afphoto",
+        ".afpub",
+        ".kra",
+        ".ora",
+        ".clip",
+        ".csp",
+        ".xcf",
+        ".procreate",
+        ".brushset",
+        ".abr",
+        ".ase",
+        ".aco",
+        ".atn",
+        ".csh",
+        ".pat",
+        ".asl",
+        ".svgz"
+    ],
+
+    "adobe": [
+        ".aep",
+        ".aet",
+        ".prproj",
+        ".prel",
+        ".mogrt",
+        ".sesx",
+        ".cfa",
+        ".pek",
+        ".psdt",
+        ".inlk",
+        ".indb",
+        ".indl",
+        ".indp",
+        ".indn",
+        ".lrcat",
+        ".lrtemplate",
+        ".lrprev",
+        ".acr",
+        ".emf",
+        ".swf",
+        ".fla",
+        ".f4v"
+    ],
+
+    "avid": [
+        ".avb",
+        ".avp",
+        ".avd",
+        ".avf",
+        ".ale",
+        ".flex",
+        ".pmr",
+        ".avb2"
+    ],
+
+    "renewed_vision": [
+        ".pix",
+        ".piz",
+        ".pzs",
+        ".pzb",
+        ".pza",
+        ".pzc",
+        ".pvp",
+        ".pvs",
+        ".proshow",
+        ".pxc"
+    ],
+
+    "video_editing": [
+        ".drp",
+        ".dra",
+        ".fcpxml",
+        ".fcpevent",
+        ".fcpbundle",
+        ".fcp-project",
+        ".veg",
+        ".vf"
+    ],
+
+    "audio_production": [
+        ".als",
+        ".alp",
+        ".flp",
+        ".logicx",
+        ".rpp",
+        ".sesx",
+        ".ptx",
+        ".ptf",
+        ".cpr",
+        ".npr",
+        ".bwav",
+        ".rex",
+        ".rxdoc",
+        ".soundpack"
     ],
 
     "fonts": [
@@ -195,7 +360,19 @@
         ".dae",
         ".3ds",
         ".gltf",
-        ".glb"
+        ".glb",
+        ".3dm",
+        ".max",
+        ".ma",
+        ".mb",
+        ".c4d",
+        ".lwo",
+        ".lws",
+        ".usd",
+        ".usda",
+        ".usdc",
+        ".usdz",
+        ".abc"
     ],
 
     "cad": [
@@ -255,5 +432,24 @@
         ".fits",
         ".nc",
         ".parquet"
+    ],
+
+    "development": [
+        ".gitignore",
+        ".gitattributes",
+        ".editorconfig",
+        ".npmrc",
+        ".nvmrc",
+        ".env.local",
+        ".env.example",
+        ".prettierrc",
+        ".eslintrc",
+        ".babelrc",
+        ".htaccess",
+        ".mod",
+        ".sum",
+        ".csx",
+        ".mvn",
+        ".pom"
     ]
 }
