@@ -68,8 +68,7 @@ public class FileExtractor {
 
                     Files.move(
                         file.toPath(),
-                        destination.toPath(),
-                        StandardCopyOption.REPLACE_EXISTING
+                        destination.toPath()
                     );
 
 
