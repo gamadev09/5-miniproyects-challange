@@ -36,11 +36,11 @@ public class main {
         while (running && input.hasNextLine()) 
             {
             try {
-
+                System.out.println("Please enter the path to organize your files. | Por favor ingrese la ruta para organizar sus archivos.");
                 String directory = input.nextLine().trim();
                 if (directory.isEmpty()) 
                 {
-                    System.out.println("The path cannot be empty. / La ruta no puede estar vacía.");
+                    System.out.println("The path cannot be empty. | La ruta no puede estar vacía.");
                     continue;
                 }
 
@@ -56,7 +56,7 @@ public class main {
             } catch (Exception exception) 
             {
                 reportError(
-                    "The action failed, but the program is still running. / "
+                    "The action failed, but the program is still running. | "
                         + "La acción falló, pero el programa continúa ejecutándose.",
                     exception,
                     logger
