@@ -1,5 +1,5 @@
 {
-    "images": [
+    "Images": [
         ".jpg",
         ".jpeg",
         ".png",
@@ -21,7 +21,7 @@
         ".dng"
     ],
 
-    "videos": [
+    "Videos": [
         ".mp4",
         ".mkv",
         ".avi",
@@ -451,5 +451,12 @@
         ".csx",
         ".mvn",
         ".pom"
+    ],
+    "Lyric": [
+        ".lrc",
+        ".kfn",
+        ".kar",
+        ".txt",
+        ".ttml"
     ]
 }

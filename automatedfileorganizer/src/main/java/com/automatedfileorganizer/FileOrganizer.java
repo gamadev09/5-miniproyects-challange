@@ -15,12 +15,13 @@ public class FileOrganizer {
 
     public void organize(File file, String category){
 
-        if(file == null || category == null || category.isBlank()){
+        if (file == null || category == null || category.isBlank())
+        {
             report("Cannot organize an invalid file or category.");
             return;
         }
 
-        if("unknown".equals(category)){
+        if ("unknown".equals(category)){
 
             String message =
                 "Skipped unknown file. / Archivo desconocido omitido: "
@@ -34,7 +35,7 @@ public class FileOrganizer {
 
         File parentFolder = file.getParentFile();
 
-        if(parentFolder == null){
+        if                                                                                                                                             (parentFolder == null){
 
             String message =
                 "Cannot find parent folder: "

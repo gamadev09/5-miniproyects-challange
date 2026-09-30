@@ -13,7 +13,8 @@ public class FileScanner {
         ExtensionMapper mapper,
         FileOrganizer organizer,
         Logger logger
-    ){
+    )
+    {
         this.mapper = Objects.requireNonNull(mapper);
         this.organizer = Objects.requireNonNull(organizer);
         this.logger = Objects.requireNonNull(logger);
@@ -21,23 +22,25 @@ public class FileScanner {
 
     public void scan(String path){
 
-        if(path == null || path.isBlank()){
-            report("Path cannot be empty. / La ruta no puede estar vacía.");
+        if (path == null || path.isBlank()){
+            report("Path cannot be empty. | La ruta no puede estar vacía.");
             return;
         }
 
         File directory = new File(path);
 
-        try {
-            if(!directory.exists()){
-
-                report("Directory does not exist. / El directorio no existe.");
+        try 
+        {
+            if (!directory.exists())
+            {
+                report("Directory does not exist. | El directorio no existe.");
                 return;
             }
 
-            if(!directory.isDirectory()){
+            if (!directory.isDirectory())
+            {
 
-                report("Path is not a directory. / La ruta no es un directorio.");
+                report("Path is not a directory. | La ruta no es un directorio.");
                 return;
             }
 
@@ -45,7 +48,7 @@ public class FileScanner {
 
         } catch (RuntimeException e) {
 
-            report("Cannot access directory. / No se puede acceder al directorio.", e);
+            report("Cannot access directory. | No se puede acceder al directorio.", e);
         }
     }
 
@@ -54,17 +57,18 @@ public class FileScanner {
 
         File[] files;
 
-        try {
+        try 
+        {
             files = directory.listFiles();
         } catch (RuntimeException e) {
-            report("Cannot read directory. / No se puede leer el directorio.", e);
+            report("Cannot read directory. | No se puede leer el directorio.", e);
             return;
         }
 
-        if(files == null){
+        if (files == null){
 
             String message =
-                "Cannot read directory. / No se puede leer el directorio.";
+                "Cannot read directory. | No se puede leer el directorio.";
 
             System.out.println(message);
             logger.write(message);
@@ -73,12 +77,13 @@ public class FileScanner {
         }
 
 
-        for(File file : files){
+        for (File file : files){
 
-            try {
-                if(file.isDirectory()){
+            try 
+            {
+                if (file.isDirectory()){
 
-                    if(file.getName().equals("logs")){
+                    if (file.getName().equals("logs")){
                         continue;
                     }
 
@@ -97,7 +102,9 @@ public class FileScanner {
 
                     organizer.organize(file, category);
                 }
-            } catch (RuntimeException e) {
+            } 
+            catch (RuntimeException e) 
+            {
                 report("Cannot process file. / No se puede procesar el archivo.", e);
             }
         }
@@ -107,7 +114,8 @@ public class FileScanner {
         report(message, null);
     }
 
-    private void report(String message, RuntimeException exception){
+    private void report(String message, RuntimeException exception)
+    {
         System.out.println(message);
         logger.write(
             exception == null

@@ -16,13 +16,16 @@ public class main {
             FileOrganizer organizer = new FileOrganizer(logger);
             FileScanner scanner = new FileScanner(mapper, organizer, logger);
             runOrganizer(input, scanner, logger);
-        } catch (Exception exception) {
-            reportError(
+        } catch (Exception exception) 
+        {
+            reportError
+            (
                 "Unexpected application error. / Error inesperado de la aplicación.",
                 exception,
                 logger
             );
-        } finally {
+        } finally 
+        {
             input.close();
         }
     }
@@ -30,51 +33,28 @@ public class main {
     private static void runOrganizer(Scanner input, FileScanner scanner, Logger logger) {
         boolean running = true;
 
-        while (running && input.hasNextLine()) {
+        while (running && input.hasNextLine()) 
+            {
             try {
-                System.out.println("Automated File Organization");
-                System.out.println("Please select:");
-                System.out.println("1. English");
-                System.out.println("2. Spanish");
-
-                String languageInput = input.nextLine().trim();
-                int language;
-
-                try {
-                    language = Integer.parseInt(languageInput);
-                } catch (NumberFormatException exception) {
-                    System.out.println("Invalid option/Opción Inválida. Enter 1 or 2.");
-                    continue;
-                }
-
-                if (language != 1 && language != 2) {
-                    System.out.println("Invalid option/Opción Inválida. Enter 1 or 2.");
-                    continue;
-                }
-
-                System.out.println(language == 1
-                    ? "Please write your path to order"
-                    : "Porfavor ingresa el directorio a ordenar");
-
-                if (!input.hasNextLine()) {
-                    break;
-                }
 
                 String directory = input.nextLine().trim();
-                if (directory.isEmpty()) {
+                if (directory.isEmpty()) 
+                {
                     System.out.println("The path cannot be empty. / La ruta no puede estar vacía.");
                     continue;
                 }
 
                 scanner.scan(directory);
-                System.out.println("Action finished. Press Enter to organize another path or type exit.");
+                System.out.println("We finished orginizing your files. Press Enter to organize another path or type exit.");
 
-                if (!input.hasNextLine()) {
+                if (!input.hasNextLine()) 
+                {
                     break;
                 }
 
                 running = !"exit".equalsIgnoreCase(input.nextLine().trim());
-            } catch (Exception exception) {
+            } catch (Exception exception) 
+            {
                 reportError(
                     "The action failed, but the program is still running. / "
                         + "La acción falló, pero el programa continúa ejecutándose.",
@@ -85,7 +65,8 @@ public class main {
         }
     }
 
-    private static void reportError(String message, Exception exception, Logger logger) {
+    private static void reportError(String message, Exception exception, Logger logger) 
+    {
         System.out.println(message);
         String details = exception.getMessage();
         logger.write(message + (details == null ? "" : " " + details));
